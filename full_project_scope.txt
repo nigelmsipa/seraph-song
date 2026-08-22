@@ -1,0 +1,63 @@
+SERAPH SONG - FULL PROJECT SCOPE
+================================
+
+Seraph Song is NOT just a Bible project. It's a sacred music practice —
+making any serious text sacred-able using the Sacred-able Method.
+
+COMPLETED OR IN PROGRESS:
+
+BIBLE (KJV — word-for-word rendition):
+- Genesis (60 songs) — done, needs improvement
+- Exodus (52 songs) — done
+- Leviticus / Lev 3 (45 songs) — done
+- Numbers / Numbers 2 (43 songs) — done
+- Deuteronomy (88 songs in Deutronomy 2) — done but needs redo (style map v2 ready)
+- Joshua (1 song) — just started
+
+THEOLOGY / DEVOTIONAL LITERATURE:
+- Steps to Christ (70 songs + Steps to Christ II 29 songs) — devotional
+- Communicative Rationality (not finished) — Habermas / philosophy
+- Against the Third Reich (in progress) — anti-fascist theology
+- Works of Love (21 + 15 + 3 songs) — Kierkegaard
+- Come Holy Spirit (88 songs) — Karl Barth
+- Epistle to the Romans (currently working on) — Karl Barth
+- Revelation Commentary (planned)
+- Biblical Exegesis Commentary (planned)
+
+SUNO WORKSPACES (all projects):
+- My Workspace (667 songs) — main
+- Beats (575 songs) — beat production
+- ETTR (86 songs) — ?
+- Come Holy Spirit (88 songs) — Barth
+- Joshua (1 song) — Bible
+- Deutronomy 2 (88 songs) — Bible (redo needed)
+- co (18 songs) — Communicative Rationality?
+- Judge for yourself (33 songs) — ?
+- Communicative (57 songs) — Habermas?
+- Jasper (12 songs) — ?
+- Revelation Beat (139 songs) — Revelation beats
+- Random (9 songs) — experiments
+- ATTR (96 songs) — Against the Third Reich
+- Genesis (60) + Genesis Beats (20) + Genesis Blitz (18) + Gen 2 (0) — Bible
+- Steps to Christ (70) + Steps to Christ II (29) — devotional
+- Stem (75 songs) — stems/extraction
+- Numbers 2 (43) + Numbers 3 (62) + Numbers instrumentals (181) + Numbers 0 (38) — Bible
+- Polaris (127 songs) — beat library
+- Bible Memory Method (20 songs) — structural framework
+- Deutronomy (9 songs) — early Deuteronomy
+- WORKS OF lOVE (21) + Works of Love (15) + Works Of Love (3) — Kierkegaard
+- new being (1 song) — ?
+- Exodus (52) + Exodus 2 (12) — Bible
+- Lev 3 (45) — Leviticus
+- Zecheriah (30 songs) — Bible
+- against 3rd (0 songs) — Against the Third Reich (empty?)
+
+VISION:
+The project treats all sacred and serious text as hevel — breath, fleeting —
+and catches it in music before it's gone. Bible, theology, philosophy, devotionals —
+all of it can be made sacred-able. The beat carries it, the choir elevates it,
+and the banger test decides if it stays.
+
+The Memory Method Bible framework (296 stories, 7,962 scenes across all 66 books)
+provides the structural foundation for the Bible portion. Other texts use their own
+chapter/section divisions, chunked to fit Suno's ~4000 character limit.
