@@ -1,0 +1,78 @@
+THE SACRED DRAKE METHOD - BEAT WORKFLOW
+=========================================
+
+PSYCHOANALYSIS: The user is a "folk hopper" — lives in the tension between folk warmth (handpans, acoustic guitar) and hip-hop beats (lo-fi, trap, trip hop). The golden tool isn't one perfect beat — it's any beat that sits in the folk-hop intersection: warm enough to be sacred, heavy enough to be a banger.
+
+SACRED DRAKE: Take ANY source material (classical, trap, lo-fi, handpan, cinematic, other people's Suno songs) and transform it into something sacred. The source doesn't matter as long as the beat hits. Baptize the beat.
+
+WORKFLOW:
+1. Collect beats from anywhere — "collecting stones like Dinos"
+   - Search Suno for other people's songs with good beats
+   - Any genre is fair game: classical, trap, lo-fi, ambient, folk
+   - The only filter: does the beat grab your ear?
+2. Cover/transform the beat with a sacred style tag
+   - ":( horror x trip hop ): alone & scared" (dark sacred)
+   - "angelic choir, soft pads, ethereal..." (bright sacred)
+   - "sacred hymn, countertenor..." (priestly sacred)
+   - The transformation makes it usable for scripture
+3. Banger test — does it still hit after being made sacred?
+4. Feed the sacred beat into a Bible chunk with lyrics
+5. If it hits — it's a banger. If not — iterate or find a new beat
+
+BEAT SOURCING AVENUES:
+A. Suno search — find other people's songs, cover them (NEW MAIN AVENUE)
+   - Suno allows searching other users' creations
+   - Find a beat that grabs you, transform it to angelic choir
+   - "Now it's usable"
+B. Existing uploads — beats already in Polaris and other workspaces
+   - Can't upload new YouTube beats anymore (Suno cracked down)
+   - What's there is there
+C. Generate from scratch — hardest path, rarely hits
+   - Suno's beat generation is inconsistent
+   - The beat is what carries the song — if it doesn't hit, nothing works
+
+POLARIS BEAT LIBRARY (what grabs the ear):
+FOLK:
+- Let's play handpan (88 BPM, fingerstyle guitar)
+- Golden Heart / Malte Marten handpan (104 BPM, D major)
+
+LO-FI HOP:
+- Kainbeats - While Were Here (85 BPM, Rhodes, vinyl crackle, rain)
+- Kainbeats - moths to a flame (lo-fi)
+- LUXID AXID & Late Night Tones - missing you (melancholic piano)
+
+CINEMATIC AMBIENT (no percussion):
+- Stargazing (minor key, ethereal pad, no percussion)
+- Meteor Shower (melancholic piano, arpeggiated, strings)
+
+ORIGINALS (C4C):
+- C4C - joy of serving
+- C4C - What You Love
+- C4C - Grasslands
+- C4C & chief. - Never the Same
+- Gone, but Not Forgotten
+- Imperfect
+- Cherie
+- You Should Be a Monster (Instrumental)
+- Grace (Instrumental)
+
+COVERED (sacred transformations):
+- Jesu, Joy of Mans Desiring (Tabernacle Choir) x4 — "horror x trip hop"
+- Jordan Peterson - Heaven And Hell x2 — "horror x trip hop"
+- Genesis 1 KJV Angelic Choir (Instrumental) x5 — "horror x trip hop"
+
+PATTERN: Every cover uses ":( horror x trip hop ): alone & scared" — this is the dark baptism tag. It takes secular/classical content and makes it sacred and dark. The contrast between the source (Bach, Peterson, angelic choir) and the transformation (horror trip hop) creates the tension that makes it hit.
+
+FOR DEUTERONOMY: Need ~43 beats (one per chunk) that hit across different styles:
+- Reflective/narrative chunks: lo-fi hop beats (85 BPM range)
+- Sacred/law chunks: handpan or harp-based beats (70-76 BPM)
+- Battle/conflict chunks: trap or trip hop beats (78+ BPM)
+- Dark curse chunks: horror trip hop (60-70 BPM, descending)
+- Climactic chunks: building cinematic beats (74-76 BPM)
+- The beat must crush in every single one
+
+CONSTRAINTS:
+- Can't upload new YouTube beats (Suno cracked down)
+- Can search and cover other Suno users' songs (main avenue now)
+- KJV lyrics use underscores to bypass copyright filters
+- What's uploaded is what's available — no new uploads
