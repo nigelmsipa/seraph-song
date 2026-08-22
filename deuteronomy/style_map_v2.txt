@@ -1,0 +1,205 @@
+DEUTERONOMY STYLE MAP v2 - ALL 43 CHUNKS
+=========================================
+Modeled after Numbers (the gold standard)
+North Star: IS IT A BANGER? Forget genre fit. Forget being on the nose.
+Err toward: angelic choir, boy choir, countertenor, sacred hymn
+Keep lo-fi folk where it earns its place — but not as a default
+The beat must crush in every single chunk
+
+FORMAT: CHUNK # | CHAPTER/PART | STYLE NAME | STYLE TAG | WHY
+
+=====================================================================
+STORY A: HISTORICAL RETELLING (Chunks 1-7)
+=====================================================================
+
+CHUNK 1 | Ch 1 Pt 1 of 2 | ANGELIC CHOIR
+"angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic, 76 BPM, rhythmic speech interludes, fingerpicked acoustic guitar, hand drum pulse"
+WHY: Opening of the book — needs to hit immediately. Not a quiet folk start. The angelic choir announces "these are the words Moses spoke." Spoken interludes over the choir for Moses' direct speech, then the choir swells. The beat carries it from verse one.
+
+CHUNK 2 | Ch 1 Pt 2 of 2 | BOY CHOIR
+"boy choir, dramatic, minor key, building tension, frame drum, low strings, urgent, cinematic, 78 BPM"
+WHY: Rebellion, spies, defeat, chased like bees. The boy choir gives it an eerie, haunting tension — innocent voices over dark content. The frame drum drives the urgency. This is conflict and failure, not gentle narration.
+
+CHUNK 3 | Ch 2 Pt 1 of 2 | LO-FI FOLK
+"lo-fi folk, devotional spoken word, 74 BPM, rhythmic speech, fingerpicked acoustic guitar, brushed cajón, bowed double bass, hand drum pulse, unison chapel choir, wordless male chants, cathedral reverb, tape saturation, vinyl crackle, sparse-to-dense build, minor key, reflective solemnity"
+WHY: 38 years of wandering, a generation dies off. THIS is where lo-fi folk earns its place — the long, weary road. The weight of decades. The choir hums like a funeral drone. No other style captures this specific weariness.
+
+CHUNK 4 | Ch 2 Pt 2 of 2 | SACRED HYMN
+"sacred hymn, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, gentle strings, oboe, warm cello, resolving harmony, slow build to powerful climax, wide stereo, compressed vocals, D minor, 78 BPM"
+WHY: Sihon defeated — first conquest, God delivers. The countertenor over concert harp makes the victory feel divine, not military. The beat drives but the harp keeps it sacred. "The LORD our God delivered him before us."
+
+CHUNK 5 | Ch 3 Pt 1 of 1 | ANGELIC CHOIR
+"angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic, 70 BPM, with low cello drone and hand drum, building to grand climax, then fading to sparse"
+WHY: Og defeated AND Moses' plea to cross the Jordan. The angelic choir for divine victory, then it thins out for Moses' prayer — "O Lord GOD, let me cross over." The choir lingers as God says no. The contrast between triumph and denial in one chunk.
+
+CHUNK 6 | Ch 4 Pt 1 of 2 | SACRED HARP MEDITATION
+"sacred harp meditation, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, arpeggios, solo cello, sustained tones, warm reverb, gentle dynamics, spacious mix, compressed vocals, 64 BPM"
+WHY: Statutes, Horeb, the fire on the mountain, warning against idols. The harp meditation creates awe — "the mountain burned with fire to the midst of heaven." 64 BPM, slow, heavy, the weight of the law. Countertenor for the sacred warning.
+
+CHUNK 7 | Ch 4 Pt 2 of 2 | ETHEREAL CHOIR
+"Ethereal choir, shimmering, soprano layers, reverb, atmospheric, holy, with low sustained cello and frame drum pulse, 70 BPM"
+WHY: Scattering among nations, but mercy — "seek the LORD and you will find him." Cities of refuge. The soprano layers shimmer over the warning. The frame drum keeps a pulse so it doesn't float away. Ends Story A with both threat and hope.
+
+=====================================================================
+STORY B: HEART OF THE COVENANT (Chunks 8-15)
+=====================================================================
+
+CHUNK 8 | Ch 5 Pt 1 of 1 | ETHEREAL CHORAL
+"ethereal choral, sacred ambient, orchestral worship, angelic vocals, soprano, heavenly strings, reverb, cinematic biblical, harp, celestial choir, 70 BPM, with deep frame drum and low brass for the fire and darkness"
+WHY: THE TEN COMMANDMENTS. God speaking from the fire. This must be the most overwhelming chunk in the book. Full ethereal choral — the people are terrified. "The mountain burned with fire... darkness, clouds, thick darkness." The frame drum and low brass give it weight and terror, not just beauty.
+
+CHUNK 9 | Ch 6 Pt 1 of 1 | ANGELIC CHOIR
+"angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic, 74 BPM, intimate, tender, with fingerpicked guitar and warm cello"
+WHY: THE SHEMA. "Hear O Israel, the LORD our God is one LORD." The most sacred prayer. The angelic choir but intimate and tender — not thundering like the Ten Commandments. Fingerpicked guitar and warm cello make it personal. "You shall love the LORD your God with all your heart." Then the beat builds for the warning about forgetting.
+
+CHUNK 10 | Ch 7 Pt 1 of 1 | BOY CHOIR
+"boy choir, reverent, building, holy, with concert harp and low strings, 74 BPM, then shifting to urgent with frame drum for the warning passages"
+WHY: "You are a holy people, chosen in love." The boy choir for the blessing of election — pure, innocent. Then the warning: "destroy their altars, break their images" — the frame drum enters, the boy choir gets urgent. The contrast between tender election and violent obedience.
+
+CHUNK 11 | Ch 8 Pt 1 of 1 | LO-FI FOLK
+"lo-fi folk, devotional spoken word, 74 BPM, rhythmic speech, fingerpicked acoustic guitar, brushed cajón, bowed double bass, hand drum pulse, unison chapel choir, wordless male chants, cathedral reverb, tape saturation, vinyl crackle, sparse-to-dense build, call-and-response refrains, minor key, reflective solemnity"
+WHY: "Remember all the way the LORD led you." Manna, the wilderness, the good land. This is Moses REMEMBERING — intimate, reflective, the old man recalling 40 years. "Man does not live by bread alone." The lo-fi folk earns its place here because this is personal memory, not law or battle.
+
+CHUNK 12 | Ch 9 Pt 1 of 2 | HYPNOTIC PERCUSSION
+"hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, steady walking tempo, repetitive groove, subtle variations, dry mix, compressed vocals, spacious, 78 BPM, building tension"
+WHY: "Not for your righteousness." Rebellious from day one. The countertenor over a hypnotic beat creates an unsettling, judicial atmosphere — God is building a case against Israel. The groove drives while the countertenor delivers the indictment. Tension builds.
+
+CHUNK 13 | Ch 9 Pt 2 of 2 | ANGELIC CHOIR
+"angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic, 74 BPM, with low cello drone and frame drum, building from sparse to full for Moses' intercession"
+WHY: Tablets broken, calf ground to dust, 40 days of intercession. The angelic choir for Moses' prayer: "Remember your servants Abraham, Isaac, and Jacob." The choir builds from nothing as Moses falls down and intercedes. The beat is heavy and slow — the weight of a man pleading for a nation.
+
+CHUNK 14 | Ch 10 Pt 1 of 1 | SACRED HARP MEDITATION
+"sacred harp meditation, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, arpeggios, solo cello, sustained tones, warm reverb, gentle dynamics, spacious mix, compressed vocals, 70 BPM"
+WHY: Second tablets, the ark, Levi set apart, "what does the LORD require?" "Circumcise your hearts, love the foreigner." The harp meditation is perfect — priestly, beautiful, the law written on the heart. The countertenor carries "love the stranger, for you were strangers in Egypt."
+
+CHUNK 15 | Ch 11 Pt 1 of 1 | ETHEREAL CHORAL
+"ethereal choral, sacred ambient, orchestral worship, angelic vocals, soprano, heavenly strings, reverb, cinematic biblical, harp, celestial choir, 74 BPM, with deep frame drum, building to climactic finish"
+WHY: "Love the LORD your God." Blessing and curse, Gerizim and Ebal. The climax of Story B. Full ethereal choral — the choice is set before them. "A land the LORD cares for, from the beginning of the year to the end." The frame drum drives it to the finish.
+
+=====================================================================
+STORY C: THE DEUTERONOMIC CODE (Chunks 16-31)
+=====================================================================
+
+CHUNK 16 | Ch 12 Pt 1 of 2 | SACRED HYMN
+"sacred hymn, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, gentle strings, oboe, warm cello, resolving harmony, slow build, wide stereo, compressed vocals, F major, 70 BPM"
+WHY: Destroy pagan worship, seek the place God chooses. "Rejoice before the LORD." The sacred hymn elevates the law of worship — it's about WHERE you worship and HOW. Concert harp and oboe make the command to rejoice feel sacred, not legal.
+
+CHUNK 17 | Ch 12 Pt 2 of 2 | HYPNOTIC PERCUSSION
+"hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, steady walking tempo, repetitive groove, subtle variations, dry mix, compressed vocals, spacious, 78 BPM"
+WHY: Blood, tithes, eating meat, don't neglect the Levite. Detailed regulations — the beat MUST carry this. The countertenor keeps it sacred while the groove makes the catalog listenable. "The blood is the life — pour it on the earth."
+
+CHUNK 18 | Ch 13 Pt 1 of 1 | BOY CHOIR
+"boy choir, dramatic, minor key, urgent, frame drum, low strings, dark, building to severe, 74 BPM"
+WHY: False prophets, enticers, city led astray — all put to death. The boy choir over dark, urgent music creates a chilling effect — innocent voices singing about judgment and death. "Stone him with stones." The frame drum drives the severity.
+
+CHUNK 19 | Ch 14 Pt 1 of 1 | SACRED HARP MEDITATION
+"sacred harp meditation, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, arpeggios, solo cello, sustained tones, warm reverb, gentle dynamics, spacious mix, compressed vocals, 70 BPM"
+WHY: Clean and unclean animals. Instead of a dry list, the harp meditation makes it feel like a priest cataloging creation — ox, sheep, goat, hart, roebuck. "You are a holy people." The countertenor and harp make the list feel sacred, not bureaucratic.
+
+CHUNK 20 | Ch 15 Pt 1 of 1 | SACRED HYMN
+"sacred hymn, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, gentle strings, oboe, warm cello, resolving harmony, slow build to gentle climax, wide stereo, compressed vocals, F major, 74 BPM"
+WHY: Year of release, cancel debts, free servants, firstborn consecrated. "Open your hand wide to your brother." The sacred hymn carries the compassion of the law — releasing debts and servants. F major, warm, hopeful. The beat builds gently for the firstborn consecration.
+
+CHUNK 21 | Ch 16 Pt 1 of 1 | ANGELIC CHOIR
+"angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic, 74 BPM, with concert harp and frame drum, joyful, celebratory"
+WHY: Passover, Feast of Weeks, Feast of Booths. "Rejoice before the LORD your God." This is JOY — feasts, pilgrimage, celebration. The angelic choir with harp and frame drum. The beat should make you want to move — a feast song, not a dirge.
+
+CHUNK 22 | Ch 17 Pt 1 of 1 | HYPNOTIC PERCUSSION
+"hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, steady walking tempo, repetitive groove, subtle variations, dry mix, compressed vocals, spacious, 78 BPM"
+WHY: Blemished sacrifices, idolaters, the king. "The king must copy and read the law." Judicial content — the groove drives the legal precision. The countertenor delivers it like a royal decree. Steady, measured, authoritative.
+
+CHUNK 23 | Ch 18 Pt 1 of 1 | SACRED HARP MEDITATION
+"sacred harp meditation, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, arpeggios, solo cello, sustained tones, warm reverb, gentle dynamics, spacious mix, compressed vocals, 70 BPM"
+WHY: Levites' portion, "a Prophet like Moses." "The LORD is their inheritance." The harp fits the Levite imagery. The prophecy of a coming prophet — beautiful, anticipatory. "The LORD your God will raise up a Prophet like me."
+
+CHUNK 24 | Ch 19 Pt 1 of 1 | HYPNOTIC PERCUSSION
+"hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, steady walking tempo, repetitive groove, subtle variations, dry mix, compressed vocals, spacious, 78 BPM, judicial"
+WHY: Cities of refuge, witnesses, eye for eye. "Life for life, eye for eye." The hypnotic beat drives the judicial precision. The countertenor delivers it like a judge reading a verdict. Steady, measured, no mercy in the groove.
+
+CHUNK 25 | Ch 20 Pt 1 of 1 | BOY CHOIR
+"boy choir, martial, urgent, frame drum, low brass, building, 78 BPM, dramatic"
+WHY: War laws — "when you go out to battle." The priest's speech to the troops. "Let not your hearts faint, fear not." The boy choir over martial drums — young soldiers going to war. The beat is a march. Dramatic and urgent.
+
+CHUNK 26 | Ch 21 Pt 1 of 1 | SACRED HYMN
+"sacred hymn, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, gentle strings, warm cello, resolving harmony, slow build, wide stereo, compressed vocals, D minor, 64 BPM, solemn"
+WHY: Unsolved murder (the heifer), captive woman, rebellious son, hanging on a tree. Weighty, solemn content. D minor, 64 BPM — the heaviest sacred hymn. "Cursed is everyone who hangs on a tree." The countertenor and cello carry the weight.
+
+CHUNK 27 | Ch 22 Pt 1 of 1 | HYPNOTIC PERCUSSION
+"hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, steady walking tempo, repetitive groove, subtle variations, dry mix, compressed vocals, spacious, 78 BPM"
+WHY: Mixed seed, bird's nest, parapet, marriage laws, adultery. Densest legal content — the beat MUST carry it. The groove keeps the catalog moving. The countertenor makes even "do not plow with an ox and an ass together" sound sacred.
+
+CHUNK 28 | Ch 23 Pt 1 of 1 | SACRED HARP MEDITATION
+"sacred harp meditation, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, arpeggios, solo cello, sustained tones, warm reverb, gentle dynamics, spacious mix, compressed vocals, 70 BPM"
+WHY: Who may enter the assembly, camp holiness, escaped slave, no interest, vows. "The LORD walks in the midst of your camp." The harp meditation makes the camp purity laws feel sacred. "Your camp must be holy."
+
+CHUNK 29 | Ch 24 Pt 1 of 1 | LO-FI FOLK
+"lo-fi folk, devotional spoken word, 74 BPM, rhythmic speech, fingerpicked acoustic guitar, brushed cajón, bowed double bass, hand drum pulse, unison chapel choir, wordless male chants, cathedral reverb, tape saturation, vinyl crackle, sparse-to-dense build, call-and-response refrains, minor key, reflective solemnity"
+WHY: Divorce, pledges, pay workers same day, justice for foreigner/orphan/widow, gleanings. "Remember you were a slave in Egypt." Social justice — the lo-fi folk brings warmth. This is law about PEOPLE, not ritual. The choir hums beneath the call for justice. The folk sound says "this is about real life."
+
+CHUNK 30 | Ch 25 Pt 1 of 1 | HYPNOTIC PERCUSSION
+"hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, steady walking tempo, repetitive groove, subtle variations, dry mix, compressed vocals, spacious, 78 BPM"
+WHY: Flogging limits, don't muzzle the ox, levirate marriage, honest weights, blot out Amalek. The groove drives the legal catalog. "Honest weights, honest measures." Then the Amalek remembrance — "do not forget." The countertenor carries the final weight of the code.
+
+CHUNK 31 | Ch 26 Pt 1 of 1 | SACRED HYMN
+"sacred hymn, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, gentle strings, oboe, warm cello, resolving harmony, slow build to majestic climax, wide stereo, compressed vocals, F major, 74 BPM"
+WHY: Firstfruits basket, the CREED — "A Syrian ready to perish was my father." "You are his treasured people." The law code ENDS in worship. The sacred hymn elevates the creed. "Look down from your holy habitation and bless your people." The most beautiful chunk in the code. F major, warm, building to majesty.
+
+=====================================================================
+STORY D: COVENANT SANCTIONS (Chunks 32-37)
+=====================================================================
+
+CHUNK 32 | Ch 27 Pt 1 of 1 | BOY CHOIR
+"boy choir, call-and-response, frame drum, 74 BPM, dark, liturgical, building severity"
+WHY: The 12 curses. "Cursed be... and all the people shall say AMEN." The boy choir is the Levites calling; the response is the people. Call-and-response built into the text. Dark, liturgical, the frame drum drives each curse. Innocent voices delivering curses — chilling.
+
+CHUNK 33 | Ch 28 Pt 1 of 3 | ANGELIC CHOIR → DARK SHIFT
+"angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic, 74 BPM, building to triumphant, then cutting to dark minor for the curse pivot"
+WHY: BLESSINGS — "Blessed shall you be in the city, blessed in the field." The angelic choir soars. "The LORD shall make you the head and not the tail." Then the pivot: "BUT if you will not hear..." — the music drops. The contrast IS the content. The beat shifts from lift to weight.
+
+CHUNK 34 | Ch 28 Pt 2 of 3 | HYPNOTIC PERCUSSION (DARK)
+"hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, slow walking tempo, repetitive groove, dark, dry mix, compressed vocals, minor key, 70 BPM, descending"
+WHY: Disease, madness, stolen labor, wives taken, children given away. The countertenor over a dark, descending groove — the curses pile on. "You shall be mad for the sight of your eyes." The beat is heavy and relentless. No relief.
+
+CHUNK 35 | Ch 28 Pt 3 of 3 | LO-FI FOLK (DARKEST)
+"lo-fi folk, devotional spoken word, 60 BPM, slow rhythmic speech, fingerpicked acoustic guitar, bowed double bass, hand drum pulse, unison chapel choir, wordless male chants, cathedral reverb, tape saturation, vinyl crackle, very sparse, minor key, desolate, death march"
+WHY: THE SIEGE. Eating your own children. Scattered among nations. "Would God it were evening... would God it were morning." 60 BPM — the slowest, heaviest. The lo-fi folk strips to almost nothing. The choir barely whispers. This is the bottom. The folk sound because this is human suffering, not divine thunder.
+
+CHUNK 36 | Ch 29 Pt 1 of 1 | ETHEREAL CHOIR
+"Ethereal choir, shimmering, soprano layers, reverb, atmospheric, holy, mysterious, with low sustained cello, 70 BPM"
+WHY: "The secret things belong to the LORD." After the horror, mystery. "Eyes yet unseeing, ears yet un hearing." The shimmering soprano layers create an otherworldly atmosphere. The covenant renewed but the mystery remains. The beat is slow and deep.
+
+CHUNK 37 | Ch 30 Pt 1 of 1 | ANGELIC CHOIR
+"angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic, 74 BPM, building from sparse to triumphant climax with full choir and frame drum"
+WHY: "RETURN and the LORD will gather you." "CHOOSE LIFE." The turn from judgment to hope. The angelic choir builds from nothing to full power. "I have set before you life and death, blessing and cursing — therefore CHOOSE LIFE." The beat rises to a climax. The most hopeful chunk in the sanctions.
+
+=====================================================================
+STORY E: SONG, BLESSING, AND FAREWELL (Chunks 38-43)
+=====================================================================
+
+CHUNK 38 | Ch 31 Pt 1 of 2 | SACRED HARP MEDITATION
+"sacred harp meditation, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, arpeggios, solo cello, sustained tones, warm reverb, gentle dynamics, spacious mix, compressed vocals, 70 BPM, intimate"
+WHY: "I am 120 years old today." Moses' farewell, Joshua charged. Intimate — the harp and cello carry the old man's voice. "Be strong and courageous, the LORD your God goes with you." Not loud — quiet strength. The countertenor for the passing of the torch.
+
+CHUNK 39 | Ch 31 Pt 2 of 2 | HYPNOTIC PERCUSSION
+"hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, steady walking tempo, repetitive groove, subtle variations, dry mix, compressed vocals, spacious, 74 BPM, solemn, testimonial"
+WHY: "Write this song as a witness." The law placed beside the ark. "I know your rebellion and your stiff neck." The groove drives the testimony — Moses knows what's coming. The countertenor delivers the warning like a dying man's last testament. The beat is steady and inexorable.
+
+CHUNK 40 | Ch 32 Pt 1 of 2 | SACRED HYMN
+"sacred hymn, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, gentle strings, oboe, warm cello, resolving harmony, slow build to powerful climax, wide stereo, compressed vocals, D minor, 74 BPM, poetic, soaring"
+WHY: THE SONG OF MOSES. "Give ear, O heavens, and I will speak." "He kept him as the apple of his eye." "As an eagle stirs up her nest." This is POETRY — the most elevated text in the book. D minor because it turns dark (Jeshurun waxed fat). The countertenor and concert harp make it soar. The beat builds as the song turns from praise to indictment.
+
+CHUNK 41 | Ch 32 Pt 2 of 2 | BOY CHOIR → LO-FI FOLK
+"boy choir, angelic, reverent, with concert harp, D minor, 74 BPM, then shifting to sparse"
+THEN:
+"lo-fi folk, devotional spoken word, 74 BPM, rhythmic speech, fingerpicked acoustic guitar, bowed double bass, hand drum pulse, unison chapel choir, cathedral reverb, sparse, reflective, 70 BPM"
+WHY: "Vengeance is mine, I will repay." "See now that I, even I, am he." The boy choir carries the divine declaration — terrifying and beautiful. Then the narrative shift — Moses finished the song, God says "go up to Nebo and die." The lo-fi folk enters for the death sentence. The contrast: divine thunder → human mortality.
+
+CHUNK 42 | Ch 33 Pt 1 of 1 | ANGELIC CHOIR
+"angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic, with concert harp and celestial strings, building to majestic triumphant climax, 76 BPM, full power"
+WHY: THE BLESSING OF THE TRIBES. "The LORD came from Sinai." "There is none like the God of Jeshurun." "The eternal God is your refuge, and underneath are the everlasting arms." Full angelic choir — the most majestic chunk in the book. Each tribe blessed. The beat builds to the final triumphant declaration: "Happy are you, O Israel!"
+
+CHUNK 43 | Ch 34 Pt 1 of 1 | LO-FI FOLK → ANGELIC CHOIR (FADE)
+"lo-fi folk, devotional spoken word, 60 BPM, slow rhythmic speech, fingerpicked acoustic guitar, bowed double bass, hand drum pulse, unison chapel choir, wordless male chants, cathedral reverb, tape saturation, vinyl crackle, sparse, minor key, reflective"
+THEN THE CHOIR RISES ONE LAST TIME:
+"angelic choir, soft pads, ethereal, spacious, reverent, holy, melodic, then fading to silence"
+WHY: THE DEATH OF MOSES. "So Moses the servant of the LORD died there in the land of Moab." "His eye was not dim, nor his natural force abated." "There arose not a prophet since like unto Moses, whom the LORD knew face to face." Lo-fi folk at 60 BPM — the death march. Moses sees the land from Nebo. Then the angelic choir rises for the eulogy and fades to silence. The end of the lawgiver.
