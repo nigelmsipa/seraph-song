@@ -1,0 +1,156 @@
+LIKED SONGS ANALYSIS - 466 SONGS
+==================================
+
+GENRE BREAKDOWN (what grabs the ear):
+
+CLASSICAL / NEOCLASSICAL (heavily liked):
+- Recuerdos de la Alhambra (Flamenco)
+- Neoclassical Fury (Neoclassical)
+- Falling Stars 2 (Classical Guitar)
+- B Minor Waltz (Classical)
+- Baroque Reverie (Classical)
+- Omaggio a Domenico Scarlatti (Baroque Harpsichord Solo)
+- Piano Sonata: Undercurrent (Piano Sonata Mood: Quiet Strength)
+- Violin Sonata in E Minor (Violin Sonata With Orchestra)
+- Shower Sonata (Instrumental)
+- Hopeless Romantic (Classical)
+
+LO-FI FOLK (the backbone):
+- 15. The New Man (Lo-Fi Folk)
+- 4 The Night — Its Cause (Lo-Fi Folk)
+- 3 The Theme of the Epistle (Lo-Fi Folk)
+- 4 Pathological Anxiety, Vitality, and Courage (Lo-Fi Folk)
+- 7 Courage and Individualization — II (Lo-Fi Folk)
+- 6 Courage and Individualization - I (Lo-Fi Folk)
+- Hidden "As" (Lo-Fi Folk)
+- Good Friday Poster (Lo-Fi Folk)
+- Birds, No Barns (Lo-Fi Folk)
+- 6 Who's Actually Drunk (Lo-Fi Folk) x4 versions
+- 5 Not Your Power (Lo-Fi Folk)
+- 7 No Man Can Serve Two Masters (Lo-Fi Folk)
+- 8 He Doesn't Change (Lo-Fi Folk)
+- Little Forgiven (Lo-Fi Folk)
+- Porchlight Haze (Lo-Fi Folk)
+- German Friend's Confession (Lo-Fi Folk)
+
+ANGELIC CHOIR / CHORAL:
+- The Ballad of the Unseen Sock (Angelic Choir)
+- Heaven's Silent Hymn (Angelic Choir)
+- Cathedral of First Light (Choral)
+- Cathedral of Dawn (Classical)
+- Genesis 1 (Angelic Choir Sung) x2
+- Forgetting and Being Forgotten (Angelic Choir)
+- Rev 3 (Ethereal Choir)
+
+FOLK / FOLK TRAP / FOLK-HOP:
+- Lost In The Haze (Indie Folk)
+- Open Fifth Meadow (Folk) x2
+- Fence Post Gospel (Folk)
+- Fencepost Saints (Folk)
+- Backroad Smoke (Folk-Trap)
+- Barn Door Bounce (Folk-Hop)
+- Banjo Loop Never (Folk Trap)
+- Ride - XED ft. Lodiac (Folk Trap) x2
+- Cold Creek Trap (Folk Trap)
+- Hollow Banjo (Folk Trap)
+- 12 [c] What to Do with Doubt (Folk)
+
+LO-FI HIP-HOP / LO-FI:
+- Late Night Study Session (Lo-Fi Hip-Hop)
+- Vinyl Sigh (Lo-Fi Hip-Hop)
+- Clean the Desk (Lo-Fi) x2
+- happiness in japanese (Lo-Fi)
+- Boyfriend Sad Mix (Lo-Fi)
+- id 072019 (Lo-Fi Indie)
+- Fun times in summer (Rain)
+- The Good That I Will, I Do Not (Lo-Fi) x2
+- Heal the Sick (Lo-Fi)
+- Man and Earth (Lo-Fi)
+- 4 Outside Study It (Lo-Fi)
+- 3 Teleological Action (Lo-Fi)
+- 2 Azande Oracle (Lo-Fi)
+- 1 Communicative Action (Lo-Fi Hip Hop)
+- 2 Azande Oracle (Lo-Fi)
+
+TRIP HOP / HORROR:
+- Wrong Brightness (Horror Trip-Hop)
+- Deep Before Light (Trip Hop)
+- Holy Static (Trip Hop)
+- Romans 9 BSB Instrumental (Horror X Trip Hop)
+- Basement Pulse (Horror X Trip Hop)
+- Genesis 1 KJV Angelic Choir Instrumental (Dark Cinematic Trap)
+- Dark atmospheric (Dark Atmospheric Trap)
+- i got drunk and improvised this guitar solo (Horror)
+
+AMBIENT:
+- Frostline Overpass (Ambient)
+- Glass Dune Signal (Ambient)
+- Under the Vault (Ambient)
+- Vault of Ash (Dark Ambient)
+- Cathedral Below (Dark Ambient) x2
+- Neon Horizon (Synthwave)
+
+ORCHESTRAL / CINEMATIC:
+- Genesis Vault (Orchestral)
+- Occupied Nave I & II (Orchestral)
+- Ancient Benediction (Orchestral)
+- Dune Benediction (Cinematic Orchestral)
+- Stone Oath (Cinematic Boom Bap)
+- Running Out Clock (Cinematic Orchestral Hip Hop)
+- Dust Crown March (Boom Bap)
+- One Take Room (Lo-Fi Soul Hip Hop)
+- Rational Skeleton (Lo-Fi Soul Hip Hop)
+
+BLACK GOSPEL / SPIRITUAL:
+- Reproach Refrain (Negro Spiritual)
+- De Sun Do Move (Black Gospel)
+- Grave Low Victory (Spiritual)
+
+AFROBEATS / WORLD:
+- Palm Oil Prayer (Afrobeats)
+- Palm Oil Halo (Afrobeat Lo-Fi)
+- Kankan River Pulse (Traditional Mandé West African)
+- Baobab Night Train (Blues)
+
+SPOKEN WORD:
+- Real Love Isn't Exhausting (Spoken Word)
+
+OTHER:
+- Black Glass Current (Drum And Bass)
+- Shattered Chrome (Minimal)
+- Brickline Drift (Trap) x2
+- Slime Mirage (Rage Trap)
+- Bene Gesserit Benediction (Electronic Trap)
+- When Johnny Comes Marching Home (Cover)
+- 커피 한 잔을 시켜놓고 (EDM)
+- Rev 2 (Rhythmic Speech)
+- 6 Backroad Smoke (no tag)
+- Iron Legs Preachin' (no tag)
+- Lydian Humline (Neo-Classical Ambient) x2
+
+PATTERN ANALYSIS:
+1. CLASSICAL GUITAR is the new love — "Falling Stars 2 (Classical Guitar)", "Recuerdos de la Alhambra (Flamenco)", and the user explicitly said classical guitar consistently produces good results in Suno.
+
+2. LO-FI FOLK is the most liked genre by volume — at least 20+ liked songs tagged Lo-Fi Folk. This confirms it's the backbone, but also shows the user likes OTHER people's lo-fi folk too (searchable for covers).
+
+3. FOLK TRAP / FOLK-HOP is a distinct sub-genre the user loves — Barn Door Bounce (Folk-Hop), Backroad Smoke (Folk-Trap), Banjo Loop Never (Folk Trap), Cold Creek Trap (Folk Trap), Hollow Banjo (Folk Trap), Ride (Folk Trap). This is the literal "folk hopper" sound.
+
+4. HORROR TRIP HOP remains the dark baptism — multiple liked songs with this tag. Used for covering/transformation.
+
+5. CHORAL / ANGELIC CHOIR — the sacred high points. Several liked songs in this category.
+
+6. The user likes covers — many liked songs are the user's own covers of other material (Jordan Peterson, Steps to Christ content, etc.)
+
+7. ORCHESTRAL / CINEMATIC for epic moments — Genesis Vault, Dune Benediction, Occupied Nave.
+
+8. WORLD MUSIC interests — Afrobeats, Mandé, Blues. Global sacred sounds.
+
+9. The "Steps to Christ" and other devotional content (numbered chapters like "5 Consecration", "6 Faith and Acceptance", "7 The Test of Discipleship", "8 Growing Up Into Christ", etc.) shows the user has been setting devotional books to music too, not just the Bible.
+
+KEY INSIGHT FOR DEUTERONOMY BEATS:
+- Classical guitar + pads = reliable sacred-able combination
+- Folk-Hop / Folk-Trap = the folk hopper sweet spot for beats
+- Lo-Fi Hip-Hop = reflective narrative beats
+- Horror Trip-Hop = dark transformation for curses
+- Orchestral / Cinematic = climactic moments (blessings, battle)
+- The user can SEARCH for any of these genres on Suno and cover them
