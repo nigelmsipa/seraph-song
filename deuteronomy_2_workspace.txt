@@ -1,0 +1,23 @@
+DEUTERONOMY 2 WORKSPACE (88 songs, ~3w old)
+=============================================
+
+ALL songs used the SAME style:
+"lo-fi folk, devotional spoken word, 74 BPM, rhythmic speech, fingerpicked acoustic guitar, brushed cajón, bowed double bass, hand drum pulse, unison chapel choir, wordless male chants, cathedral reverb, tape saturation, vinyl crackle, sparse-to-dense build, call-and-response refrains, minor key, reflective solemnity"
+
+Version: v4.5+
+
+Naming convention: "SUNO CHUNK [N] | DEUTERONOMY CHAPTER [X] PART [Y] OF [Z]"
+
+Chapters visible (newest first):
+- Chunk 10 | Chapter 7 Part 1 of 1 (x2 versions)
+- Chunk 43 | Chapter 34 Part 1 of 1 (x2 versions)
+- Chunk 42 | Chapter 33 Part 1 of 1 (x2 versions)
+- Chunk 41 | Chapter 32 Part 2 of 2 (x2 versions)
+- Chunk 40 | Chapter 32 Part 1 of 2 (x2 versions)
+- Chunk 39 | Chapter 31 Part 2 of 2 (x2 versions)
+- Chunk 38 | Chapter 31 Part 1 of 2 (x2 versions)
+- Chunk 37 | Chapter 30 Part 1 of 1 (x2 versions)
+
+ISSUE: Every chapter uses the same style. No variety. No thematic matching. This is what needs to be fixed in the redo.
+
+Also note: Each song has 2 versions (duplicates) — likely generating two takes per chunk.

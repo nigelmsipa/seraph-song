@@ -1,0 +1,41 @@
+GENESIS WORKSPACE (60 songs, ~2mo 2w ago)
+
+SONGS (newest first):
+
+1. Genesis 7 KJV (v5.5, Cover) x4 versions
+   Style: "ethereal choral, sacred ambient, orchestral worship, angelic vocals, soprano, heavenly strings, reverb, cinematic biblical, harp, celestial choir"
+   Alt style: "Create a continuous cinematic piece for Genesis 7, starting with quiet reverent strings and soft choir, moving into melancholic acoustic guitar and low drones, then exploding into dark orchestral and choral chaos as the waters break, finally settling into slow, heavy, sustained chords with distant, sorrowful choir and faint acoustic echoes, emphasizing judgment, loss, and fragile preservation of life" / "acoustic folk, melancholic"
+
+2. Genesis 4 KJV (v5, Full Song)
+   Style: "angelic choir"
+
+3. Genesis 35 KJV (v5, Full Song)
+   Style: "ethereal choral, sacred ambient, orchestral worship, angelic vocals, soprano, heavenly strings, reverb, cinematic biblical, harp, celestial choir"
+
+4. Genesis 31 KJV (v5, Full Song)
+   Style: "Spoken Word Folk"
+
+5. Genesis 30 KJV (2 of 2) (Upload)
+   Style: "A folk-gospel piece with a male lead vocalist, acoustic guitar, and harmonica, The song is in a major key and has a moderate tempo, The vocal delivery is clear and narrative, with a slight vibrato, The acoustic guitar provides a steady rhythmic and harmonic foundation, primarily strumming open chords, The harmonica plays melodic fills and counter-melodies, often echoing vocal phrases, The production is clean, with a natural reverb on the vocals and instruments, creating an intimate and warm sound, The song structure is verse-based, with no distinct chorus, maintaining a storytelling flow, The melody is simple and memorable, designed to support the lyrical content, The overall feel is reflective and heartfelt"
+
+6. Genesis 30 KJV (1 of 2) (Upload)
+   Style: "A folk-country gospel piece with a male vocalist, acoustic guitar, and harmonica, The song is in a major key, with a moderate tempo, The acoustic guitar provides a steady rhythm and chord progression, while the harmonica plays melodic fills and counter-melodies, The male vocalist sings with a clear, narrative style, The song structure is verse-based, with no distinct chorus, The production is clean, with a natural sound that emphasizes the acoustic instruments and vocals, There are no complex effects or mixing techniques, maintaining a raw, authentic feel"
+
+7. Genesis 29 KJV (2 of 2) (Upload)
+   Style: "Acoustic folk music with a male vocalist, The song features a simple chord progression played on an acoustic guitar, providing a gentle and rhythmic foundation, A banjo adds a distinct folk texture with its plucked melodies and fills, The male vocalist sings in a clear, narrative style, delivering the lyrics with a moderate tempo, The production is clean, emphasizing the natural sound of the acoustic instruments and the vocal performance, There are no complex effects or heavy mixing, maintaining an organic and intimate feel, The song structure follows a verse-based narrative, with instrumental breaks featuring the banjo"
+
+8. Genesis 29 KJV (1 of 2) (Upload)
+   Style: "Acoustic folk gospel with a male lead vocalist, acoustic guitar, and a prominent fiddle melody, The song is in a major key, with a moderate tempo, The acoustic guitar provides a steady rhythmic and harmonic foundation, primarily strumming open chords, The fiddle carries the main melodic lines, often mirroring or harmonizing with the vocal melody, The male vocal is clear and narrative, delivered with a gentle, storytelling quality, There are no complex chord progressions, focusing instead on simple, diatonic harmony, The production is clean, with a natural acoustic sound, emphasizing the clarity of each instrument and the vocal, There are no discernible electronic effects or heavy processing, The song structure is verse-based, with instrumental breaks featuring the fiddle, The overall mood is reflective and peaceful"
+
+9. Genesis 2 KJV (v5, Angelic Choir)
+   Style: (not specified - likely "Angelic Choir")
+
+10. Genesis 49 KJV (v5, Cover)
+    Style: "ethereal choral, sacred ambient, orchestral worship, angelic vocals, soprano, heavenly strings, reverb, cinematic biblical, harp, celestial choir Angelic choir with clear and articulate vocals, harmonious multi-part singing, slow tempo, words distinctly pronounced, minimal overlapping lines, spacious mix for vocal separation"
+
+STYLE PATTERNS OBSERVED IN GENESIS:
+- v5 era: "angelic choir", "ethereal choral, sacred ambient, orchestral worship, angelic vocals, soprano, heavenly strings, reverb, cinematic biblical, harp, celestial choir"
+- v5 era: "Spoken Word Folk"
+- Uploads: Detailed acoustic folk-gospel descriptions (male vocalist, acoustic guitar, harmonica, banjo, fiddle, narrative style, verse-based, clean production)
+- v5.5 era: More cinematic prompt-based descriptions ("Create a continuous cinematic piece...")
+- Two main approaches: (1) Tag-based style strings, (2) Descriptive prompt-based generation

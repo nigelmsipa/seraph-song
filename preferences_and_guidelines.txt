@@ -1,0 +1,71 @@
+SERAPH SONG - USER PREFERENCES & GUIDELINES
+============================================
+
+WHAT WORKS:
+- Angelic choir (favorite vocal approach)
+- Contrast: spoken narration alternating with choral singing (not monotone)
+- Folk elements: harmonica, acoustic guitar, banjo, fiddle — breaks up monotony
+- The beat MUST carry the song — if the beat doesn't hit, nothing else matters
+- Spent most iteration time on getting beats right
+- Beat work isolated in separate workspaces (Genesis Beats, Numbers instrumentals)
+
+WHAT DOESN'T WORK:
+- Electric/electronic guitar (Genesis) — didn't fit
+- One style for all chapters (Deuteronomy) — too monotonous
+- Arbitrarily choosing styles without thematic logic
+- Copyright issues causing deformation (Genesis 19, Genesis 1)
+
+CORE RULES:
+- Must be REVERENT and SACRED — no irreverent or blasphemous vibes
+- No black sabbath, no metal, nothing that disrespects the text
+- Variety is essential — straight angelic choir for everything gets old
+- Style should match chapter content (law, narrative, poetry, blessing, warning, etc.)
+
+PROVEN STYLE PALETTE (from Genesis-Numbers):
+
+1. ANGELIC CHOIR
+   "angelic choir" or "angelic choir, soft pads, ethereal, spacious, reverent, building, holy, melodic"
+   Best for: heavenly visions, creation, divine encounters
+
+2. ETHEREAL CHORAL
+   "ethereal choral, sacred ambient, orchestral worship, angelic vocals, soprano, heavenly strings, reverb, cinematic biblical, harp, celestial choir"
+   Best for: worship, praise, majestic moments
+
+3. ETHEREAL CHOIR (simple)
+   "Ethereal choir, shimmering, soprano layers, reverb, atmospheric, holy"
+   Best for: shorter chapters, reflective moments
+
+4. SOFT PADS / INTRICATE RHYTHM
+   "intricate rhythm, 60-70 bpm, soft pads, ethereal vocals, spacious, reverent, building, holy, sung vocals, melodic, no spoken word"
+   Best for: law, instructions, orderly content
+
+5. HARP / DELICATE STRINGS
+   "intricate rhythm, 70 bpm, harp, delicate strings, ornate, intricate, meditative, beautiful, sung vocals, melodic, no spoken word"
+   Best for: priestly content, temple/sanctuary descriptions
+
+6. LO-FI FOLK / DEVOTIONAL SPOKEN WORD
+   "lo-fi folk, devotional spoken word, 74 BPM, rhythmic speech, fingerpicked acoustic guitar, brushed cajón, bowed double bass, hand drum pulse, unison chapel choir, wordless male chants, cathedral reverb, tape saturation, vinyl crackle, sparse-to-dense build, call-and-response refrains, minor key, reflective solemnity"
+   Best for: narrative, storytelling, Moses speaking to the people
+
+7. SACRED HYMN / COUNTERTENOR
+   "sacred hymn, countertenor male vocal, smooth, studio quality, high fidelity, polished production, concert harp, gentle strings, oboe, warm cello, resolving harmony, slow build to gentle climax, wide stereo, compressed vocals, F major, 74 BPM"
+   Best for: songs within scripture (Song of Moses, etc.)
+
+8. DIGNIFIED / PRIESTLY
+   "dignified, 64 bpm, clean tones, orderly, elevated standard, precise, unblemished, priestly, sung vocals, melodic, no spoken word"
+   Best for: holiness codes, priestly laws, purity laws
+
+9. SPOKEN WORD FOLK
+   "Spoken Word Folk"
+   Best for: direct speech, sermons, warnings
+
+10. HYPNOTIC PERCUSSION
+   "hypnotic percussion loop, countertenor male vocal, smooth, studio quality, high fidelity, polished production, frame drum, shaker, steady walking tempo, repetitive groove, subtle variations, dry mix, compressed vocals, spacious, 78 BPM"
+   Best for: repetitive lists, censuses, detailed regulations
+
+WORKFLOW NOTES:
+- Version: currently v4.5+ (Deuteronomy) and v5/v5.5 (earlier books)
+- Naming: "SUNO CHUNK [N] | [BOOK] CHAPTER [X] PART [Y] OF [Z]"
+- Each chunk gets 2 versions (two takes)
+- Beat production often done separately first, then full song added
+- Some chapters split into multiple parts (e.g., 1 of 2, 2 of 2)
