@@ -1,0 +1,480 @@
+{
+  "book_name": "Ezra",
+  "hebrew_name": "עֶזְרָא (Ezra, \"Help\")",
+  "canonical_grouping": "Writings (Kethuvim) / Historical",
+  "big_picture_notes": "The Book of Ezra is a narrative of restoration. It meticulously documents the two primary waves of the Jewish return from Babylonian exile, structuring itself as a sequel to the Book of 2 Chronicles (its opening verse, 1:1, repeats the final decree from 2 Chronicles 36:22-23). This literary connection establishes its purpose: to show the beginning of the fulfillment of God's covenant promises after the judgment of exile. The book is clearly and symmetrically divided into two main parts, each centered on a different leader and a different aspect of restoration: Chapters 1-6 (The First Return), led by Zerubbabel (a political heir of David) and Jeshua (a priestly heir), focusing on the physical restoration of the Temple and the altar; and Chapters 7-10 (The Second Return), led by Ezra (the priest and scribe), focusing on the spiritual and communal restoration of the People through the Law and the resolution of the intermarriage crisis. A 58-year gap separates these two sections (the Temple is finished in 516 BC, Ezra arrives in 458 BC). Ezra's primary literary feature is its archival nature: the narrator weaves in seven official documents (decrees, letters) and switches to Imperial Aramaic for 4:8-6:18 to lend authenticity to Persian correspondence. The book is held together by the recurring theme that \"the hand of the LORD his God was upon him\" (7:6, 9, 28; 8:18, 22, 31), emphasizing divine providence over political history.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The First Return & Temple Rebuilding",
+      "why_start_end_and_literary_glue": "A complete, self-contained arc beginning with God's stirring of Cyrus to decree the rebuilding (1:1) and concluding with the Temple rebuilt, dedicated, and Passover celebrated (6:22). Start (1:1): \"Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled...\"—a theological and historical opening. End (6:22): \"And kept the feast of unleavened bread seven days with joy... to strengthen their hands in the work of the house of God, the God of Israel.\" Literary Glue: The recurring focus on \"the house of the LORD/house of God\" binds every scene; the Aramaic section (4:8-6:18) forms a distinct archival core narrating the conflict and its resolution.",
+      "reference": "1:1 - 6:22",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Decree of Cyrus",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts with \"Now in the first year of Cyrus...\" (1:1). Ends when the decree's text concludes with the charge to build the house at Jerusalem (1:4). A royal proclamation framed by narrative setup (v. 1) and the decree (vv. 2-4)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Exiles' Response and Gifts",
+          "reference": "1:5-8",
+          "why_start_end_and_devices": "Starts with \"Then rose up...\" shifting from proclamation to response (1:5). Ends with the introduction to the vessel inventory (1:8). Shows leaders preparing to go, people giving gifts, and Cyrus restoring Temple vessels—preparation for return."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Inventory of Temple Vessels",
+          "reference": "1:9-11",
+          "why_start_end_and_devices": "Starts with \"And this is the number of them...\" (1:9). Ends with the total and Sheshbazzar bringing them up (1:11). A distinct archival list functioning as a complete unit."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The List of Returning Leaders",
+          "reference": "2:1-2",
+          "why_start_end_and_devices": "Starts with \"Now these are the children of the province...\" (2:1). Ends when the heading and leaders list close (2:2). Serves as the title/heading for the great register that follows."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Families: Parosh to Elam",
+          "reference": "2:3-8",
+          "why_start_end_and_devices": "The first returning clans counted. Devices: The register of the restored remnant."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Zaccai to Azgad",
+          "reference": "2:9-12",
+          "why_start_end_and_devices": "More family heads and their numbers. Devices: Each name a token of survival."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Adonikam to Adin",
+          "reference": "2:13-15",
+          "why_start_end_and_devices": "Continuing the laity register. Devices: The roll of the returned."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Ater to Gibbar",
+          "reference": "2:16-20",
+          "why_start_end_and_devices": "Further families enumerated. Devices: The community reconstituted."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Bethlehem to Azmaveth",
+          "reference": "2:21-24",
+          "why_start_end_and_devices": "The men listed by their towns. Devices: Re-rooting in the ancestral places."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Kiriath-arim to Ai",
+          "reference": "2:25-28",
+          "why_start_end_and_devices": "More townsmen counted. Devices: Reclaiming the old settlements."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Nebo to Harim",
+          "reference": "2:29-32",
+          "why_start_end_and_devices": "Continuing the town lists. Devices: The map of return."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Lod, Hadid, Jericho, Senaah",
+          "reference": "2:33-35",
+          "why_start_end_and_devices": "The last of the laity register. Devices: The remnant tallied."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Priests",
+          "reference": "2:36-39",
+          "why_start_end_and_devices": "Four priestly families return. Devices: Worship-leaders restored."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Levites, Singers, Gatekeepers",
+          "reference": "2:40-42",
+          "why_start_end_and_devices": "The temple staff counted. Devices: The machinery of worship reassembled."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Temple Servants (1)",
+          "reference": "2:43-48",
+          "why_start_end_and_devices": "The Nethinim listed. Devices: The humble servants of the house."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Temple Servants (2)",
+          "reference": "2:49-54",
+          "why_start_end_and_devices": "More temple servants. Devices: Every role accounted for."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Descendants of Solomon's Servants",
+          "reference": "2:55-58",
+          "why_start_end_and_devices": "392 in all with the temple servants. Devices: Ancient service-classes preserved."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Disqualified Priests",
+          "reference": "2:59-63",
+          "why_start_end_and_devices": "Starts with \"And these were they which went up from Tel-melah...\" (2:59). Ends with the postponed resolution \"till there stood up a priest with Urim and with Thummim\" (2:63). A narrative aside presenting a specific problem and deferring its resolution."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Grand Total of the Assembly",
+          "reference": "2:64-67",
+          "why_start_end_and_devices": "42,360, besides servants and animals. Devices: The size of the restored community."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Freewill Gifts; Settling in the Towns",
+          "reference": "2:68-70",
+          "why_start_end_and_devices": "Offerings for the temple; the people in their towns. Devices: Generosity and resettlement."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Rebuilding the Altar",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "Starts with the seventh-month marker (3:1). Ends with burnt offerings morning and evening (3:3). The first communal act after return: re-establishing formal worship by rebuilding and using the altar."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The First Feast of Tabernacles",
+          "reference": "3:4-6",
+          "why_start_end_and_devices": "Starts with \"They kept also the feast of tabernacles...\" (3:4). Ends with the summary that the Temple foundation was not yet laid (3:6). Restores sacred time, contrasting present worship with the unfinished Temple to create narrative tension."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Gathering Materials for the Temple",
+          "reference": "3:7",
+          "why_start_end_and_devices": "Starts with \"They gave money also...\" (3:7). Ends with \"according to the grant that they had of Cyrus...\" (3:7). A compact commissioning-logistics verse paralleling Solomon's temple provisioning."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Laying the Temple Foundation",
+          "reference": "3:8-9",
+          "why_start_end_and_devices": "Starts with \"Now in the second year...\" (3:8). Ends with organizing Levites to set forward the work (3:9). Organization and commencement of the project as a complete thought."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Joy and Weeping at the Foundation",
+          "reference": "3:10-13",
+          "why_start_end_and_devices": "Starts with \"And when the builders laid the foundation...\" (3:10). Ends with the indistinguishable sound of joy and weeping (3:13). Climactic scene structured around sound—music, shouting, tears—contrasting generations in a poignant tableau."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Adversaries' Offer and Rejection",
+          "reference": "4:1-3",
+          "why_start_end_and_devices": "Starts with \"Now when the adversaries of Judah...\" (4:1). Ends with Zerubbabel's definitive rejection (4:3). Sets up the central conflict through a complete dialogue/confrontation."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Opposition's Initial Success",
+          "reference": "4:4-5",
+          "why_start_end_and_devices": "Starts with \"Then the people of the land weakened the hands...\" (4:4). Ends with the duration \"even until the reign of Darius\" (4:5). Narrative summary of methods and timespan; a bridging unit."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Flash-Forward Accusations (Xerxes & Artaxerxes)",
+          "reference": "4:6-7",
+          "why_start_end_and_devices": "Starts with \"And in the reign of Ahasuerus...\" (4:6). Ends with the Aramaic letter heading under Artaxerxes (4:7). A chronological jump highlighting the long persistence of opposition and introducing the next document."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Officials' Letter to Artaxerxes",
+          "reference": "4:8-11",
+          "why_start_end_and_devices": "The accusation drafted in Aramaic. Devices: Bureaucratic opposition."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "'A Rebellious City'—the Accusation",
+          "reference": "4:12-16",
+          "why_start_end_and_devices": "Warning of lost tribute if the walls rise. Devices: Half-truths weaponized."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Artaxerxes's Reply and Decree",
+          "reference": "4:17-22",
+          "why_start_end_and_devices": "Starts with \"Then sent the king an answer...\" (4:17). Ends with the decree \"that this city be not builded\" (4:22). The king's official, negative reply—second document in the series."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Work is Forcibly Stopped",
+          "reference": "4:23-24",
+          "why_start_end_and_devices": "Starts with reading the king's letter and immediate action (4:23). Ends with \"unto the second year of the reign of Darius\" (4:24). Narrative resolution of the flash-forward and hinge back to the earlier timeline paused at 4:5."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Haggai and Zechariah Inspire the Resumption",
+          "reference": "5:1-2",
+          "why_start_end_and_devices": "Starts with \"Then prophesied Haggai...\" (5:1). Ends with \"...and the prophets of God helping them\" (5:2). The divine impetus breaks the stalemate; leaders respond and work resumes."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Tattenai's Confrontation",
+          "reference": "5:3-5",
+          "why_start_end_and_devices": "Starts with Tattenai's inquiry (5:3). Ends when a letter is agreed upon and the matter is deferred (5:5). An official inquiry rather than subversion; sets up the next document."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Tattenai's Report and Questions",
+          "reference": "5:6-10",
+          "why_start_end_and_devices": "The governor's inquiry to Darius. Devices: Due process across the empire."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'We Are Rebuilding the House Cyrus Decreed'",
+          "reference": "5:11-13",
+          "why_start_end_and_devices": "The Jews' confident answer. Devices: Appeal to the original authorization."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "'Let a Search Be Made in the Archives'",
+          "reference": "5:14-17",
+          "why_start_end_and_devices": "Asking Darius to verify Cyrus's decree. Devices: Truth to be confirmed by record."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Darius Finds Cyrus's Decree",
+          "reference": "6:1-5",
+          "why_start_end_and_devices": "Starts with \"Then Darius the king made a decree...\" (6:1). Ends with the cited content of the original decree (6:5). The search and discovery climax; the decree of Cyrus is found and quoted."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Darius: 'Let the Work Continue; Fund It'",
+          "reference": "6:6-9",
+          "why_start_end_and_devices": "The decree to pay for the building and sacrifices. Devices: God turning a king's heart."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "A Curse on Any Who Hinder It",
+          "reference": "6:10-12",
+          "why_start_end_and_devices": "'May God overthrow any who alter this.' Devices: Royal sanction protecting the work."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Temple is Completed",
+          "reference": "6:13-15",
+          "why_start_end_and_devices": "Starts with Tattenai's compliant execution (6:13). Ends with the completion dated to Darius's sixth year (6:15). Narrative climax: the opposition becomes the agent of completion; the house is finished."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Dedication of the Temple",
+          "reference": "6:16-18",
+          "why_start_end_and_devices": "Starts with \"And the children of Israel, the priests...\" (6:16). Ends with \"as it is written in the book of Moses\" (6:18). The dedication sacrifices and re-establishment of priestly order legitimized by the Law."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Celebration of Passover",
+          "reference": "6:19-22",
+          "why_start_end_and_devices": "Starts with \"And the children of the captivity kept the passover...\" (6:19). Ends with the joy-filled conclusion highlighting the LORD turning the king's heart \"to strengthen their hands in the work of the house of God\" (6:22). Final resolution signaling full restoration of covenant worship and echoing 1:1."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Second Return & Community Reformation",
+      "why_start_end_and_literary_glue": "A new arc after a 58-year gap introduces Ezra and shifts focus from Temple to People: Ezra's commission, journey, discovery of intermarriage, and resolution. Start (7:1): \"Now after these things, in the reign of Artaxerxes king of Persia...\"—classic restart with new king, time, and protagonist. End (10:44): \"All these had taken strange wives: and some of them had wives by whom they had children.\" A somber, abrupt end marking completion of the action. Literary Glue: The person of Ezra (priest and scribe) and the authority of \"the law of your God\" drive the narrative—Commission (7), Journey (8), Crisis (9), Resolution (10).",
+      "reference": "7:1 - 10:44",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Ezra's Priestly Ancestry",
+          "reference": "7:1-5",
+          "why_start_end_and_devices": "Traced back to Aaron. Devices: Credentials for a reformer-priest."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'The Good Hand of His God Was on Him'",
+          "reference": "7:6-10",
+          "why_start_end_and_devices": "'Ezra had set his heart to study and teach the Law.' Devices: The scribe's life-purpose."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Artaxerxes Commissions Ezra",
+          "reference": "7:11-16",
+          "why_start_end_and_devices": "Authority to lead a return with gifts. Devices: A pagan king funding God's law."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Funds for the Temple Service",
+          "reference": "7:17-20",
+          "why_start_end_and_devices": "Money for sacrifices and whatever else is needed. Devices: Lavish royal provision."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "A Decree to the Treasurers; Levites Tax-Exempt",
+          "reference": "7:21-24",
+          "why_start_end_and_devices": "Supplies guaranteed; clergy untaxed. Devices: Worship privileged by the empire."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Appoint Judges; Enforce God's Law",
+          "reference": "7:25-26",
+          "why_start_end_and_devices": "'Whoever will not obey...let judgment be executed.' Devices: Law established with teeth."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Ezra's Doxology and Resolve",
+          "reference": "7:27-28",
+          "why_start_end_and_devices": "Starts with first-person praise, \"Blessed be the LORD God of our fathers...\" (7:27). Ends with \"I was strengthened as the hand of the LORD my God was upon me\" (7:28). Ezra's personal response and resolve to act."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Phinehas, Ithamar, David's Line",
+          "reference": "8:1-3",
+          "why_start_end_and_devices": "The priestly and royal returnees. Devices: Honored lineages leading."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Pahath-moab to Elam",
+          "reference": "8:4-7",
+          "why_start_end_and_devices": "Family heads and their numbers. Devices: The second return registered."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Shephatiah to Bebai",
+          "reference": "8:8-11",
+          "why_start_end_and_devices": "More returning families. Devices: The roll of the willing."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Azgad to Bigvai",
+          "reference": "8:12-14",
+          "why_start_end_and_devices": "The final family heads. Devices: The company assembled."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Search for Levites",
+          "reference": "8:15-20",
+          "why_start_end_and_devices": "Starts with \"And I gathered them together to the river...\" (8:15). Ends when the needed ministers are \"expressed by name\" (8:20). Problem-solution: lack of Levites, delegation sent, God-sent provision—the \"good hand of our God\" theme."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Fast at the River Ahava",
+          "reference": "8:21-23",
+          "why_start_end_and_devices": "Starts with \"Then I proclaimed a fast there...\" (8:21). Ends with \"and he was intreated of us\" (8:23). Expresses dependence on God for protection in lieu of a military guard; a complete spiritual action."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Twelve Priests Weigh Out the Treasure",
+          "reference": "8:24-27",
+          "why_start_end_and_devices": "Silver, gold, and vessels measured exactly. Devices: Accountability for sacred wealth."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'You Are Holy to the LORD; Guard It'",
+          "reference": "8:28-30",
+          "why_start_end_and_devices": "The treasure entrusted until Jerusalem. Devices: Stewardship as holiness."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Journey and Arrival in Jerusalem",
+          "reference": "8:31-36",
+          "why_start_end_and_devices": "Starts with departure from the river Ahava (8:31). Ends with delivery of commissions and furthering the people and house of God (8:36). Resolves the journey arc: protection, arrival, delivery, sacrifice, and administration."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Report of Intermarriage",
+          "reference": "9:1-2",
+          "why_start_end_and_devices": "Starts with \"Now when these things were done, the princes came to me...\" (9:1). Ends with the charge that \"the holy seed have mingled themselves\" (9:2). Inciting incident for the final crisis presented to Ezra."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Ezra's Reaction of Grief",
+          "reference": "9:3-5",
+          "why_start_end_and_devices": "Starts with Ezra tearing garments and hair and sitting astonished (9:3). Ends as he kneels and spreads his hands to pray (9:5). A powerful public mourning scene transitioning into prayer."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Ezra's Confession (Part 1: Our Guilt)",
+          "reference": "9:6-7",
+          "why_start_end_and_devices": "Starts with \"O my God, I am ashamed and blush...\" (9:6). Ends with the summary of historical corporate guilt \"as it is this day\" (9:7). Identifies with the people's sin within their historical context."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Ezra's Confession (Part 2: God's Grace and Our Relapse)",
+          "reference": "9:8-12",
+          "why_start_end_and_devices": "Starts with \"And now for a little space grace hath been shewed...\" (9:8). Ends with the quoted warning to keep the land as an inheritance (9:12). The theological heart contrasting God's grace with immediate relapse into forbidden mingling."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Ezra's Confession (Part 3: The Conclusion)",
+          "reference": "9:13-15",
+          "why_start_end_and_devices": "Starts with \"And after all that is come upon us...\" (9:13). Ends with \"we cannot stand before thee because of this\" (9:15). Concludes the prayer acknowledging just wrath and human helplessness, offering no solution—only confession."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The People's Response and Shechaniah's Proposal",
+          "reference": "10:1-4",
+          "why_start_end_and_devices": "Starts with the effect of Ezra's prayer as a great assembly gathers (10:1). Ends with Shechaniah's proposal and exhortation, \"be of good courage, and do it\" (10:4). Pivot scene where a leader articulates a plan Ezra did not state."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Ezra's Covenant and Proclamation",
+          "reference": "10:5-8",
+          "why_start_end_and_devices": "Starts with Ezra making leaders swear and rising to act (10:5). Ends with the proclamation threatening property and exclusion (10:8). Ezra formalizes the covenantal summons and sets the stage for the assembly."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Assembly in the Rain",
+          "reference": "10:9-11",
+          "why_start_end_and_devices": "Starts with all the men gathering, trembling due to the matter and heavy rain (10:9). Ends with Ezra's formal charge to confess and separate (10:11). Vivid public assembly and direct charge."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The People Agree to the Plan",
+          "reference": "10:12-15",
+          "why_start_end_and_devices": "Starts with the congregation's formal assent (10:12). Ends noting the minor opposition (10:15). Plan ratified with logistical proposal and recorded dissent—completing the assembly's record."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Investigation Begins",
+          "reference": "10:16-19",
+          "why_start_end_and_devices": "Examining the cases of intermarriage. Devices: Painful reform by due process."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Guilty Priests",
+          "reference": "10:20-22",
+          "why_start_end_and_devices": "Priestly families implicated. Devices: Reform sparing no class."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Levites, Singers, Gatekeepers, and Laymen",
+          "reference": "10:23-25",
+          "why_start_end_and_devices": "The list broadens. Devices: A community-wide reckoning."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Guilty Laymen (1)",
+          "reference": "10:26-30",
+          "why_start_end_and_devices": "Family by family named. Devices: The cost of restoring covenant purity."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Harim to Bani",
+          "reference": "10:31-34",
+          "why_start_end_and_devices": "Continuing the list. Devices: The roll of those who confessed."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Benaiah to Jeremai",
+          "reference": "10:35-37",
+          "why_start_end_and_devices": "More names recorded. Devices: Thorough accounting."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Shimei to Shelemiah",
+          "reference": "10:38-42",
+          "why_start_end_and_devices": "The list nears its end. Devices: The painful catalog."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Foreign Wives Sent Away",
+          "reference": "10:43-44",
+          "why_start_end_and_devices": "The grievous resolution of the crisis. Devices: A somber, costly close to the book."
+        }
+      ]
+    }
+  ]
+}

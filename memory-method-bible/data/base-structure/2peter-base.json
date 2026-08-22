@@ -1,0 +1,48 @@
+{
+  "book_name": "2 Peter",
+  "hebrew_name": "Πέτρου Β’ (Petrou B’)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "2 Peter is a testament‑style epistle with an A–B–A′ movement: ch. 1 establishes apostolic authority and the divine power/knowledge that grounds Christian life; ch. 2 delivers an oracle of judgment against false teachers by typology; ch. 3 resolves the challenge of the Lord’s seeming delay with an eschatological reminder and ethical summons. Literary glue: recurring ‘knowledge’ (gnōsis/epignōsis), antitheses (truth vs myths, freedom vs slavery), and typological proofs (angels, Flood, Sodom; and the Flood again in ch. 3).",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Foundation of Apostolic Knowledge and Witness",
+      "why_start_end_and_literary_glue": "Start (1:1) salutation establishes authorial voice; end (1:21) climactic statement that men spoke from God, carried by the Holy Spirit. Glue: ‘knowledge’ lexeme chain, divine power/partaking of divine nature, and the tandem of eyewitness testimony + prophetic word.",
+      "reference": "1:1 - 1:21",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Salutation and the Divine Call", "reference": "1:1-1:4", "why_start_end_and_devices": "Grace and knowledge greeting; divine power grants all for life/godliness; promises make partakers of the divine nature. Devices: parallelism, corruption vs escape contrast, compressed theological premise."},
+        {"scene_number": 2, "scene_name": "The Ladder of Virtues (Supplying Faith)", "reference": "1:5-1:9", "why_start_end_and_devices": "For this reason, make every effort to supplement faith…; ends contrasting fruitful knowledge with blindness/forgetfulness. Devices: sorites (chain virtues), epichorēgeō motif, antithesis fruitful vs useless."},
+        {"scene_number": 3, "scene_name": "Be Diligent to Confirm Calling", "reference": "1:10-1:11", "why_start_end_and_devices": "Therefore be diligent to confirm calling/election; promise of rich entrance into the eternal kingdom. Devices: hortatory summary, promise/reward closure."},
+        {"scene_number": 4, "scene_name": "Testamentary Reminder and Purpose", "reference": "1:12-1:15", "why_start_end_and_devices": "I intend to remind you; soon putting off my tent; write so you may recall after my departure. Devices: testament form, exodos allusion, reminder repetition."},
+        {"scene_number": 5, "scene_name": "Eyewitness of Majesty and the Prophetic Word", "reference": "1:16-1:21", "why_start_end_and_devices": "Not myths but eyewitnesses (Transfiguration); prophetic word as lamp until day dawns; prophecy from God by Holy Spirit. Devices: contrast myths/eyewitness, lamp metaphor, inspiration maxim."}
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Judgment of False Teachers",
+      "why_start_end_and_literary_glue": "Start (2:1) ‘But’ introduces false teachers; end (2:22) proverbial dog/sow verdict closes the oracle. Glue: typological enumeration (angels, Flood, Sodom; Balaam), repeated ‘destruction/judgment’ terms, and exploitation imagery.",
+      "reference": "2:1 - 2:22",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "False Teachers Introduced and Their Fate", "reference": "2:1-2:3", "why_start_end_and_devices": "Secretly bring destructive heresies, deny the Master; their judgment is not idle, destruction not asleep. Devices: antithesis, personified judgment, purchase/denial irony."},
+        {"scene_number": 2, "scene_name": "Typology of Judgment and Rescue", "reference": "2:4-2:10a", "why_start_end_and_devices": "If God did not spare angels, the ancient world, Sodom—but preserved Noah and Lot—then He keeps the unrighteous for judgment. Devices: typological chain, judgment/rescue chiasm, ‘especially’ pivot to sensuality and defiance."},
+        {"scene_number": 3, "scene_name": "Reckless Presumption and Blasphemy", "reference": "2:10b-2:13a", "why_start_end_and_devices": "Despise authority, blaspheme glories; irrational creatures; revel in daytime. Devices: audacity vs angelic restraint contrast, bestial simile, retributive irony."},
+        {"scene_number": 4, "scene_name": "Depraved Exploitation and Balaam’s Way", "reference": "2:13b-2:17", "why_start_end_and_devices": "Blots/blemishes feasting with you; eyes full of adultery; Balaam loved gain; waterless springs, mists for whom gloom is reserved. Devices: negative metaphors, Balaam allusion, destiny image pair."},
+        {"scene_number": 5, "scene_name": "Empty Freedom and Proverbial Dénouement", "reference": "2:18-2:22", "why_start_end_and_devices": "Boasts entice the barely escaping; promise freedom but are slaves; last state worse than first; dog/sow proverb closes. Devices: irony of freedom/slavery, escalation to proverbial finale."}
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Certainty of the End and Final Exhortation",
+      "why_start_end_and_literary_glue": "Start (3:1) second letter ‘reminder’ marks eschatological conclusion; end (3:18) benediction ‘grow in grace and knowledge’ completes inclusio. Glue: Day of the Lord refrain, divine‑time maxim, ethical ‘what sort of people’ summons.",
+      "reference": "3:1 - 3:18",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Reminder Purpose and Rise of Scoffers", "reference": "3:1-3:4", "why_start_end_and_devices": "Stir sincere mind by reminder; scoffers ask ‘Where is the promise of his coming?’ Devices: appeal to prophets/apostles, direct quotation of challenge."},
+        {"scene_number": 2, "scene_name": "Creation–Flood Typology and Future Fire", "reference": "3:5-3:7", "why_start_end_and_devices": "They deliberately overlook creation and Flood; by the same word the present heavens/earth kept for fire unto judgment. Devices: typological precedent, willful forgetfulness vs divine decree."},
+        {"scene_number": 3, "scene_name": "Divine Patience and Sudden Day", "reference": "3:8-3:10", "why_start_end_and_devices": "With the Lord a day as a thousand years; not wishing any to perish; Day comes like a thief, elements dissolved. Devices: time maxim, patience‑as‑salvation, thief simile."},
+        {"scene_number": 4, "scene_name": "Holy Living While Looking for the Day", "reference": "3:11-3:14", "why_start_end_and_devices": "Since all dissolves, what sort should you be? Looking for and hastening the Day; be diligent to be found spotless, at peace. Devices: hortatory question, twin ‘looking for’ refrain, ethical telos."},
+        {"scene_number": 5, "scene_name": "Paul’s Letters, Final Warning, and Doxology", "reference": "3:15-3:18", "why_start_end_and_devices": "Count patience as salvation, as Paul wrote; beware lest carried away; but grow in grace and knowledge; doxology. Devices: appeal to apostolic authority, paired warning/command, inclusio with knowledge."}
+      ]
+    }
+  ]
+}
+

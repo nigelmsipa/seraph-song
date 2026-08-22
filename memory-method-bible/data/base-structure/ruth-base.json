@@ -1,0 +1,154 @@
+{
+  "book_name": "Ruth",
+  "hebrew_name": "רוּת (Ruth)",
+  "canonical_grouping": "Ketuvim (Writings) / The Five Megillot",
+  "big_picture_notes": "Ruth is a masterfully crafted Hebrew novella set 'in the days when the judges ruled.' Its literary genius lies in its tight, symmetrical structure and profound use of linguistic and thematic motifs. The book functions as a complete four-act play, with each chapter representing a distinct narrative act. The central theme is the journey from emptiness to fullness, embodied by Naomi. This is established by a powerful inclusio: Naomi claims the LORD has brought her home 'empty' (reqam) in 1:21, and the book concludes with the women declaring the LORD 'has not left you without a redeemer' and Naomi holding a child (4:14-17). The narrative is driven by hesed (loyal kindness/covenant loyalty), first demonstrated by Ruth toward Naomi, then by Boaz toward Ruth. Key literary devices include the 12-fold repetition of 'return' (shuv) in Chapter 1, the development of the 'kinsman-redeemer' (go'el) concept, and wordplay on names (Naomi 'pleasant' vs. Mara 'bitter'). The structure moves from famine, death, and barrenness in Moab (Ch 1) to favor and food in the field (Ch 2), to a risky, decisive proposal at the threshing floor (Ch 3), and finally to redemption, life, and legacy at the gate (Ch 4). The genealogy connecting Ruth to David grounds the intimate family story within Israel's salvation history.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "Emptiness: From Bethlehem to Moab and Back",
+      "why_start_end_and_literary_glue": "Chapter 1 is a self-contained narrative prologue establishing the central problem (famine, death, widowhood, emptiness) and introducing the main protagonists (Naomi and Ruth). It follows a complete geographic and thematic arc: starting in Bethlehem, moving to Moab, ending back in Bethlehem. The opening 'In the days when the judges ruled, there was a famine...' is a classic historical narrative opening. The closing 'And they came to Bethlehem in the beginning of barley harvest' (1:22) is a perfect summary statement and narrative hinge, as the barley harvest is the precise setup for Chapter 2. The primary literary glue is the 12-fold repetition of 'return' (shuv), contrasted with the theme of 'emptiness,' explicitly stated by Naomi in 1:21 ('I went away full, and the LORD has brought me back empty'). The chapter builds on the name-play of Naomi ('pleasant') and Mara ('bitter').",
+      "reference": "1:1-1:22",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Death in Moab",
+          "reference": "1:1-1:5",
+          "why_start_end_and_devices": "Starts with narrative opening: 'In the days when the judges ruled, there was a famine...' (1:1). Ends with completion of tragedy: 'both Mahlon and Chilion died, so that the woman was left without her two sons and her husband' (1:5). Verse 6 begins a new action ('Then she arose...'). This scene is the narrative setup, establishing the problem and the tragic descent in a structured downward spiral: famine → sojourn → death of Elimeleck → marriage of sons → death of sons. It ends with Naomi in complete emptiness."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Naomi Urges Her Daughters-in-Law Home",
+          "reference": "1:6-9",
+          "why_start_end_and_devices": "Starts Naomi setting out from Moab. Ends 'may you find rest in a husband's house.' Devices: Selfless love amid grief; the road as a place of decision."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Orpah Turns Back; Ruth Clings",
+          "reference": "1:10-14",
+          "why_start_end_and_devices": "Starts their protest to stay. Ends 'Ruth clung to her.' Devices: The pivotal contrast—Orpah kisses, Ruth clings."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Ruth's Vow",
+          "reference": "1:15-1:18",
+          "why_start_end_and_devices": "Starts with Naomi's address to Ruth after Orpah's departure: 'See, your sister-in-law has gone back...' (1:15). Ends with debate resolution: 'And when Naomi saw that she was determined to go with her, she said no more' (1:18). This is the emotional and theological climax of the chapter, a tight, complete thought focused entirely on Ruth's decision. The center is Ruth's famous poetic vow (1:16-17), a profound statement of hesed (loyal kindness) transferring her allegiance from her people and gods to Naomi's people and God."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Empty Return to Bethlehem",
+          "reference": "1:19-1:22",
+          "why_start_end_and_devices": "Starts with new action and location: 'So the two of them went on until they came to Bethlehem' (1:19). Ends with chapter's concluding summary and narrative hinge: '...and they came to Bethlehem at the beginning of barley harvest' (1:22). Forms structural inclusio with 1:1-5. Women of Bethlehem's question ('Is this Naomi?' 1:19) prompts Naomi's key speech defining the book's central theme: 'Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me' (1:20-21), explicitly establishing the 'emptiness' that the rest of the book will resolve."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "Favor: Ruth in the Field of Boaz",
+      "why_start_end_and_literary_glue": "Chapter 2 is a complete narrative unit introducing the solution to Chapter 1's emptiness. It introduces Boaz, identifies him as a kinsman-redeemer, and demonstrates his hesed (kindness) by providing food and protection for Ruth. The narrative cohesively covers a single day's events and its immediate report. The opening 'Now Naomi had a relative of her husband's...' (2:1) immediately introduces Boaz and his legal standing as a kinsman (môda'), key to the book's plot. The closing 'So she kept close to the young women of Boaz... And she lived with her mother-in-law' (2:23) is a summary statement concluding the entire harvest period and providing temporal bridge to Chapter 3. The chapter is held together by themes of 'gleaning' (laqat) and 'find favor' (matsa' hen), with the dialogue structured around blessings (Boaz blessing his workers, blessing Ruth, Naomi blessing Boaz).",
+      "reference": "2:1-2:23",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The 'Chance' Encounter",
+          "reference": "2:1-2:3",
+          "why_start_end_and_devices": "Starts with introduction of Boaz (2:1) and Ruth's initiative (2:2). Ends with 'chance' arrival at Boaz's field: 'And her hap was to light on the part of the field belonging unto Boaz...' (2:3). Verse 4 begins new action with Boaz's arrival. This brief scene sets the entire plot in motion. Key literary device is narrative irony: the narrator states it was 'hap' (chance), but the reader, knowing 2:1, understands this is divine providence. The collision of human initiative and divine providence drives the narrative."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Boaz Notices the Stranger Gleaning",
+          "reference": "2:4-7",
+          "why_start_end_and_devices": "Starts Boaz arriving from Bethlehem. Ends the foreman's report. Devices: 'Whose young woman is this?'—providence at work."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'Stay in My Field'; Ruth's Gratitude",
+          "reference": "2:8-13",
+          "why_start_end_and_devices": "Starts Boaz's protective kindness. Ends 'you have comforted me.' Devices: Hesed (covenant kindness) flowing both ways; 'under whose wings you have taken refuge.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Boaz's Generosity at the Meal",
+          "reference": "2:14-17",
+          "why_start_end_and_devices": "Starts the shared meal. Ends an ephah of barley. Devices: Deliberate over-provision—grace exceeding the law."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Naomi's Hope is Kindled",
+          "reference": "2:18-2:23",
+          "why_start_end_and_devices": "Starts with Ruth's return: 'And she took it up and went into the city' (2:18). Ends with chapter's concluding summary: 'And she lived with her mother-in-law' (2:23). This scene parallels 1:19-22 but in reverse. Ruth brings food (fullness) instead of just herself (emptiness). Naomi's response is now a blessing (2:19-20) instead of a curse (1:20-21). Key moment is Naomi's recognition of Boaz as 'one of our redeemers' (go'el), forming basis for her plan in Chapter 3. The shift from mourning to hope is complete."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Threshing Floor: Ruth Seeks a Redeemer",
+      "why_start_end_and_literary_glue": "Chapter 3 is the central turning point of the entire book. The plot moves from passive (Ruth receiving favor) to active (Ruth proposing redemption). It is a complete, self-contained narrative unit, high in suspense, which takes place over a single night and resolves the question of Boaz's willingness to act as redeemer. The opening 'Then Naomi her mother-in-law said to her, \"My daughter, shall I not seek rest for you...\"' (3:1) marks a clear narrative shift. Naomi, now full of hope from Ch. 2, initiates a bold and risky plan. The closing 'Wait, my daughter, until you learn how the matter turns out, for the man will not rest but will finish the matter today' (3:18) is a perfect concluding statement and transition. The chapter is held together by the theme of 'rest' (manoah) sought in 3:1, repetition of 'kinsman' (go'el), and the symbolism of 'uncovering the feet' (a request for protection/marriage). The entire scene is structured around the secret, night-time encounter.",
+      "reference": "3:1-3:18",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Naomi's Daring Plan",
+          "reference": "3:1-3:5",
+          "why_start_end_and_devices": "Starts with Naomi initiating dialogue: 'Then Naomi... said...' (3:1). Ends with Ruth's agreement: 'And she replied, \"All that you say I will do\"' (3:5). Verse 6 begins execution of plan. This scene consists entirely of Naomi's instructions, mirroring 2:2 where Ruth proposed gleaning. Here, Naomi proposes the plan to secure a redeemer. Instructions are specific: wash, anoint, go to threshing floor, uncover his feet. The instructions form a coherent strategy to present Ruth as a viable marriage candidate."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "At His Feet: 'Spread Your Cloak Over Me'",
+          "reference": "3:6-9",
+          "why_start_end_and_devices": "Starts the threshing floor at night. Ends Ruth's bold request. Devices: A daring appeal to the kinsman-redeemer law; 'spread your wings.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Boaz Blesses Her; the Nearer Redeemer",
+          "reference": "3:10-13",
+          "why_start_end_and_devices": "Starts Boaz's blessing. Ends 'as the LORD lives.' Devices: A complication—a closer redeemer must be cleared first."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Six Measures of Barley Before Dawn",
+          "reference": "3:14-15",
+          "why_start_end_and_devices": "Starts the discreet departure. Ends the gift of grain. Devices: Guarding her honor; a pledge of full provision."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Report to Naomi",
+          "reference": "3:16-3:18",
+          "why_start_end_and_devices": "Starts with Ruth's return to Naomi: 'And when she came to her mother-in-law...' (3:16). Ends with chapter's resolving statement and anticipation: '...the man will not rest, but will finish the matter today' (3:18). This scene parallels 2:18-23 (Ruth returns to Naomi with grain). Naomi's opening question 'Who are you, my daughter?' prompts Ruth's report. Naomi's final speech (3:18) shows complete confidence in Boaz, resolving chapter's tension and setting stage for final act."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Fullness: The Redeemer at the Gate",
+      "why_start_end_and_literary_glue": "Chapter 4 is the book's complete resolution. It resolves the go'el (redeemer) plot complication introduced in Chapter 3, shows the public and legal redemption of both the land and Ruth, and most importantly, resolves the book's central problem of Naomi's 'emptiness' by providing her with a child. The opening 'Now Boaz had gone up to the gate...' (4:1) directly fulfills the expectation set by Naomi at the end of 3:18. The closing genealogy ending with 'and Jesse begot David' (4:22) places the intimate family drama into the grand narrative of Israel's salvation history, connecting the humble, loyal Moabitess to Israel's greatest king. The scene is dominated by legal language and repeated verb 'redeem' (ga'al). The final scene (4:13-17) forms a perfect inclusio with 1:19-22, as the women of Bethlehem, who once pitied 'Mara,' now bless Naomi for her 'fullness.'",
+      "reference": "4:1-4:22",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Nearer Kinsman Declines",
+          "reference": "4:1-6",
+          "why_start_end_and_devices": "Starts Boaz at the town gate. Ends 'you redeem it yourself.' Devices: Legal drama; the redeemer who will not risk his estate."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Sandal; Boaz Redeems and the Blessing",
+          "reference": "4:7-12",
+          "why_start_end_and_devices": "Starts the sandal custom. Ends the elders' blessing (Rachel, Leah, Tamar). Devices: Public covenant; the community blesses the union—pointing to David."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Naomi's Redemption",
+          "reference": "4:13-4:17",
+          "why_start_end_and_devices": "Starts with narrative fulfillment of legal act: 'So Boaz took Ruth...' (4:13). Ends with child named, completing family line and resolving Naomi's emptiness: 'and they named him Obed. He was the father of Jesse, the father of David' (4:17). This is the thematic climax of the book. Action moves swiftly: marriage → conception → birth (4:13). Focus shifts entirely to Naomi. Women of Bethlehem (cf. 1:19) pronounce blessing on Naomi (4:14-15), explicitly stating 'he shall be to you a restorer of life.' Naomi 'takes the child and lays him in her bosom' (4:16), symbolic adoption resolving her 'emptiness' from 1:21. Perfect inverse of the book's opening."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Genealogy to David",
+          "reference": "4:18-4:22",
+          "why_start_end_and_devices": "Starts with formal genealogical heading: 'Now these are the generations of Perez...' (4:18). Ends with book's close. This is a formal toledot (genealogy) serving as the book's colophon. The ten-generation list (Perez to David) widens the book's lens from personal family drama to event of national and theological significance, rooting Davidic kingship in the faithfulness of God and the hesed of individuals like Ruth and Boaz. The genealogy elevates Ruth from foreigner to ancestor of Israel's greatest king, answering the book's implicit question about the LORD's redemptive purposes."
+        }
+      ]
+    }
+  ]
+}

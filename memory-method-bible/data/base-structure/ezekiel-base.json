@@ -1,0 +1,2956 @@
+{
+  "book_name": "Ezekiel",
+  "hebrew_name": "יְחֶזְקֵאל (Yekhezkel)",
+  "canonical_grouping": "Major Prophets (Apocalyptic/Oracle Collection)",
+  "big_picture_notes": "The Book of Ezekiel is structurally one of the most meticulously organized books in the Old Testament, characterized by precise dating formulas and a chiastic literary framework. The book's overall structure is tripartite: (I) Oracles of Judgment against Judah and Jerusalem (Chapters 1-24), (II) Oracles of Judgment against Foreign Nations (Chapters 25-32), and (III) Oracles of Salvation and Restoration for Israel (Chapters 33-48). This structure is held together by the central theme of the kavod (glory) of Yahweh, which is seen departing from the Temple in the first section (Chapters 8-11) and returning to the new Temple in the final vision (Chapters 43-44), forming a massive inclusio. Major literary devices include highly detailed visionary descriptions, symbolic actions (mophetim) performed by the prophet, and the constant repetition of the recognition formula: 'Then they will know that I am the LORD.' The narrative moves with relentless chronological precision, marked by dates that place the oracles in the context of the Babylonian exile. The book's literary movement is a dramatic arc from divine abandonment and catastrophic judgment to national revival and eschatological perfection, all based on the covenantal principle of divine justice and restoration.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "Judgment on Jerusalem",
+      "story_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Oracles Against the Nations",
+      "story_letters": [
+        "F"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "Restoration and the New Temple",
+      "story_letters": [
+        "G",
+        "H"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Chariot Vision and the Watchman's Call",
+      "reference": "1:1 - 3:27",
+      "why_start_end_and_literary_glue": "The inaugural merkabah (chariot-throne) theophany by the River Kebar and Ezekiel's commissioning. Start (1:1): the date formula and opened heavens. End (3:27): the terms of his coming silence and speech. Glue: the divine glory (kabod), the epithet 'son of man,' and the dialogue between the prophet and the voice.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Heavens Opened by the Kebar",
+          "reference": "1:1-3",
+          "why_start_end_and_devices": "The date formula: among the exiles, the heavens open and the word of the LORD comes to Ezekiel the priest."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Four Living Creatures",
+          "reference": "1:4-7",
+          "why_start_end_and_devices": "A whirlwind from the north and the gleaming amber-fire creatures with human form and calf-like hooves."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Four Faces: Man, Lion, Ox, Eagle",
+          "reference": "1:8-11",
+          "why_start_end_and_devices": "The fourfold faces and outstretched wings of each creature."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Darting Like Lightning",
+          "reference": "1:12-14",
+          "why_start_end_and_devices": "Movement wherever the spirit goes, with glowing coals and fire flashing between them."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "A Wheel Within a Wheel",
+          "reference": "1:15-18",
+          "why_start_end_and_devices": "The beryl wheels beside the creatures, multidirectional, their rims full of eyes."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Spirit in the Wheels",
+          "reference": "1:19-21",
+          "why_start_end_and_devices": "The wheels rising and moving in perfect unison with the living creatures."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Sound of Many Waters",
+          "reference": "1:22-24",
+          "why_start_end_and_devices": "The crystal expanse above and the thunderous roar of their wings like the voice of the Almighty."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Glory of the LORD",
+          "reference": "1:25-28",
+          "why_start_end_and_devices": "The sapphire throne and the man-like figure of fire and rainbow brilliance — 'I fell facedown.'"
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Son of Man, Stand Up",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "The Spirit setting the prophet on his feet, sent to a rebellious nation."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "They Will Know a Prophet Was Among Them",
+          "reference": "2:4-5",
+          "why_start_end_and_devices": "The commission to the obstinate children whether they listen or refuse."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Do Not Be Afraid of Their Words",
+          "reference": "2:6-7",
+          "why_start_end_and_devices": "The charge not to fear the briers, thorns, and scorpions of a rebellious house."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Scroll of Lamentation",
+          "reference": "2:8-10",
+          "why_start_end_and_devices": "The outstretched hand and the scroll written front and back with mourning and woe."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Eat This Scroll",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "The ingested scroll of doom that tastes 'as sweet as honey.'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Not to a People of Strange Speech",
+          "reference": "3:4-6",
+          "why_start_end_and_devices": "Sent to Israel, who would be harder to reach than any foreign tongue."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "A Forehead Like a Diamond",
+          "reference": "3:7-9",
+          "why_start_end_and_devices": "Israel's hard-headed refusal met by a prophet made harder than flint."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Take Them to Heart",
+          "reference": "3:10-11",
+          "why_start_end_and_devices": "The charge to receive the words and speak to the exiles."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Blessed Be the Glory of the LORD",
+          "reference": "3:12-13",
+          "why_start_end_and_devices": "The Spirit lifting him amid the rumbling of the creatures' wings and wheels."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Seven Days Among the Exiles",
+          "reference": "3:14-15",
+          "why_start_end_and_devices": "Carried in bitterness to Tel-abib, sitting overwhelmed for seven days."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "A Watchman for the House of Israel",
+          "reference": "3:16-19",
+          "why_start_end_and_devices": "The watchman's blood-responsibility to warn the wicked."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Warning the Righteous",
+          "reference": "3:20-21",
+          "why_start_end_and_devices": "The accountability when a righteous man turns to sin."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Shut Yourself in Your House",
+          "reference": "3:22-24",
+          "why_start_end_and_devices": "The glory in the plain and the command to withdraw."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Bound and Mute",
+          "reference": "3:25-27",
+          "why_start_end_and_devices": "Tied with ropes and his tongue silenced until God opens his mouth."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Sign-Acts of the Siege",
+      "reference": "4:1 - 7:27",
+      "why_start_end_and_literary_glue": "Four bizarre physical sign-acts simulating Jerusalem's siege (the brick, the side-lying, the rationed bread, the shaved hair), interpreted by the oracles against the mountains (6) and 'the End' (7). Glue: the siege/famine imagery and the nearing 'day' and 'end,' sealed by the recognition formula 'they shall know that I am the LORD.'",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Brick and the Iron Plate",
+          "reference": "4:1-3",
+          "why_start_end_and_devices": "The sign-act of besieging an engraved brick behind an iron wall — a sign to Israel."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "390 Days and 40 Days",
+          "reference": "4:4-6",
+          "why_start_end_and_devices": "Lying on each side to bear the iniquity of Israel and Judah by counted days."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Bound Toward the Siege",
+          "reference": "4:7-8",
+          "why_start_end_and_devices": "Arm bared and tied with ropes until the days of the siege are finished."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Bread by Weight, Water by Measure",
+          "reference": "4:9-11",
+          "why_start_end_and_devices": "The mixed-grain rationing of siege famine."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Defiled Bread Among the Nations",
+          "reference": "4:12-13",
+          "why_start_end_and_devices": "The bread baked over excrement as a sign of unclean exile."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Cow Dung Instead",
+          "reference": "4:14-15",
+          "why_start_end_and_devices": "Ezekiel's priestly protest and God's concession."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Staff of Bread Cut Off",
+          "reference": "4:16-17",
+          "why_start_end_and_devices": "Jerusalem to waste away in rationed anxiety and despair."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Razor and the Divided Hair",
+          "reference": "5:1-2",
+          "why_start_end_and_devices": "The shaved head and beard divided in thirds — burned, struck, and scattered."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "A Few Strands Kept",
+          "reference": "5:3-4",
+          "why_start_end_and_devices": "The remnant secured in the garment, yet even some of those burned."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "This Is Jerusalem",
+          "reference": "5:5-6",
+          "why_start_end_and_devices": "The city set among the nations that rebelled more wickedly than they."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "I Myself Am Against You",
+          "reference": "5:7-9",
+          "why_start_end_and_devices": "Unprecedented judgment for her abominations in the sight of the nations."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "I Will Not Spare You",
+          "reference": "5:10-11",
+          "why_start_end_and_devices": "Fathers eating sons, the defiled sanctuary, God's pity withdrawn."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Third, a Third, a Third",
+          "reference": "5:12-13",
+          "why_start_end_and_devices": "Plague, sword, and scattering — until God's wrath is spent."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "A Reproach and a Taunt",
+          "reference": "5:14-15",
+          "why_start_end_and_devices": "Jerusalem made a ruin and a horror to the surrounding nations."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Deadly Arrows of Famine",
+          "reference": "5:16-17",
+          "why_start_end_and_devices": "Famine, wild beasts, plague, and the sword sent against her."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Set Your Face Against the Mountains",
+          "reference": "6:1-3",
+          "why_start_end_and_devices": "The oracle to the mountains of Israel and their idolatrous high places."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Slain Before Their Idols",
+          "reference": "6:4-5",
+          "why_start_end_and_devices": "The demolished altars and the scattered bones of the slain."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Then You Will Know That I Am the LORD",
+          "reference": "6:6-7",
+          "why_start_end_and_devices": "The cities laid waste, the idols smashed, the recognition formula."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Yet I Will Leave a Remnant",
+          "reference": "6:8-10",
+          "why_start_end_and_devices": "Survivors who, scattered among the nations, will loathe themselves and remember Him."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Clap Your Hands, Stomp Your Feet",
+          "reference": "6:11-12",
+          "why_start_end_and_devices": "The gesture of woe over abominations punished by sword, famine, and plague."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "A Desolate Waste from the Wilderness to Diblah",
+          "reference": "6:13-14",
+          "why_start_end_and_devices": "The slain among their idols, the whole land made desolate."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The End Has Come",
+          "reference": "7:1-4",
+          "why_start_end_and_devices": "The staccato 'end' upon the four corners of the land, judged without pity."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Disaster! The Day Is Near",
+          "reference": "7:5-7",
+          "why_start_end_and_devices": "The unprecedented doom rousing itself against the inhabitants."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "I, the LORD, Who Strikes the Blow",
+          "reference": "7:8-9",
+          "why_start_end_and_devices": "Wrath poured out and repaid according to their abominations."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Rod Has Budded",
+          "reference": "7:10-11",
+          "why_start_end_and_devices": "Arrogance bloomed into violence, and none of the multitude will remain."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Let the Buyer Not Rejoice",
+          "reference": "7:12-13",
+          "why_start_end_and_devices": "The futility of commerce when wrath is on the whole multitude."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "No One Goes to War",
+          "reference": "7:14-15",
+          "why_start_end_and_devices": "The trumpet sounded in vain; sword without, plague and famine within."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Moaning Like Doves of the Valley",
+          "reference": "7:16-18",
+          "why_start_end_and_devices": "The survivors in sackcloth, every hand limp and every knee water."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Silver Thrown into the Streets",
+          "reference": "7:19-20",
+          "why_start_end_and_devices": "Wealth become an unclean stumbling block, their idols made detestable."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "They Will Defile My Treasured Place",
+          "reference": "7:21-22",
+          "why_start_end_and_devices": "Plunder to foreigners as God turns His face from the violated sanctuary."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Forge the Chain",
+          "reference": "7:23-24",
+          "why_start_end_and_devices": "The most wicked of nations brought to seize the violent, bloodstained land."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "They Will Seek a Vision, but Find None",
+          "reference": "7:25-27",
+          "why_start_end_and_devices": "The failed prophet, priest, and elder; the king mourning in despair."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Temple Vision and the Glory Departing",
+      "reference": "8:1 - 11:25",
+      "why_start_end_and_literary_glue": "A continuous vision: transported from Babylon to Jerusalem to witness the temple abominations, the marking and slaughter, and the stage-by-stage departure of the glory of the LORD. Start (8:1): the date and transport. End (11:25): return to the exiles. Glue: the moving kabod tracking the abandonment of the sanctuary, with the promise of a 'heart of flesh.'",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Transported to the Idol of Jealousy",
+          "reference": "8:1-4",
+          "why_start_end_and_devices": "The sixth-year vision: carried by the hair to Jerusalem to see the glory and the provoking idol."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Greater Abominations to See",
+          "reference": "8:5-6",
+          "why_start_end_and_devices": "The idol of jealousy at the Altar Gate that drives God from His sanctuary."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Dig Through the Wall",
+          "reference": "8:7-9",
+          "why_start_end_and_devices": "The hidden doorway into the chamber of wicked abominations."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Elders in the Dark",
+          "reference": "8:10-12",
+          "why_start_end_and_devices": "Crawling-creature idols and seventy censer-bearing elders — 'the LORD does not see us.'"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Women Weeping for Tammuz",
+          "reference": "8:13-15",
+          "why_start_end_and_devices": "The pagan mourning-rite at the north gate of the temple."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Worshiping the Sun",
+          "reference": "8:16-18",
+          "why_start_end_and_devices": "Twenty-five men with backs to the temple bowing east — 'I will respond with wrath.'"
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Executioners and the Man in Linen",
+          "reference": "9:1-2",
+          "why_start_end_and_devices": "The six armed men summoned, with the scribe bearing a writing kit."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Mark the Foreheads of Those Who Sigh",
+          "reference": "9:3-4",
+          "why_start_end_and_devices": "The glory at the threshold; the mark set on those who grieve over the abominations."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Begin at My Sanctuary",
+          "reference": "9:5-7",
+          "why_start_end_and_devices": "The pitiless slaughter starting with the elders before the temple."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Will You Destroy the Remnant?",
+          "reference": "9:8-11",
+          "why_start_end_and_devices": "The prophet's cry, God's verdict on exceeding iniquity, and the scribe's report."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Coals from Among the Cherubim",
+          "reference": "10:1-2",
+          "why_start_end_and_devices": "The sapphire throne and the command to scatter burning coals over the city."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Cloud Fills the Court",
+          "reference": "10:3-5",
+          "why_start_end_and_devices": "The glory rising to the threshold amid the thunderous sound of the cherubim's wings."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Fire Taken from the Wheelwork",
+          "reference": "10:6-8",
+          "why_start_end_and_devices": "The cherub handing fire to the man in linen, human hands beneath their wings."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "A Wheel Within a Wheel",
+          "reference": "10:9-11",
+          "why_start_end_and_devices": "The beryl wheels moving in any direction without turning."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Whirling Wheels",
+          "reference": "10:12-14",
+          "why_start_end_and_devices": "Bodies full of eyes and the four faces of each cherub."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Living Creatures of the Kebar",
+          "reference": "10:15-17",
+          "why_start_end_and_devices": "The cherubim recognized as the inaugural-vision creatures, the spirit in the wheels."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Glory Leaves the Threshold",
+          "reference": "10:18-19",
+          "why_start_end_and_devices": "The kabod moving to stand at the east gate of the temple."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "I Knew They Were Cherubim",
+          "reference": "10:20-22",
+          "why_start_end_and_devices": "The explicit identification with the vision by the River Kebar."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The City Is the Pot, We Are the Meat",
+          "reference": "11:1-3",
+          "why_start_end_and_devices": "The twenty-five wicked counselors at the east gate and their false proverb of safety."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Slain Are the Meat",
+          "reference": "11:4-7",
+          "why_start_end_and_devices": "God reversing the proverb: the corpses they made are the meat, and He will remove them."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Judged to the Borders of Israel",
+          "reference": "11:8-10",
+          "why_start_end_and_devices": "The sword brought against them, delivered to foreigners."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "You Will Know That I Am the LORD",
+          "reference": "11:11-12",
+          "why_start_end_and_devices": "The city no refuge-pot for those who followed the nations' ordinances."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Will You End the Remnant?",
+          "reference": "11:13-15",
+          "why_start_end_and_devices": "Pelatiah's sudden death, the prophet's cry, and the scorn of those left in Jerusalem."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "A Sanctuary in the Countries",
+          "reference": "11:16-17",
+          "why_start_end_and_devices": "The promise to be a little sanctuary in exile and to regather them to the land."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "A Heart of Flesh",
+          "reference": "11:18-21",
+          "why_start_end_and_devices": "The stony heart removed and a new spirit given — 'they will be My people.'"
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Glory Departs the City",
+          "reference": "11:22-23",
+          "why_start_end_and_devices": "The kabod rising and standing over the mountain east of Jerusalem."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Carried Back to Chaldea",
+          "reference": "11:24-25",
+          "why_start_end_and_devices": "The Spirit returning Ezekiel to the exiles to report all he had seen."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "Parables and Oracles of Judgment",
+      "reference": "12:1 - 19:14",
+      "why_start_end_and_literary_glue": "A cluster of sign-acts, disputations, and allegories on Jerusalem's certain fall: the exile-baggage, false prophets, the useless vine, the foundling bride (16), the two eagles (17), individual responsibility (18), and the lament for the princes (19). Glue: the discrediting of false hope and the parable/allegory form.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Pack Your Bags for Exile",
+          "reference": "12:1-3",
+          "why_start_end_and_devices": "The sign-act to a rebellious house with eyes that do not see."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Dig Through the Wall",
+          "reference": "12:4-7",
+          "why_start_end_and_devices": "Carrying the exile-baggage out at dusk, face covered, as a sign — and Ezekiel obeying."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "This Burden Concerns the Prince",
+          "reference": "12:8-10",
+          "why_start_end_and_devices": "The meaning for the prince in Jerusalem and all the house of Israel."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Caught in My Snare",
+          "reference": "12:11-13",
+          "why_start_end_and_devices": "The prince taken to Babylon, which he will not see, and there die."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Scattered to Every Wind",
+          "reference": "12:14-16",
+          "why_start_end_and_devices": "His attendants dispersed, a few spared to recount their abominations."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Eat Your Bread with Trembling",
+          "reference": "12:17-20",
+          "why_start_end_and_devices": "The second sign: anxious eating and drinking as the land is stripped by violence."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Every Vision Will Be Fulfilled",
+          "reference": "12:21-25",
+          "why_start_end_and_devices": "The end of the proverb 'every vision fails' — God's word delayed no longer."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "None of My Words Will Be Delayed",
+          "reference": "12:26-28",
+          "why_start_end_and_devices": "Against those who push the vision off to the distant future."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Woe to the Foolish Prophets",
+          "reference": "13:1-3",
+          "why_start_end_and_devices": "Those who prophesy out of their own imagination, having seen nothing."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Foxes Among the Ruins",
+          "reference": "13:4-7",
+          "why_start_end_and_devices": "Prophets who did not repair the wall, seeing false visions."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "I Am Against You",
+          "reference": "13:8-9",
+          "why_start_end_and_devices": "The lying prophets cut from the register of the house of Israel."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Whitewashing a Flimsy Wall",
+          "reference": "13:10-12",
+          "why_start_end_and_devices": "The false 'peace' covered over a wall doomed to fall in the storm."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "I Will Tear Down the Wall",
+          "reference": "13:13-14",
+          "why_start_end_and_devices": "The windstorm and hail leveling the whitewashed wall to its foundation."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Peace Where There Was No Peace",
+          "reference": "13:15-16",
+          "why_start_end_and_devices": "The end of the prophets who prophesied false peace to Jerusalem."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Women Who Sew Magic Charms",
+          "reference": "13:17-19",
+          "why_start_end_and_devices": "The false prophetesses ensnaring souls for handfuls of barley."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "I Will Free the Ensnared Souls",
+          "reference": "13:20-21",
+          "why_start_end_and_devices": "God tearing off their charms and veils to deliver His people."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "No More False Visions",
+          "reference": "13:22-23",
+          "why_start_end_and_devices": "Judgment for disheartening the righteous and encouraging the wicked."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Idols Set Up in Their Hearts",
+          "reference": "14:1-3",
+          "why_start_end_and_devices": "The inquiring elders whom God refuses to be consulted by."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Answered According to His Idolatry",
+          "reference": "14:4-5",
+          "why_start_end_and_devices": "God seizing the hearts of the idol-estranged."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Repent and Turn from Your Idols",
+          "reference": "14:6-8",
+          "why_start_end_and_devices": "The call to turn, and the cutting-off of the unrepentant idolater."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Enticed Prophet",
+          "reference": "14:9-11",
+          "why_start_end_and_devices": "Both inquirer and deceived prophet bearing the same punishment."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Noah, Daniel, and Job",
+          "reference": "14:12-14",
+          "why_start_end_and_devices": "Even these three could deliver only themselves from a sinning land's famine."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Wild Beasts in the Land",
+          "reference": "14:15-16",
+          "why_start_end_and_devices": "The same verdict under the judgment of beasts — only the righteous delivered."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Sword Through the Land",
+          "reference": "14:17-18",
+          "why_start_end_and_devices": "The same under the sword: they could not save even their own children."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Plague Poured Out",
+          "reference": "14:19-20",
+          "why_start_end_and_devices": "The same under plague — Noah, Daniel, and Job deliver only themselves."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "My Four Dire Judgments",
+          "reference": "14:21-23",
+          "why_start_end_and_devices": "Sword, famine, beasts, and plague on Jerusalem, yet survivors to bring consolation."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Wood of the Vine",
+          "reference": "15:1-5",
+          "why_start_end_and_devices": "The parable of the useless vine-wood, fit only for fuel and charred."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "So I Will Give Up Jerusalem",
+          "reference": "15:6-8",
+          "why_start_end_and_devices": "The vine-people handed to the fire, the land made desolate for unfaithfulness."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Your Father an Amorite, Your Mother a Hittite",
+          "reference": "16:1-3",
+          "why_start_end_and_devices": "The allegory of Jerusalem's pagan origins."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Thrown Out in the Open Field",
+          "reference": "16:4-5",
+          "why_start_end_and_devices": "The despised newborn left to die, uncared for on the day of her birth."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "I Said to You, 'Live!'",
+          "reference": "16:6-7",
+          "why_start_end_and_devices": "God passing by, giving life, and the foundling growing to beauty yet naked."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "I Entered into a Covenant with You",
+          "reference": "16:8-9",
+          "why_start_end_and_devices": "The spread cloak, the pledge, the washing — 'you became Mine.'"
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Adorned with Jewelry and a Crown",
+          "reference": "16:10-12",
+          "why_start_end_and_devices": "The lavish clothing, ornaments, and crown bestowed on her."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "You Rose to Be Queen",
+          "reference": "16:13-14",
+          "why_start_end_and_devices": "Her perfected beauty and fame spread among the nations."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "You Played the Harlot",
+          "reference": "16:15-16",
+          "why_start_end_and_devices": "Trusting in her beauty, prostituting herself to all who passed by."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Male Idols from My Gifts",
+          "reference": "16:17-19",
+          "why_start_end_and_devices": "Her gold and food turned into idols and pleasing offerings to them."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "You Sacrificed My Children",
+          "reference": "16:20-22",
+          "why_start_end_and_devices": "Child sacrifice to idols, forgetting the days of her bloody infancy."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "A Lofty Shrine at Every Street",
+          "reference": "16:23-25",
+          "why_start_end_and_devices": "The escalating promiscuity that degraded her beauty."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "With Egypt and Assyria",
+          "reference": "16:26-28",
+          "why_start_end_and_devices": "Prostitution with lustful neighbors, never satisfied."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Not Even Like a Prostitute",
+          "reference": "16:29-31",
+          "why_start_end_and_devices": "Extended to Chaldea, yet scorning the payment a harlot receives."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Adulterous Wife Who Pays",
+          "reference": "16:32-34",
+          "why_start_end_and_devices": "The reversal: bribing her lovers to come to her."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "I Will Expose You Before Your Lovers",
+          "reference": "16:35-37",
+          "why_start_end_and_devices": "The gathering of all her lovers to see her nakedness."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Punishment of Adulteresses",
+          "reference": "16:38-39",
+          "why_start_end_and_devices": "Stripped and plundered, her shrines torn down."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "A Mob to Stone You",
+          "reference": "16:40-41",
+          "why_start_end_and_devices": "Houses burned and judgment executed before many women."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "I Will Lay to Rest My Wrath",
+          "reference": "16:42-43",
+          "why_start_end_and_devices": "God's jealousy turned away after bringing her deeds on her head."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Like Mother, Like Daughter",
+          "reference": "16:44-46",
+          "why_start_end_and_devices": "Jerusalem the sister of Samaria and Sodom in her abominations."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "More Depraved Than Sodom",
+          "reference": "16:47-48",
+          "why_start_end_and_devices": "Her sins surpassing even those of her sister cities."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "The Iniquity of Sodom",
+          "reference": "16:49-50",
+          "why_start_end_and_devices": "Arrogant, overfed, and complacent, ignoring the poor and needy."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "You Made Your Sisters Appear Righteous",
+          "reference": "16:51-52",
+          "why_start_end_and_devices": "Bearing her disgrace for sins more vile than Samaria's or Sodom's."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "I Will Restore Them, and You with Them",
+          "reference": "16:53-55",
+          "why_start_end_and_devices": "The surprising promise to restore Sodom, Samaria, and Jerusalem."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "You Bear Your Lewdness",
+          "reference": "16:56-58",
+          "why_start_end_and_devices": "Once-scornful Jerusalem now scorned by Edom and the Philistines."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "An Everlasting Covenant",
+          "reference": "16:59-60",
+          "why_start_end_and_devices": "God remembering the covenant of her youth despite her broken oath."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "When I Make Atonement",
+          "reference": "16:61-63",
+          "why_start_end_and_devices": "Her shamed silence when God atones for all she has done."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The Great Eagle and the Cedar",
+          "reference": "17:1-4",
+          "why_start_end_and_devices": "The riddle: an eagle plucking the cedar's top and carrying it to a land of traders."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "A Spreading, Low Vine",
+          "reference": "17:5-6",
+          "why_start_end_and_devices": "The planted seed that grew into a vine bending toward the first eagle."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "A Second Great Eagle",
+          "reference": "17:7-8",
+          "why_start_end_and_devices": "The vine stretching its roots toward another eagle for water."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Will It Flourish?",
+          "reference": "17:9-10",
+          "why_start_end_and_devices": "The verdict that the east wind will wither the transplanted vine."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "The King of Babylon's Covenant",
+          "reference": "17:11-14",
+          "why_start_end_and_devices": "The interpretation: Nebuchadnezzar carrying off Judah's king and binding a vassal by oath."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "He Rebelled by Sending to Egypt",
+          "reference": "17:15-16",
+          "why_start_end_and_devices": "The covenant-breaker who will die in Babylon for despising his oath."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Pharaoh Will Not Help Him",
+          "reference": "17:17-18",
+          "why_start_end_and_devices": "The futility of Egypt's army against the siege; the broken pledge."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Caught in My Snare",
+          "reference": "17:19-21",
+          "why_start_end_and_devices": "God bringing down on his head the despised oath, scattering his troops."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "A Tender Sprig on a Lofty Mountain",
+          "reference": "17:22-24",
+          "why_start_end_and_devices": "The messianic promise: a cedar-shoot planted on Israel's heights sheltering every bird."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "The Soul Who Sins Will Die",
+          "reference": "18:1-4",
+          "why_start_end_and_devices": "The end of the sour-grapes proverb: every soul belongs to God."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Righteous Man Will Live",
+          "reference": "18:5-9",
+          "why_start_end_and_devices": "The portrait of the just man who keeps God's statutes."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "The Violent Son Will Die",
+          "reference": "18:10-13",
+          "why_start_end_and_devices": "The wicked son who will bear his own blood-guilt."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "The Righteous Grandson Will Live",
+          "reference": "18:14-17",
+          "why_start_end_and_devices": "The son who sees his father's sins and turns from them."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "A Son Will Not Bear His Father's Guilt",
+          "reference": "18:18-20",
+          "why_start_end_and_devices": "Each accountable for his own righteousness or wickedness."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "I Take No Pleasure in the Death of the Wicked",
+          "reference": "18:21-23",
+          "why_start_end_and_devices": "The wicked who turns and lives — God preferring repentance to death."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "If a Righteous Man Turns Away",
+          "reference": "18:24-26",
+          "why_start_end_and_devices": "The reversal: forsaken righteousness not remembered, against the charge 'the Lord is not just.'"
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "If a Wicked Man Turns",
+          "reference": "18:27-29",
+          "why_start_end_and_devices": "The wicked who repents and saves his life — 'are My ways unjust?'"
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Fashion a New Heart and Spirit",
+          "reference": "18:30-32",
+          "why_start_end_and_devices": "The call to repent and live, for God takes no pleasure in anyone's death."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Your Mother a Lioness",
+          "reference": "19:1-4",
+          "why_start_end_and_devices": "The lament for the princes: the first cub trapped and led to Egypt."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "The Second Young Lion",
+          "reference": "19:5-7",
+          "why_start_end_and_devices": "Another cub that devoured men and devastated cities."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Brought to the King of Babylon",
+          "reference": "19:8-9",
+          "why_start_end_and_devices": "The second lion caged and silenced on the mountains of Israel."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "A Vine Fit for a Ruler's Scepter",
+          "reference": "19:10-11",
+          "why_start_end_and_devices": "The mother as a fruitful vine with strong, towering branches."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Uprooted in Fury",
+          "reference": "19:12-14",
+          "why_start_end_and_devices": "The vine cast down, dried by the east wind, consumed by fire — 'this is a lament.'"
+        }
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "The History of Rebellion",
+      "reference": "20:1 - 24:27",
+      "why_start_end_and_literary_glue": "The rehearsal of Israel's rebellious history (20), the sword song (21), the bloody city's sins (22), the allegory of Oholah and Oholibah (23), and the boiling pot with the death of Ezekiel's wife as a sign (24), which seals the first half as Jerusalem falls. Glue: the lawsuit of accumulated guilt reaching its terminus.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "I Will Not Be Consulted by You",
+          "reference": "20:1-3",
+          "why_start_end_and_devices": "The seventh-year inquiry refused as the elders sit before the prophet."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "I Swore an Oath in Egypt",
+          "reference": "20:4-6",
+          "why_start_end_and_devices": "God's self-revelation to Jacob's house — 'I am the LORD your God.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "But They Rebelled in Egypt",
+          "reference": "20:7-9",
+          "why_start_end_and_devices": "Their clinging to Egypt's idols, yet God acting for His name's sake."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "My Sabbaths as a Sign",
+          "reference": "20:10-12",
+          "why_start_end_and_devices": "The statutes given in the wilderness and the Sabbath sanctifying-sign."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "They Rebelled in the Wilderness",
+          "reference": "20:13-14",
+          "why_start_end_and_devices": "The profaned Sabbaths met by mercy for the sake of God's name."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "I Swore Not to Bring Them In",
+          "reference": "20:15-17",
+          "why_start_end_and_devices": "The oath barring that generation, yet God's restraining pity."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Do Not Walk in Your Fathers' Statutes",
+          "reference": "20:18-20",
+          "why_start_end_and_devices": "The charge to the next generation to keep God's ordinances and Sabbaths."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "But the Children Rebelled",
+          "reference": "20:21-22",
+          "why_start_end_and_devices": "The second generation's rebellion and God's withheld hand."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Statutes That Were Not Good",
+          "reference": "20:23-26",
+          "why_start_end_and_devices": "The oath to scatter them, given over to ruinous practices."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Your Fathers Blasphemed Me",
+          "reference": "20:27-29",
+          "why_start_end_and_devices": "The high-place worship in the land — the shrine named Bamah."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Will You Defile Yourselves Like Them?",
+          "reference": "20:30-31",
+          "why_start_end_and_devices": "The continuing child-sacrifice idolatry — 'I will not be consulted.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "I Will Rule Over You",
+          "reference": "20:32-33",
+          "why_start_end_and_devices": "The wish to be like the nations thwarted by God's mighty hand."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Wilderness of the Nations",
+          "reference": "20:34-36",
+          "why_start_end_and_devices": "A new exodus into face-to-face judgment as with the fathers."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Pass Under the Rod",
+          "reference": "20:37-38",
+          "why_start_end_and_devices": "The covenant-bond, with the rebels purged from entering the land."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "On My Holy Mountain They Will Serve Me",
+          "reference": "20:39-40",
+          "why_start_end_and_devices": "The ironic 'go serve your idols,' then the promise of true worship on Zion."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Accepted as a Pleasing Aroma",
+          "reference": "20:41-42",
+          "why_start_end_and_devices": "God's holiness shown through the regathered people brought into the land."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "You Will Loathe Yourselves",
+          "reference": "20:43-44",
+          "why_start_end_and_devices": "The shame of remembered sin, God dealing with them for His name's sake."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "A Fire in the Forest of the Negev",
+          "reference": "20:45-47",
+          "why_start_end_and_devices": "The oracle to the south: an unquenchable flame scorching every face."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Is He Not Just Telling Parables?",
+          "reference": "20:48-49",
+          "why_start_end_and_devices": "The people's dismissal of the prophet's vivid imagery."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "I Will Draw My Sword",
+          "reference": "21:1-3",
+          "why_start_end_and_devices": "The oracle against Jerusalem cutting off both righteous and wicked."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "My Sword Will Not Return",
+          "reference": "21:4-5",
+          "why_start_end_and_devices": "The unsheathed sword against everyone from south to north."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Groan with a Broken Heart",
+          "reference": "21:6-7",
+          "why_start_end_and_devices": "The prophet's sign-groan over the news that makes every heart melt."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "A Sword, a Sword, Sharpened",
+          "reference": "21:8-10",
+          "why_start_end_and_devices": "The polished blade flashing like lightning for the slaughter."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Cry Out and Wail",
+          "reference": "21:11-12",
+          "why_start_end_and_devices": "The sword in the slayer's hand against the princes of Israel."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Let the Sword Strike Two, Even Three",
+          "reference": "21:13-14",
+          "why_start_end_and_devices": "The great slaughter closing in on every side."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "I Will Satisfy My Wrath",
+          "reference": "21:15-17",
+          "why_start_end_and_devices": "The sword appointed at every gate, God striking His hands together."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Two Roads for the Sword of Babylon",
+          "reference": "21:18-20",
+          "why_start_end_and_devices": "The signpost marking the routes to Rabbah and to Jerusalem."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The King at the Fork in the Road",
+          "reference": "21:21-22",
+          "why_start_end_and_devices": "Nebuchadnezzar's divination pointing the omen toward Jerusalem."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "You Shall Be Taken in Hand",
+          "reference": "21:23-24",
+          "why_start_end_and_devices": "The exposed guilt of those who break their sworn allegiance."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Remove the Turban; a Ruin",
+          "reference": "21:25-27",
+          "why_start_end_and_devices": "The profane prince deposed — a ruin 'until He comes to whom it belongs.'"
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "A Sword Against the Ammonites",
+          "reference": "21:28-29",
+          "why_start_end_and_devices": "The drawn sword for their contempt, placed on the necks of the slain."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "You Will Be Fuel for the Fire",
+          "reference": "21:30-32",
+          "why_start_end_and_devices": "The sword returned to judge Ammon in the land of its origin."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The City of Bloodshed",
+          "reference": "22:1-2",
+          "why_start_end_and_devices": "The summons to judge the city full of blood and idols."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "You Have Brought Your Days to a Close",
+          "reference": "22:3-5",
+          "why_start_end_and_devices": "The self-doomed city made a reproach to all lands."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Every Prince Sheds Blood",
+          "reference": "22:6-8",
+          "why_start_end_and_devices": "The catalog of sins: oppressed orphan and widow, despised Sabbaths."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Abominations Within You",
+          "reference": "22:9-11",
+          "why_start_end_and_devices": "Slander, incest, and indecency among her people."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Me You Have Forgotten",
+          "reference": "22:12-14",
+          "why_start_end_and_devices": "Bribery and extortion answered by God's striking hands."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "I Will Scatter You Among the Nations",
+          "reference": "22:15-16",
+          "why_start_end_and_devices": "The purging dispersal by which they will know the LORD."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Israel Has Become Dross",
+          "reference": "22:17-18",
+          "why_start_end_and_devices": "The house of Israel as worthless metal in the furnace."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Melted Within the City",
+          "reference": "22:19-22",
+          "why_start_end_and_devices": "God gathering them into Jerusalem to melt them in His wrath."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "A Land Not Cleansed",
+          "reference": "22:23-24",
+          "why_start_end_and_devices": "The land on which no cleansing rain has fallen in the day of wrath."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Princes Like a Roaring Lion",
+          "reference": "22:25-26",
+          "why_start_end_and_devices": "The devouring leaders and the priests who profane God's holy things."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Officials Like Wolves",
+          "reference": "22:27-28",
+          "why_start_end_and_devices": "The dishonest officials and the whitewashing false prophets."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "I Found No One to Stand in the Gap",
+          "reference": "22:29-31",
+          "why_start_end_and_devices": "The searched-for intercessor not found, so wrath is poured out."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Oholah and Oholibah",
+          "reference": "23:1-4",
+          "why_start_end_and_devices": "The two sisters — Samaria and Jerusalem — who prostituted themselves from youth."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Oholah Lusted After Assyria",
+          "reference": "23:5-7",
+          "why_start_end_and_devices": "Samaria's prostitution with the Assyrian warriors and their idols."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Delivered into Her Lovers' Hands",
+          "reference": "23:8-10",
+          "why_start_end_and_devices": "Samaria exposed and put to the sword, a byword among women."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Oholibah More Depraved",
+          "reference": "23:11-13",
+          "why_start_end_and_devices": "Jerusalem outdoing her sister, lusting after the same Assyrians."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Lust for the Chaldeans on the Wall",
+          "reference": "23:14-16",
+          "why_start_end_and_devices": "Jerusalem sending for the Babylonians she saw portrayed in vermilion."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "She Turned Away in Disgust",
+          "reference": "23:17-18",
+          "why_start_end_and_devices": "Defiled by the Babylonians, then loathing them as God loathed her."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Remembering the Days of Egypt",
+          "reference": "23:19-21",
+          "why_start_end_and_devices": "Multiplied promiscuity recalling her lewd youth in Egypt."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "I Will Incite Your Lovers Against You",
+          "reference": "23:22-24",
+          "why_start_end_and_devices": "The Babylonians and Chaldeans brought against her on every side."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "They Will Cut Off Your Nose and Ears",
+          "reference": "23:25-26",
+          "why_start_end_and_devices": "The fury of mutilation and the stripping of her finery."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Left Naked and Bare",
+          "reference": "23:27-29",
+          "why_start_end_and_devices": "An end to her Egypt-rooted indecency, delivered to those she hates."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "You Will Drink Your Sister's Cup",
+          "reference": "23:30-32",
+          "why_start_end_and_devices": "The deep, wide cup of scorn passed from Samaria to Jerusalem."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Drunkenness and Grief",
+          "reference": "23:33-35",
+          "why_start_end_and_devices": "The cup of desolation drained, for forgetting God and casting Him behind her back."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "They Defiled My Sanctuary",
+          "reference": "23:36-38",
+          "why_start_end_and_devices": "The sisters' adultery, child-sacrifice, and profaned Sabbaths."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "They Entered My Sanctuary to Profane It",
+          "reference": "23:39-41",
+          "why_start_end_and_devices": "Child-slaughter followed by temple-defilement and the couch of luxury."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Used as a Prostitute",
+          "reference": "23:42-44",
+          "why_start_end_and_devices": "The carefree crowd and the men who slept with the lewd sisters."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Righteous Men Will Sentence Them",
+          "reference": "23:45-47",
+          "why_start_end_and_devices": "The mob bringing the adulteresses' judgment of stoning and fire."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "An End to Indecency in the Land",
+          "reference": "23:48-49",
+          "why_start_end_and_devices": "The warning to all women, and the recognition formula."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Write Down This Date",
+          "reference": "24:1-2",
+          "why_start_end_and_devices": "The very day the king of Babylon laid siege to Jerusalem."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Put the Pot on the Fire",
+          "reference": "24:3-5",
+          "why_start_end_and_devices": "The parable of the boiling cauldron filled with choice meat and bones."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Pot Whose Rust Will Not Come Off",
+          "reference": "24:6-8",
+          "why_start_end_and_devices": "Woe to the bloody city whose unburied blood cries for vengeance."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Pile the Kindling High",
+          "reference": "24:9-11",
+          "why_start_end_and_devices": "The empty pot heated until its copper glows and its impurity melts."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Its Rust Not Removed Even by Fire",
+          "reference": "24:12-14",
+          "why_start_end_and_devices": "The uncleanness God's wrath alone can purge — 'I will not relent.'"
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "The Desire of Your Eyes Taken",
+          "reference": "24:15-17",
+          "why_start_end_and_devices": "The command not to mourn the coming death of Ezekiel's wife."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "My Wife Died",
+          "reference": "24:18-19",
+          "why_start_end_and_devices": "The sign performed, and the people's question of its meaning."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "I Will Desecrate My Sanctuary",
+          "reference": "24:20-21",
+          "why_start_end_and_devices": "The temple, the desire of their eyes, to be profaned and their children to fall."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Ezekiel Will Be a Sign",
+          "reference": "24:22-24",
+          "why_start_end_and_devices": "The exiles to mourn silently as he did when the news comes."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Your Mouth Will Be Opened",
+          "reference": "24:25-27",
+          "why_start_end_and_devices": "The promise that the fugitive's report will end the prophet's muteness."
+        }
+      ]
+    },
+    {
+      "story_letter": "F",
+      "story_title": "Oracles Against the Nations",
+      "reference": "25:1 - 32:32",
+      "why_start_end_and_literary_glue": "The transitional judgments on the surrounding nations — Ammon, Moab, Edom, Philistia (25), Tyre (26-28), and Egypt (29-32) — demonstrating the LORD's universal sovereignty. Glue: the nation-by-nation oracle formula and the recurring recognition formula.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Against Ammon: Rabbah a Pasture",
+          "reference": "25:1-5",
+          "why_start_end_and_devices": "Judgment for gloating 'Aha!' over the fall of the sanctuary — Ammon given to the people of the East."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "You Clapped and Stomped",
+          "reference": "25:6-7",
+          "why_start_end_and_devices": "Plunder for rejoicing over the land of Israel with contempt."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Against Moab",
+          "reference": "25:8-11",
+          "why_start_end_and_devices": "Moab's flank exposed for saying Judah is like all the nations."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Against Edom",
+          "reference": "25:12-14",
+          "why_start_end_and_devices": "Vengeance on Edom by the hand of Israel for acting vengefully against Judah."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Against the Philistines",
+          "reference": "25:15-17",
+          "why_start_end_and_devices": "Great vengeance on the Cherethites for their ancient hostility."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Tyre's 'Aha!' Over Jerusalem",
+          "reference": "26:1-2",
+          "why_start_end_and_devices": "The mercantile city gloating that Jerusalem's fall opens the gate to her gain."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Scraped to a Bare Rock",
+          "reference": "26:3-6",
+          "why_start_end_and_devices": "Many nations brought like waves to make Tyre a place to spread nets."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Nebuchadnezzar from the North",
+          "reference": "26:7-9",
+          "why_start_end_and_devices": "The king of kings bringing siege works and battering rams against her."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Your Pillars Will Fall",
+          "reference": "26:10-12",
+          "why_start_end_and_devices": "The trampling cavalry, the plundered wealth, the stones cast into the sea."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Never to Be Rebuilt",
+          "reference": "26:13-14",
+          "why_start_end_and_devices": "The silenced songs and the bare rock for fishing nets."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Princes of the Sea Lament",
+          "reference": "26:15-18",
+          "why_start_end_and_devices": "The trembling coastlands and the dirge over the fallen city of renown."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Down to the Pit",
+          "reference": "26:19-21",
+          "why_start_end_and_devices": "Tyre covered by the deep, an object of horror, sought but never found."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Lament for Tyre",
+          "reference": "27:1-3",
+          "why_start_end_and_devices": "The ship-city's boast: 'I am perfect in beauty.'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Cypress, Cedar, and Oak",
+          "reference": "27:4-6",
+          "why_start_end_and_devices": "The fine materials of the ship from Senir, Lebanon, and Bashan."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Sidon's Oarsmen, Gebal's Shipwrights",
+          "reference": "27:7-9",
+          "why_start_end_and_devices": "The skilled crew and craftsmen who manned and repaired her."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "They Perfected Your Beauty",
+          "reference": "27:10-11",
+          "why_start_end_and_devices": "The warriors of Persia, Lydia, and Put hanging their shields on her walls."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Tarshish, Javan, Togarmah",
+          "reference": "27:12-14",
+          "why_start_end_and_devices": "The trading partners exchanging metals, slaves, and horses."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Dedan, Aram, Judah and Israel",
+          "reference": "27:15-17",
+          "why_start_end_and_devices": "The wide network supplying ivory, turquoise, wheat, and balm."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Damascus and Dedan",
+          "reference": "27:18-20",
+          "why_start_end_and_devices": "Wine of Helbon, wool, wrought iron, and saddlecloths."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Arabia, Sheba, and Eden",
+          "reference": "27:21-24",
+          "why_start_end_and_devices": "The eastern merchants trading lambs, gold, spices, and fine garments."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The East Wind Will Shatter You",
+          "reference": "27:25-27",
+          "why_start_end_and_devices": "The heavy-laden ship sinking into the heart of the sea."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Dust on Their Heads",
+          "reference": "27:28-30",
+          "why_start_end_and_devices": "The sailors crying out and mourning over the wreck."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Who Was Ever Like Tyre?",
+          "reference": "27:31-33",
+          "why_start_end_and_devices": "The lament of the seafarers over the city that enriched the kings of the earth."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "A Horrible End",
+          "reference": "27:34-36",
+          "why_start_end_and_devices": "Tyre shattered in the depths, the nations hissing at her demise."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "You Are a Man, Not a God",
+          "reference": "28:1-2",
+          "why_start_end_and_devices": "The proud ruler of Tyre claiming divinity in the heart of the sea."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Wiser Than Daniel",
+          "reference": "28:3-5",
+          "why_start_end_and_devices": "The trader whose wisdom amassed wealth and bred pride."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Brought Down to the Pit",
+          "reference": "28:6-8",
+          "why_start_end_and_devices": "Ruthless foreigners brought to defile his splendor with the sword."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Will You Still Say 'I Am a God'?",
+          "reference": "28:9-10",
+          "why_start_end_and_devices": "The death of the uncircumcised at the hands of his slayers."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Seal of Perfection in Eden",
+          "reference": "28:11-13",
+          "why_start_end_and_devices": "The lament for the king of Tyre, adorned with every precious stone in God's garden."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Anointed Guardian Cherub",
+          "reference": "28:14-15",
+          "why_start_end_and_devices": "Blameless on the holy mountain until wickedness was found in him."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Cast from the Mountain of God",
+          "reference": "28:16-17",
+          "why_start_end_and_devices": "Pride and trade-violence bringing his fall to the earth."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Reduced to Ashes",
+          "reference": "28:18-19",
+          "why_start_end_and_devices": "Fire from within consuming the one who profaned his sanctuaries."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Against Sidon",
+          "reference": "28:20-22",
+          "why_start_end_and_devices": "God to be glorified and shown holy in judgment on the city."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "No More a Pricking Brier",
+          "reference": "28:23-24",
+          "why_start_end_and_devices": "Plague and sword on Sidon, removing Israel's contemptuous neighbors."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Israel Will Dwell Securely",
+          "reference": "28:25-26",
+          "why_start_end_and_devices": "The gathered house of Jacob planting vineyards in safety in their own land."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Great Monster of the Nile",
+          "reference": "29:1-3",
+          "why_start_end_and_devices": "Pharaoh's boast 'the Nile is mine; I made it.'"
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Hooks in Your Jaws",
+          "reference": "29:4-5",
+          "why_start_end_and_devices": "The river-monster hauled to the desert as food for beasts and birds."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "A Staff of Reeds",
+          "reference": "29:6-7",
+          "why_start_end_and_devices": "Egypt the splintering reed on which Israel leaned and was wounded."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "A Sword Against You",
+          "reference": "29:8-9",
+          "why_start_end_and_devices": "Egypt made a desolation for the boast 'the Nile is mine.'"
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Desolate for Forty Years",
+          "reference": "29:10-12",
+          "why_start_end_and_devices": "Egypt scattered and emptied from Migdol to Cush."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "A Lowly Kingdom Restored",
+          "reference": "29:13-14",
+          "why_start_end_and_devices": "Egypt regathered after forty years to the land of Pathros."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Never Again an Object of Trust",
+          "reference": "29:15-16",
+          "why_start_end_and_devices": "Diminished Egypt a reminder to Israel of its sin in trusting her."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "No Wages from Tyre",
+          "reference": "29:17-18",
+          "why_start_end_and_devices": "Nebuchadnezzar's hard, unrewarded labor against Tyre."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Egypt as His Wages",
+          "reference": "29:19-21",
+          "why_start_end_and_devices": "The land of Egypt given to Babylon, and a horn sprouting for Israel."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Wail, for the Day Is Near",
+          "reference": "30:1-3",
+          "why_start_end_and_devices": "The Day of the LORD coming as clouds and doom on the nations."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Cush, Put, and Lud Will Fall",
+          "reference": "30:4-5",
+          "why_start_end_and_devices": "Egypt's allied peoples falling with her by the sword."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Her Proud Strength Will Collapse",
+          "reference": "30:6-8",
+          "why_start_end_and_devices": "The allies shattered when God sets fire to Egypt."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Messengers to Frighten Cush",
+          "reference": "30:9-10",
+          "why_start_end_and_devices": "An end to Egypt's hordes by the hand of Nebuchadnezzar."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Streams Dried Up",
+          "reference": "30:11-12",
+          "why_start_end_and_devices": "The most ruthless nation filling the land with the slain."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "The Idols of Memphis Destroyed",
+          "reference": "30:13-15",
+          "why_start_end_and_devices": "No more prince in Egypt; fire on Zoan and judgment on Thebes."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Thebes Split Open",
+          "reference": "30:16-17",
+          "why_start_end_and_devices": "The cities falling to the sword and going into captivity."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "I Break the Yoke of Egypt",
+          "reference": "30:18-19",
+          "why_start_end_and_devices": "Darkness over Tahpanhes as Egypt's proud strength ends."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Broken Arm of Pharaoh",
+          "reference": "30:20-22",
+          "why_start_end_and_devices": "Pharaoh's unhealed arm, both arms to be broken by God."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The Sword in Babylon's Hand",
+          "reference": "30:23-26",
+          "why_start_end_and_devices": "Pharaoh's arms falling limp as God strengthens the king of Babylon, scattering Egypt."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Assyria, a Cedar in Lebanon",
+          "reference": "31:1-4",
+          "why_start_end_and_devices": "The towering cedar nourished by the deep, image of Egypt's greatness."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "All the Great Nations in Its Shade",
+          "reference": "31:5-7",
+          "why_start_end_and_devices": "The cedar surpassing every tree, sheltering the birds and beasts."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "The Envy of Eden",
+          "reference": "31:8-9",
+          "why_start_end_and_devices": "No tree in the garden of God could rival its God-given beauty."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Delivered for Its Pride",
+          "reference": "31:10-11",
+          "why_start_end_and_devices": "The cedar handed to the ruler of nations for growing proud of its height."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Cut Down by the Ruthless",
+          "reference": "31:12-14",
+          "why_start_end_and_devices": "The felled cedar abandoned on the mountains — a warning to all proud trees."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Mourning at Its Fall to Sheol",
+          "reference": "31:15-16",
+          "why_start_end_and_devices": "Lebanon and the trees of Eden grieving as it descends to the Pit."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "This Is Pharaoh",
+          "reference": "31:17-18",
+          "why_start_end_and_devices": "The allies descending with it — 'you also will be brought down… among the uncircumcised.'"
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "A Monster in the Seas",
+          "reference": "32:1-2",
+          "why_start_end_and_devices": "The lament for Pharaoh, the lion and river-monster churning the waters."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "I Will Spread My Net",
+          "reference": "32:3-5",
+          "why_start_end_and_devices": "Pharaoh hauled onto the land, flesh strewn on the mountains."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Stars Darkened Over You",
+          "reference": "32:6-8",
+          "why_start_end_and_devices": "The land drenched with blood and the heavens shrouded at his fall."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Kings Will Shudder",
+          "reference": "32:9-10",
+          "why_start_end_and_devices": "Many peoples appalled, trembling for their lives at Egypt's downfall."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "The Sword of the King of Babylon",
+          "reference": "32:11-12",
+          "why_start_end_and_devices": "The most ruthless nations ravaging the pride of Egypt."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Her Rivers Like Oil",
+          "reference": "32:13-16",
+          "why_start_end_and_devices": "Egypt's cattle slaughtered, the land emptied — the lament the nations will chant."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Go Down with the Uncircumcised",
+          "reference": "32:17-19",
+          "why_start_end_and_devices": "Egypt's multitudes consigned to the depths of the earth."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "The Mighty Chiefs Speak from Sheol",
+          "reference": "32:20-21",
+          "why_start_end_and_devices": "The slain greeting Egypt's descent among the sword-slain."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Assyria Is There",
+          "reference": "32:22-23",
+          "why_start_end_and_devices": "The fallen empire with her company in the depths of the Pit."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Elam Is There",
+          "reference": "32:24-25",
+          "why_start_end_and_devices": "The terror-spreaders bearing their disgrace among the slain."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Meshech and Tubal",
+          "reference": "32:26-27",
+          "why_start_end_and_devices": "The uncircumcised who do not lie with the honored warriors of old."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Edom and the Leaders of the North",
+          "reference": "32:28-30",
+          "why_start_end_and_devices": "The kings and Sidonians laid in shame among the sword-slain."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Pharaoh Will Be Comforted",
+          "reference": "32:31-32",
+          "why_start_end_and_devices": "Pharaoh seeing the fallen nations, laid to rest among the uncircumcised — the close of the nation-oracles."
+        }
+      ]
+    },
+    {
+      "story_letter": "G",
+      "story_title": "Watchman Renewed: Shepherds, Dry Bones, and Gog",
+      "reference": "33:1 - 39:29",
+      "why_start_end_and_literary_glue": "The hinge to restoration: the watchman recommissioned and the fall of Jerusalem reported (33), the worthless shepherds and the true Shepherd (34), judgment on Edom (35), the renewed land and new heart (36), the valley of dry bones and the two sticks (37), and the defeat of Gog of Magog (38-39). Glue: the turn from death to resurrection and from scattering to regathering.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Watchman and the Ram's Horn",
+          "reference": "33:1-5",
+          "why_start_end_and_devices": "The renewed watchman parable: whoever hears the warning yet ignores it bears his own blood."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Watchman Held Accountable",
+          "reference": "33:6-7",
+          "why_start_end_and_devices": "Ezekiel made a watchman for Israel, answerable for the unwarned."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Warn the Wicked",
+          "reference": "33:8-9",
+          "why_start_end_and_devices": "The duty to warn — saving one's own life by speaking out."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Turn, and Live!",
+          "reference": "33:10-11",
+          "why_start_end_and_devices": "'I take no pleasure in the death of the wicked' — the call to turn from evil and live."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Righteousness Will Not Deliver in Transgression",
+          "reference": "33:12-13",
+          "why_start_end_and_devices": "The righteous who sins forfeits his remembered righteousness."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Wicked Who Turns Will Live",
+          "reference": "33:14-16",
+          "why_start_end_and_devices": "Restitution and right conduct erasing the repentant sinner's guilt."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Way of the Lord Is Just",
+          "reference": "33:17-20",
+          "why_start_end_and_devices": "God judging each according to his own ways, against the people's complaint."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The City Has Been Taken!",
+          "reference": "33:21-22",
+          "why_start_end_and_devices": "The fugitive's report and the opening of Ezekiel's mouth — his muteness ended."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Abraham Was Only One Man",
+          "reference": "33:23-24",
+          "why_start_end_and_devices": "The ruin-dwellers' false claim to the land by their numbers."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Should You Then Possess the Land?",
+          "reference": "33:25-27",
+          "why_start_end_and_devices": "Their bloodshed and idolatry answered by sword, beasts, and plague."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "A Desolate Waste",
+          "reference": "33:28-29",
+          "why_start_end_and_devices": "The pride of the land's strength brought to an end."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "They Hear but Do Not Practice",
+          "reference": "33:30-31",
+          "why_start_end_and_devices": "The crowds who come to listen yet pursue dishonest gain."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Singer of Love Songs",
+          "reference": "33:32-33",
+          "why_start_end_and_devices": "Ezekiel heard as entertainment — until the word comes to pass."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Woe to the Shepherds Who Feed Themselves",
+          "reference": "34:1-4",
+          "why_start_end_and_devices": "The indictment of leaders who fleece the flock and neglect the weak."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Scattered for Lack of a Shepherd",
+          "reference": "34:5-6",
+          "why_start_end_and_devices": "The flock become prey, straying over every mountain."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "I Am Against the Shepherds",
+          "reference": "34:7-10",
+          "why_start_end_and_devices": "God removing the false shepherds and reclaiming His flock from their mouths."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "I Myself Will Search for My Flock",
+          "reference": "34:11-12",
+          "why_start_end_and_devices": "The Shepherd-God rescuing His sheep from the day of clouds and darkness."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Good Pasture on the Mountains of Israel",
+          "reference": "34:13-14",
+          "why_start_end_and_devices": "The regathered flock fed and resting in rich grazing land."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "I Will Shepherd Them with Justice",
+          "reference": "34:15-16",
+          "why_start_end_and_devices": "Seeking the lost and binding the broken, but destroying the sleek and strong."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "I Will Judge Between the Sheep",
+          "reference": "34:17-19",
+          "why_start_end_and_devices": "The rebuke of the strong who trample the pasture and muddy the water."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Between the Fat and the Lean",
+          "reference": "34:20-22",
+          "why_start_end_and_devices": "The bullying sheep judged and the weak saved from being prey."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "One Shepherd, My Servant David",
+          "reference": "34:23-24",
+          "why_start_end_and_devices": "The promised Davidic shepherd-prince set over the flock."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "A Covenant of Peace",
+          "reference": "34:25-26",
+          "why_start_end_and_devices": "Showers of blessing and a land freed from wild beasts."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "They Will Dwell Securely",
+          "reference": "34:27-28",
+          "why_start_end_and_devices": "The yoke broken, the land yielding fruit, no longer prey for the nations."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "You Are My Flock",
+          "reference": "34:29-31",
+          "why_start_end_and_devices": "A garden of renown and the covenant bond — 'I am your God.'"
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Against Mount Seir",
+          "reference": "35:1-4",
+          "why_start_end_and_devices": "Edom made a desolate waste for her ancient enmity."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "An Ancient Hatred",
+          "reference": "35:5-6",
+          "why_start_end_and_devices": "Bloodshed to pursue those who delivered Israel to the sword."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "A Perpetual Desolation",
+          "reference": "35:7-9",
+          "why_start_end_and_devices": "The mountains of Seir filled with the slain."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "These Two Nations Will Be Ours",
+          "reference": "35:10-12",
+          "why_start_end_and_devices": "Edom's covetous boast against Israel, which God heard."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "While the Whole Earth Rejoices",
+          "reference": "35:13-15",
+          "why_start_end_and_devices": "Edom made desolate for rejoicing over Israel's ruin."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "O Mountains of Israel, Hear",
+          "reference": "36:1-3",
+          "why_start_end_and_devices": "The enemy's 'Aha! the ancient heights are ours' against the trampled land."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "My Burning Zeal Against Edom",
+          "reference": "36:4-5",
+          "why_start_end_and_devices": "God's jealous word against the nations who plundered His land with contempt."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Nations Will Endure Reproach",
+          "reference": "36:6-7",
+          "why_start_end_and_devices": "The sworn promise that Israel's mockers will bear their own shame."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "You Will Bear Fruit for My People",
+          "reference": "36:8-9",
+          "why_start_end_and_devices": "The mountains tilled and sown, for the exiles will soon come home."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Ruins Rebuilt",
+          "reference": "36:10-11",
+          "why_start_end_and_devices": "The multiplied people and rebuilt cities, prospered more than before."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "You Will No Longer Devour Men",
+          "reference": "36:12-15",
+          "why_start_end_and_devices": "The land that bereaved its nation now made fruitful and unreproached."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "They Defiled the Land",
+          "reference": "36:16-18",
+          "why_start_end_and_devices": "Israel's idolatry and bloodshed that brought God's poured-out wrath."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "They Profaned My Holy Name",
+          "reference": "36:19-21",
+          "why_start_end_and_devices": "The scattered exiles whose plight disgraced God's name among the nations."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "For the Sake of My Holy Name",
+          "reference": "36:22-23",
+          "why_start_end_and_devices": "Not for Israel's sake but to vindicate His great name before the nations."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "I Will Sprinkle Clean Water on You",
+          "reference": "36:24-25",
+          "why_start_end_and_devices": "Gathered from the nations and cleansed from all impurities and idols."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "A New Heart and a New Spirit",
+          "reference": "36:26-27",
+          "why_start_end_and_devices": "The heart of stone removed and God's Spirit put within to obey His statutes."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "You Will Be My People",
+          "reference": "36:28-30",
+          "why_start_end_and_devices": "Living in the land, saved from uncleanness, the famine reproach lifted."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Be Ashamed of Your Ways",
+          "reference": "36:31-32",
+          "why_start_end_and_devices": "The remembered evil and self-loathing — 'not for your sake.'"
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Like the Garden of Eden",
+          "reference": "36:33-35",
+          "why_start_end_and_devices": "The desolate land cultivated and the ruined cities rebuilt and fortified."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Like Flocks of People",
+          "reference": "36:36-38",
+          "why_start_end_and_devices": "The nations knowing the LORD rebuilt it, the cities filled like festival flocks."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Can These Bones Live?",
+          "reference": "37:1-3",
+          "why_start_end_and_devices": "The valley of very dry bones and the prophet's answer, 'O Lord GOD, only You know.'"
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Dry Bones, Hear the Word",
+          "reference": "37:4-6",
+          "why_start_end_and_devices": "The command to prophesy breath, tendons, flesh, and skin upon them."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Bone to Bone",
+          "reference": "37:7-8",
+          "why_start_end_and_devices": "The rattling as the bones join, sinews and flesh forming — yet no breath."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Breath from the Four Winds",
+          "reference": "37:9-10",
+          "why_start_end_and_devices": "The breath entering the slain, who rise as a vast army."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "These Bones Are the House of Israel",
+          "reference": "37:11-12",
+          "why_start_end_and_devices": "The hopeless 'we are cut off' answered: 'I will open your graves.'"
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "I Will Put My Spirit in You",
+          "reference": "37:13-14",
+          "why_start_end_and_devices": "The promise of resurrection-life and settlement in the land."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "The Two Sticks Joined",
+          "reference": "37:15-17",
+          "why_start_end_and_devices": "The sign of Judah's and Joseph's sticks made one in the prophet's hand."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "One in My Hand",
+          "reference": "37:18-19",
+          "why_start_end_and_devices": "The meaning: the divided tribes reunited by God."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "One Nation, One King",
+          "reference": "37:20-22",
+          "why_start_end_and_devices": "The regathered people made a single nation under one king on the mountains of Israel."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "My Servant David Will Be King",
+          "reference": "37:23-24",
+          "why_start_end_and_devices": "The cleansed people following God's ordinances under the one Shepherd."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "An Everlasting Covenant of Peace",
+          "reference": "37:25-26",
+          "why_start_end_and_devices": "David their prince forever, God's sanctuary set among them."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "My Dwelling Place Will Be with Them",
+          "reference": "37:27-28",
+          "why_start_end_and_devices": "The covenant formula sealed by God's eternal sanctuary in their midst."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Against Gog of Magog",
+          "reference": "38:1-3",
+          "why_start_end_and_devices": "The oracle against the chief prince of Meshech and Tubal."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Hooks in Your Jaws",
+          "reference": "38:4-6",
+          "why_start_end_and_devices": "Gog drawn out with his vast allied army from Persia to Togarmah."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Summoned in the Latter Years",
+          "reference": "38:7-9",
+          "why_start_end_and_devices": "The advance like a storm-cloud against a land restored from war."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "An Evil Plan to Seize the Spoil",
+          "reference": "38:10-13",
+          "why_start_end_and_devices": "Gog's scheme against the unwalled, secure people gathered from the nations."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "I Will Bring You Against My Land",
+          "reference": "38:14-16",
+          "why_start_end_and_devices": "God drawing Gog so the nations may know His holiness in him."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "My Wrath Will Flare Up",
+          "reference": "38:17-18",
+          "why_start_end_and_devices": "Gog the foretold foe whose coming kindles God's fury."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "A Great Earthquake",
+          "reference": "38:19-20",
+          "why_start_end_and_devices": "All creation trembling, the mountains thrown down at God's presence."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "I Will Magnify and Sanctify Myself",
+          "reference": "38:21-23",
+          "why_start_end_and_devices": "Sword, plague, and fire on Gog so the nations know the LORD."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "I Will Strike the Bow from Your Hand",
+          "reference": "39:1-3",
+          "why_start_end_and_devices": "The renewed oracle disarming Gog on the mountains of Israel."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Food for the Birds and Beasts",
+          "reference": "39:4-6",
+          "why_start_end_and_devices": "Gog and his hordes fallen, fire sent on Magog and the coastlands."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "My Holy Name Made Known",
+          "reference": "39:7-8",
+          "why_start_end_and_devices": "God's name no longer profaned — 'this is the day of which I have spoken.'"
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Burning the Weapons Seven Years",
+          "reference": "39:9-10",
+          "why_start_end_and_devices": "The weapons of Gog used as fuel, the looters looted."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "The Valley of Hamon-gog",
+          "reference": "39:11-12",
+          "why_start_end_and_devices": "Gog and his hordes buried for seven months to cleanse the land."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Cleansing the Land",
+          "reference": "39:13-14",
+          "why_start_end_and_devices": "The people burying the dead, gravediggers employed to purify the land."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "The City Named Hamonah",
+          "reference": "39:15-16",
+          "why_start_end_and_devices": "Bone-markers set up until every invader is buried."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "A Sacrificial Feast for the Birds",
+          "reference": "39:17-18",
+          "why_start_end_and_devices": "The summons to the carrion-creatures to eat the flesh of the mighty."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Gorged at My Table",
+          "reference": "39:19-20",
+          "why_start_end_and_devices": "The birds and beasts drunk on the blood of horses and warriors."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "I Will Display My Glory",
+          "reference": "39:21-22",
+          "why_start_end_and_devices": "Israel knowing the LORD from that day forward."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "They Went into Exile for Their Iniquity",
+          "reference": "39:23-24",
+          "why_start_end_and_devices": "The nations learning that exile came from Israel's unfaithfulness."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Now I Will Restore Jacob",
+          "reference": "39:25-26",
+          "why_start_end_and_devices": "God's compassion and jealousy for His holy name, the disgrace forgotten."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "I Will Pour Out My Spirit",
+          "reference": "39:27-29",
+          "why_start_end_and_devices": "The full regathering with none left behind — 'I will no longer hide My face.'"
+        }
+      ]
+    },
+    {
+      "story_letter": "H",
+      "story_title": "The Vision of the New Temple",
+      "reference": "40:1 - 48:35",
+      "why_start_end_and_literary_glue": "The climactic vision of the restored temple: its measurements (40-42), the return of the glory of the LORD (43), the priestly and worship ordinances (44-46), the life-giving river from the temple (47), and the new allotment of the land, ending with the city's name 'The LORD Is There' (48:35). Glue: the merkabah returning, completing the book's inclusio.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Set on a Very High Mountain",
+          "reference": "40:1-2",
+          "why_start_end_and_devices": "The twenty-fifth-year vision: carried to Israel, shown a structure like a city."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Man with the Measuring Rod",
+          "reference": "40:3-4",
+          "why_start_end_and_devices": "The bronze-like figure commissioned to show Ezekiel the temple to report to Israel."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Wall and the East Gate",
+          "reference": "40:5-7",
+          "why_start_end_and_devices": "The surrounding wall measured and the gate-chambers of the east gate."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Portico Facing the Temple",
+          "reference": "40:8-10",
+          "why_start_end_and_devices": "The gateway's portico and its three chambers on each side."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Measured Doorway to Doorway",
+          "reference": "40:11-13",
+          "why_start_end_and_devices": "The entrance width and the span across the gate chambers."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Windows and Palm Trees",
+          "reference": "40:14-16",
+          "why_start_end_and_devices": "The gateposts and the beveled windows decorated with palms."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Outer Court",
+          "reference": "40:17-19",
+          "why_start_end_and_devices": "The thirty chambers and the pavement, a hundred cubits to the inner court."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The North Gate",
+          "reference": "40:20-23",
+          "why_start_end_and_devices": "The outer north gate measured the same as the east."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The South Gate",
+          "reference": "40:24-27",
+          "why_start_end_and_devices": "The south gates of the outer and inner courts, a hundred cubits apart."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Into the Inner Court",
+          "reference": "40:28-31",
+          "why_start_end_and_devices": "The inner south gate with its eight steps."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Inner East Gate",
+          "reference": "40:32-34",
+          "why_start_end_and_devices": "The inner court's east gate with its palm-decorated pillars."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Inner North Gate",
+          "reference": "40:35-37",
+          "why_start_end_and_devices": "The inner north gate measured like the others."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Tables for the Sacrifices",
+          "reference": "40:38-41",
+          "why_start_end_and_devices": "The washing-chamber and the eight tables for slaughtering the offerings."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Tables of Dressed Stone",
+          "reference": "40:42-43",
+          "why_start_end_and_devices": "The stone tables and the hooks for the sacrificial flesh."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Chambers of the Sons of Zadok",
+          "reference": "40:44-46",
+          "why_start_end_and_devices": "The priests' chambers for those who keep charge of temple and altar."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Portico of the Temple",
+          "reference": "40:47-49",
+          "why_start_end_and_devices": "The square inner court, the altar before the temple, and the ten-step portico."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Outer Sanctuary",
+          "reference": "41:1-2",
+          "why_start_end_and_devices": "The Holy Place measured forty by twenty cubits."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Most Holy Place",
+          "reference": "41:3-4",
+          "why_start_end_and_devices": "The inner sanctuary, twenty cubits square — 'this is the Most Holy Place.'"
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Side Rooms",
+          "reference": "41:5-7",
+          "why_start_end_and_devices": "The three tiers of thirty rooms widening as they ascend."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Raised Base",
+          "reference": "41:8-11",
+          "why_start_end_and_devices": "The temple's foundation platform and the open area around it."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "A Hundred Cubits Square",
+          "reference": "41:12-14",
+          "why_start_end_and_devices": "The west building and the temple courtyard measurements."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Overlaid with Wood",
+          "reference": "41:15-16",
+          "why_start_end_and_devices": "The galleries and paneling of the sanctuary."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Cherubim and Palm Trees",
+          "reference": "41:17-19",
+          "why_start_end_and_devices": "The carved cherubim with human and lion faces between the palms."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Table Before the LORD",
+          "reference": "41:20-22",
+          "why_start_end_and_devices": "The wall-carvings and the wooden altar — 'the table that is before the LORD.'"
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Double Doors",
+          "reference": "41:23-26",
+          "why_start_end_and_devices": "The carved doors of the sanctuary and the portico's canopy."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The North Chambers",
+          "reference": "42:1-4",
+          "why_start_end_and_devices": "The three-tiered priestly chambers and the inner walkway."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Upper Chambers Set Back",
+          "reference": "42:5-6",
+          "why_start_end_and_devices": "The tapering galleries without pillars."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Outer Wall",
+          "reference": "42:7-9",
+          "why_start_end_and_devices": "The wall before the chambers and the eastern entrance."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The South Chambers",
+          "reference": "42:10-12",
+          "why_start_end_and_devices": "The matching chambers along the south wall."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Holy Chambers",
+          "reference": "42:13-14",
+          "why_start_end_and_devices": "Where the priests eat the most holy offerings and change their garments."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Five Hundred Cubits",
+          "reference": "42:15-17",
+          "why_start_end_and_devices": "The measuring of the east and north sides of the temple area."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "A Wall to Separate Holy from Common",
+          "reference": "42:18-20",
+          "why_start_end_and_devices": "The square enclosure measured on all four sides."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Glory Comes from the East",
+          "reference": "43:1-3",
+          "why_start_end_and_devices": "The glory of God returning with a voice like many waters — 'I fell facedown.'"
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Glory Fills the Temple",
+          "reference": "43:4-5",
+          "why_start_end_and_devices": "The kabod entering by the east gate and filling the house."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Place of My Throne",
+          "reference": "43:6-7",
+          "why_start_end_and_devices": "God's promise to dwell among Israel forever, never again defiled."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Remove Your Prostitution",
+          "reference": "43:8-9",
+          "why_start_end_and_devices": "The threshold-abominations renounced so God will dwell among them."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The Law of the Temple",
+          "reference": "43:10-12",
+          "why_start_end_and_devices": "Describe the temple that they may be ashamed — all the surrounding mountaintop most holy."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Measurements of the Altar",
+          "reference": "43:13-14",
+          "why_start_end_and_devices": "The altar's gutter and ledges in long cubits."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Four Horns and Steps Facing East",
+          "reference": "43:15-17",
+          "why_start_end_and_devices": "The altar hearth with its horns and the eastward-facing steps."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Cleansing the Altar",
+          "reference": "43:18-20",
+          "why_start_end_and_devices": "The sin-offering bull whose blood purifies the four horns."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Sin Offering Burned",
+          "reference": "43:21-22",
+          "why_start_end_and_devices": "The bull removed and a male goat presented on the second day."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Sprinkled with Salt",
+          "reference": "43:23-24",
+          "why_start_end_and_devices": "The unblemished bull and ram offered as a burnt offering."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Then I Will Accept You",
+          "reference": "43:25-27",
+          "why_start_end_and_devices": "Seven days of atonement, after which the offerings are accepted."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "The Gate That Remains Shut",
+          "reference": "44:1-3",
+          "why_start_end_and_devices": "The east gate sealed because the LORD entered through it; only the prince may eat there."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Glory Filling His Temple",
+          "reference": "44:4-5",
+          "why_start_end_and_devices": "The charge to mark carefully the statutes of the house."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "I Have Had Enough of Your Abominations",
+          "reference": "44:6-8",
+          "why_start_end_and_devices": "The rebuke for admitting uncircumcised foreigners into the sanctuary."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The Levites Will Bear Their Iniquity",
+          "reference": "44:9-10",
+          "why_start_end_and_devices": "No uncircumcised may enter; the wayward Levites bear their guilt."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Ministers of the Gates",
+          "reference": "44:11-12",
+          "why_start_end_and_devices": "The Levites kept as temple-servants, not priests, for leading Israel into idolatry."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "They Will Bear Their Shame",
+          "reference": "44:13-14",
+          "why_start_end_and_devices": "Barred from priestly access, assigned the temple's labor."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "The Sons of Zadok",
+          "reference": "44:15-16",
+          "why_start_end_and_devices": "The faithful priestly line who alone draw near to minister."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Linen Garments",
+          "reference": "44:17-19",
+          "why_start_end_and_devices": "The priests' linen vestments, left behind so as not to transmit holiness."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Rules for the Priests",
+          "reference": "44:20-22",
+          "why_start_end_and_devices": "Trimmed hair, no wine before service, marriage only to a virgin or priest's widow."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Teach the Holy and the Common",
+          "reference": "44:23-24",
+          "why_start_end_and_devices": "The priests as teachers and judges keeping God's feasts and Sabbaths."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Defilement by the Dead",
+          "reference": "44:25-27",
+          "why_start_end_and_devices": "The limits on mourning and the sin offering after cleansing."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "I Am Their Inheritance",
+          "reference": "44:28-31",
+          "why_start_end_and_devices": "The priests given no land but God Himself, and the firstfruits of the offerings."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "A Holy Portion for the LORD",
+          "reference": "45:1-3",
+          "why_start_end_and_devices": "The sacred tract set aside, with the sanctuary at its heart."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "For the Priests and Levites",
+          "reference": "45:4-5",
+          "why_start_end_and_devices": "The allotments for those who minister at the sanctuary."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "The City and the Prince",
+          "reference": "45:6-7",
+          "why_start_end_and_devices": "The city's property and the prince's bordering land."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Enough, O Princes of Israel!",
+          "reference": "45:8-9",
+          "why_start_end_and_devices": "The charge to cease oppression and do justice."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Honest Scales and Measures",
+          "reference": "45:10-12",
+          "why_start_end_and_devices": "The just ephah, bath, and shekel required."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "The Contribution",
+          "reference": "45:13-15",
+          "why_start_end_and_devices": "The grain, oil, and sheep offered to make atonement for the people."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "The Prince Provides the Offerings",
+          "reference": "45:16-17",
+          "why_start_end_and_devices": "The prince's duty to supply the sacrifices for all the appointed feasts."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Purify the Sanctuary",
+          "reference": "45:18-20",
+          "why_start_end_and_devices": "The first-month atonement for the temple."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Passover",
+          "reference": "45:21-23",
+          "why_start_end_and_devices": "The seven-day feast with its bulls and rams."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "The Feast of the Seventh Month",
+          "reference": "45:24-25",
+          "why_start_end_and_devices": "The matching provisions for the autumn feast."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "The Sabbath and New Moon Gate",
+          "reference": "46:1-2",
+          "why_start_end_and_devices": "The east inner gate opened on Sabbaths, where the prince worships."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "The Sabbath Offerings",
+          "reference": "46:3-5",
+          "why_start_end_and_devices": "The people bowing and the prince's lambs and ram."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "The New Moon Offerings",
+          "reference": "46:6-7",
+          "why_start_end_and_devices": "The bull, lambs, and ram with their grain offerings."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "In One Gate, Out the Opposite",
+          "reference": "46:8-9",
+          "why_start_end_and_devices": "The worship-traffic rule for the appointed feasts."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "The Prince Among the People",
+          "reference": "46:10-11",
+          "why_start_end_and_devices": "Entering and leaving with them, with the festival grain offerings."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "The Daily Burnt Offering",
+          "reference": "46:12-13",
+          "why_start_end_and_devices": "Freewill offerings and the lamb offered every morning."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "A Permanent Statute",
+          "reference": "46:14-15",
+          "why_start_end_and_devices": "The morning grain offering and oil as a regular ordinance."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "The Prince's Inheritance",
+          "reference": "46:16-18",
+          "why_start_end_and_devices": "Gifts to sons kept, gifts to servants reverting — no seizing the people's land."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Where the Priests Boil the Offerings",
+          "reference": "46:19-20",
+          "why_start_end_and_devices": "The place set apart so holiness is not transmitted to the people."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "The Kitchens in the Corners",
+          "reference": "46:21-24",
+          "why_start_end_and_devices": "The four corner courts where the temple-ministers cook the people's sacrifices."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Water Flowing from the Temple",
+          "reference": "47:1-2",
+          "why_start_end_and_devices": "The stream issuing from under the threshold toward the east."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Ankle, Knee, Waist, and Beyond",
+          "reference": "47:3-5",
+          "why_start_end_and_devices": "The rising river that becomes too deep to cross."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "The Dead Sea Made Fresh",
+          "reference": "47:6-8",
+          "why_start_end_and_devices": "The trees on the banks and the healed waters flowing to the Arabah."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "Everything Will Flourish",
+          "reference": "47:9-10",
+          "why_start_end_and_devices": "Swarms of life and fishermen from En-gedi to En-eglaim."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Leaves for Healing",
+          "reference": "47:11-12",
+          "why_start_end_and_devices": "The salt marshes left, and the ever-fruitful trees for food and healing."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Boundaries of the Inheritance",
+          "reference": "47:13-14",
+          "why_start_end_and_devices": "The land divided among the twelve tribes, Joseph receiving two portions."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "The Northern Boundary",
+          "reference": "47:15-17",
+          "why_start_end_and_devices": "The border from the Great Sea through Lebo-hamath to Hazar-enan."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "The East, South, and West Borders",
+          "reference": "47:18-20",
+          "why_start_end_and_devices": "The remaining boundaries to the Eastern Sea, Meribath-kadesh, and the Great Sea."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Foreigners as Native-Born",
+          "reference": "47:21-23",
+          "why_start_end_and_devices": "The inheritance shared with the resident foreigners among the tribes."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "Dan, Asher, and Naphtali",
+          "reference": "48:1-3",
+          "why_start_end_and_devices": "The northern tribal portions running east to west."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "Manasseh to Judah",
+          "reference": "48:4-7",
+          "why_start_end_and_devices": "The portions of Manasseh, Ephraim, Reuben, and Judah."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "The Holy Portion Set Apart",
+          "reference": "48:8-10",
+          "why_start_end_and_devices": "The sacred district with the sanctuary at its center, for the priests."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "For the Sons of Zadok",
+          "reference": "48:11-12",
+          "why_start_end_and_devices": "The most holy portion for the faithful priestly line."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "The Levites' Portion",
+          "reference": "48:13-14",
+          "why_start_end_and_devices": "Their holy land that may not be sold or transferred."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "The City's Common Area",
+          "reference": "48:15-17",
+          "why_start_end_and_devices": "The city with its houses and pastureland in the center."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "Food for the City's Workers",
+          "reference": "48:18-20",
+          "why_start_end_and_devices": "The produce-land and the full square of the holy portion."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "The Prince's Land",
+          "reference": "48:21-22",
+          "why_start_end_and_devices": "The prince's portions flanking the holy district and city."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "Benjamin to Gad",
+          "reference": "48:23-27",
+          "why_start_end_and_devices": "The southern tribal portions running east to west."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "The Southern Border",
+          "reference": "48:28-29",
+          "why_start_end_and_devices": "The boundary of Gad and the close of the tribal allotments."
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "The Twelve Gates of the City",
+          "reference": "48:30-34",
+          "why_start_end_and_devices": "The gates named for the tribes, three on each side."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "THE LORD IS THERE",
+          "reference": "48:35",
+          "why_start_end_and_devices": "The capstone of the whole book and the Old Testament: the city's new name, Yahweh Shammah."
+        }
+      ]
+    }
+  ]
+}

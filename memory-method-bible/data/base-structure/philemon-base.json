@@ -1,0 +1,58 @@
+{
+  "book_name": "Philemon",
+  "hebrew_name": "Πρὸς Φιλήμονα (Pros Philēmona)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "Philemon is a single, tightly argued supplicatory epistle in classical Greco‑Roman form: Salutation (1–3), Thanksgiving/Prayer (4–7), Body of appeal (8–21), and Closing (22–25). Paul persuades by laying relational groundwork, appealing ‘for love’s sake’ rather than commanding, offering personal guarantee for Onesimus’s debt, and ending with confident assurance. Literary glue includes paronomasia on ‘Onesimus’ (useful) and an inclusio built on koinōnia/partner language (vv. 6, 17), with repeated love/joy terms framing the request.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "Paul’s Masterful Appeal for Onesimus’s Reconciliation",
+      "why_start_end_and_literary_glue": "Start (1:1) prescript salutation marks the letter’s beginning; end (1:25) benediction formula closes the epistle. Glue: koinōnia/partner inclusio (vv. 6, 17), love/joy vocabulary, and paronomasia on Onesimus (‘useless/now useful’) that centers the appeal.",
+      "reference": "1:1 - 1:25",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation to Philemon and the House Church",
+          "reference": "1:1-3",
+          "why_start_end_and_devices": "Paul the prisoner and Timothy greet Philemon, Apphia, Archippus, and the church meeting in his home."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Thanksgiving for Philemon's Love and Faith",
+          "reference": "1:4-7",
+          "why_start_end_and_devices": "Paul's prayerful gratitude for the faith and love that refresh the saints — laying the relational groundwork."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "An Appeal on the Basis of Love",
+          "reference": "1:8-11",
+          "why_start_end_and_devices": "The aged prisoner declines to command, appealing instead for Onesimus, once useless, now useful."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Sending Back My Very Heart",
+          "reference": "1:12-14",
+          "why_start_end_and_devices": "Onesimus returned, kept only with Philemon's free consent, not by compulsion."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "No Longer a Slave but a Brother",
+          "reference": "1:15-16",
+          "why_start_end_and_devices": "The providential reading of the separation: received back forever as a beloved brother."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Charge It to My Account",
+          "reference": "1:17-20",
+          "why_start_end_and_devices": "Paul's guarantee in his own hand, and the gentle reminder that Philemon owes him his very self."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Confidence, a Guest Room, and Farewell",
+          "reference": "1:21-25",
+          "why_start_end_and_devices": "Confidence of obedience, the lodging hint, greetings from his fellow workers, and the grace-blessing."
+        }
+      ]
+    }
+  ]
+}

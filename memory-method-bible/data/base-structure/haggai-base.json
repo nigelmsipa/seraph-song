@@ -1,0 +1,101 @@
+{
+  "book_name": "Haggai",
+  "hebrew_name": "חַגַּי (Ḥaggay)",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Haggai is a tightly dated prophetic chronicle organized around four oracles in 520 BCE (1:1; 2:1; 2:10; 2:20). The narrative flows from rebuke to encouragement to purification/blessing to eschatological promise. Structural glue includes precise temporal frames, the messenger formula ('Thus says Yahweh of hosts'), and the refrain 'Consider your ways' (1:5, 7). The arc aims to re‑prioritize the people toward rebuilding the temple, assuring presence ('I am with you') and future glory, culminating in the Zerubbabel 'signet' pledge that links to Davidic hope.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Call and the Glory",
+      "story_letters": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Blessing and the Signet",
+      "story_letters": [
+        "C",
+        "D"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The First Oracle - Call to Priority and Rebuilding",
+      "why_start_end_and_literary_glue": "First dated oracle (sixth month, day 1) rebukes inverted priorities and calls for action; closes with obedience and the dated start of work (day 24). Start (1:1): time stamp and audience. End (1:15): chronological note of commencement. Glue: 'Consider your ways' refrain (1:5, 7), contrast of paneled houses vs Yahweh’s ruined house, and narrative response ('I am with you' and stirred spirits).",
+      "reference": "1:1 - 1:15",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Indictment: Priorities Inverted",
+          "reference": "1:1-1:6",
+          "why_start_end_and_devices": "Oracle formula introduces divine speech; rhetorical question exposes neglect; catalogue of futility (eat/drink/clothe/earn) concludes judgment. Devices: rhetorical question, parallelism, merismus."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Command: Go Up and Build",
+          "reference": "1:7-1:11",
+          "why_start_end_and_devices": "'Consider your ways' shifts to imperatives ('Go up… bring wood… build'); drought explained as covenant discipline. Devices: messenger formula, imperative chain, drought metaphor."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The People's Obedience and Divine Stirring",
+          "reference": "1:12-1:15",
+          "why_start_end_and_devices": "Leaders and remnant obey; 'I am with you' assurance; spirits stirred; work begins on day 24. Devices: narrative interlude, assurance formula, causative stirring."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Second Oracle - Promise of Greater Glory",
+      "why_start_end_and_literary_glue": "Second dated oracle (seventh month, day 21) encourages builders by promising presence and a latter glory surpassing the former. Start (2:1): new temporal frame. End (2:9): climactic promise of peace and greater glory. Glue: triple 'Be strong' (2:4), covenant memory ('when you came out of Egypt'), and cosmos‑shaking promise illustrating Yahweh’s ownership.",
+      "reference": "2:1 - 2:9",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Challenge and the Encouragement",
+          "reference": "2:1-2:9",
+          "why_start_end_and_devices": "Contrasts former vs present house; 'Be strong' to leaders and people; 'My Spirit remains' assurance; shaking of heavens/earth and nations; 'The silver is mine…'; ends with promise of peace and greater glory. Devices: rhetorical question, covenant recall, hyperbole, inclusio on 'this house.'"
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Third Oracle - From Defilement to Blessing",
+      "why_start_end_and_literary_glue": "Third dated oracle (ninth month, day 24) employs priestly instruction to expose defilement, then pivots repeatedly ('from this day') to announce blessing tied to renewed work. Start (2:10): new time and priestly Q&A. End (2:19): definitive blessing. Glue: disputation format (question→answer→application) and triple temporal refrain (2:15, 18, 19).",
+      "reference": "2:10 - 2:19",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Law of Defilement and Application",
+          "reference": "2:10-2:14",
+          "why_start_end_and_devices": "'Ask the priests' initiates halakhic query on holiness/defilement; verdict applied—people, nation, work, and offerings unclean. Devices: legal Q&A, parallelism, evaluative application."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Reversal: Blessing from This Day On",
+          "reference": "2:15-2:19",
+          "why_start_end_and_devices": "'Consider from this day' recalls earlier lack; repeated date refrain signals hinge; promise lands: 'From this day on I will bless you.' Devices: anaphora of time marker, contrastive recollection, covenant reversal."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Fourth Oracle - Zerubbabel the Signet",
+      "why_start_end_and_literary_glue": "Fourth dated oracle (same day, 2:20) addresses Zerubbabel with an eschatological shaking and election as Yahweh’s signet. Start (2:20): second word that day. End (2:23): 'I have chosen you' concludes the book. Glue: reuse of 'shake' motif (2:6–7, 21), Davidic servant title, and signet authority metaphor.",
+      "reference": "2:20 - 2:23",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Eschatological Shaking and Selection",
+          "reference": "2:20-2:23",
+          "why_start_end_and_devices": "Renewed pledge to shake heavens/earth and overthrow thrones; Zerubbabel, 'my servant,' set as signet—divine ownership and irrevocable choice. Devices: hyperbole, royal imagery, election formula."
+        }
+      ]
+    }
+  ]
+}
+

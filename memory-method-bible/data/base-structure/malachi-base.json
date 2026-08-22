@@ -1,0 +1,136 @@
+{
+  "book_name": "Malachi",
+  "hebrew_name": "מַלְאָכִי (Mal'akhi)",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Malachi closes the prophetic corpus with a disputation cycle: Yahweh asserts, the people object ('How…? Where…?'), and Yahweh provides proof with judgment or promise. Six (often reckoned seven) disputations create a dialogical, confrontational tone, reinforced by a chiastic arrangement (opening love/offerings ↔ closing remnant/Day of Yahweh) pivoting on covenant fidelity and justice. Literary glue: repeated epithet 'Yahweh of hosts,' pervasive rhetorical questions, and the assertion–objection–response structure that exposes spiritual blindness and summons covenant loyalty.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "Love Questioned, Worship Defiled",
+      "story_letters": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Treachery and the Messenger",
+      "story_letters": [
+        "C"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Call to Return",
+      "story_letters": [
+        "D"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "God's Sovereign Love Questioned",
+      "why_start_end_and_literary_glue": "Superscription and first disputation establish Yahweh’s electing love, answered through Jacob/Esau contrast and Edom’s judgment. Start (1:1): oracle title. End (1:5): recognition 'Great is Yahweh beyond Israel's border.' Glue: disputation pattern (assertion→'How have you loved us?'→proof) and Jacob/Esau antithesis.",
+      "reference": "1:1 - 1:5",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Oracle Superscription and YHWH's Love Assertion",
+          "reference": "1:1-1:5",
+          "why_start_end_and_devices": "Title opens; love asserted meets 'How have you loved us?'; proof via Jacob loved/Esau hated and Edom’s desolation; closes with doxological recognition. Devices: disputation form, contrastive parallelism, election/judgment rhetoric."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Priests' Failure and Defiled Worship",
+      "why_start_end_and_literary_glue": "Second and third disputations target the priesthood: polluted offerings and breach of Levi’s covenant. Start (1:6): honor/fear owed to Father/Master confronts priests. End (2:9): priests made despised for partiality. Glue: repeated 'O priests,' 'despise/contempt,' and offering language across assertion–objection–proof cycles.",
+      "reference": "1:6 - 2:9",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Where Is My Honor?",
+          "reference": "1:6-9",
+          "why_start_end_and_devices": "The dispute over the polluted altar: priests despising God's name by offering blind and lame animals."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "My Name Will Be Great Among the Nations",
+          "reference": "1:10-14",
+          "why_start_end_and_devices": "God's rejection of their offerings against the pure incense of the nations — 'I am a great King.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "A Decree for the Priests",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "The curse on priests who will not honor God's name, that His covenant with Levi may yet continue."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Covenant of Levi",
+          "reference": "2:5-9",
+          "why_start_end_and_devices": "Levi's covenant of life and peace contrasted with the priests who caused many to stumble."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Treachery, Divorce, and the Quest for Justice",
+      "why_start_end_and_literary_glue": "Focus shifts to communal treachery (marriage/divorce) and the people’s challenge about justice, answered by the coming Messenger who purifies and judges. Start (2:10): one Father/one God indictment of faithlessness. End (3:5): swift witness against social/ethical sins. Glue: refrain 'faithless/treacherous' and disputation on justice ('Where is the God of justice?').",
+      "reference": "2:10 - 3:5",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Judah Has Broken Faith",
+          "reference": "2:10-12",
+          "why_start_end_and_devices": "The profaning of the covenant by marrying the daughter of a foreign god."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "I Hate Divorce",
+          "reference": "2:13-16",
+          "why_start_end_and_devices": "Tears on the altar over faithlessness to the wife of one's youth — 'guard yourselves in your spirit.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Demand for Justice and the Messenger's Purification",
+          "reference": "2:17-3:5",
+          "why_start_end_and_devices": "'How have we wearied?'—by saying evildoers are good/Where is justice? Answer: 'Behold, I send my messenger'; refiner’s fire cleanses Levites, then swift judgment enumerated. Devices: disputation, messenger motif, refiner/launderer similes."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Call to Return and the Final Exhortation",
+      "why_start_end_and_literary_glue": "Final disputations and epilogue: unchanging Yahweh calls to return via tithes, distinguishes remnant from cynics, and promises Day of Yahweh with Elijah’s mission. Start (3:6): immutability grounds appeal. End (4:6): hearts turned lest curse—canonical close. Glue: hortatory imperatives ('Return… Bring the full tithe… Remember…'), righteous/wicked contrast, and Day imagery.",
+      "reference": "3:6 - 4:6",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Will a Man Rob God?",
+          "reference": "3:6-9",
+          "why_start_end_and_devices": "'Return to Me, and I will return to you'; the charge of robbing God in tithes and offerings."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Windows of Heaven",
+          "reference": "3:10-12",
+          "why_start_end_and_devices": "The challenge to bring the full tithe and 'test Me' — the promise of blessing without measure."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Cynicism of the Wicked and the Remnant's Distinction",
+          "reference": "3:13-3:18",
+          "why_start_end_and_devices": "'How have we spoken?'—'It is vain to serve'; remnant fears Yahweh, book of remembrance written; distinction reaffirmed. Devices: contrastive parallelism, memorial book metaphor, remnant motif."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Day of the LORD and the Promise of Elijah",
+          "reference": "4:1-4:6",
+          "why_start_end_and_devices": "Oven‑burning day for arrogant; sun of righteousness for fearers; 'Remember Moses' and 'Behold, I will send Elijah' to turn hearts; canonical warning close. Devices: apocalyptic similes, hortatory inclusio, prophetic forerunner promise."
+        }
+      ]
+    }
+  ]
+}

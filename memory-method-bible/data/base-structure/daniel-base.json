@@ -1,0 +1,664 @@
+{
+  "book_name": "Daniel",
+  "hebrew_name": "דָּנִיֵּאל (Daniyye'l)",
+  "canonical_grouping": "Major Prophets (Hebrew Bible: Ketuvim/Writings)",
+  "big_picture_notes": "The Book of Daniel is defined by its striking bipartite structure and trilingual nature (Hebrew in 1:1-2:4a and 8:1-12:13; Aramaic in 2:4b-7:28). This shift in language and genre acts as the primary literary framework. The first half (Ch 1-6) presents a series of six self-contained, court-setting narratives detailing the steadfast faith and ultimate exaltation of Jewish exiles. The second half (Ch 7-12) consists of four interconnected apocalyptic visions given directly to Daniel. A crucial structural feature is the proposed chiasm spanning the Aramaic section (2-7), which centers the book's theological message on God's sovereignty and the future kingdom of God. Repetition is a primary literary device, evident in the recurring theme of Gentile kings being forced to acknowledge the 'God of Heaven,' and the overlapping nature of the visions (Ch 2, 7, 8, 10-12) which re-narrate the succession of world empires.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Court",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Visions",
+      "story_letters": [
+        "B"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Court Narratives of Trial and Testimony",
+      "why_start_end_and_literary_glue": "This unit comprises six discrete, self-contained narratives that follow Daniel and his three friends within the Babylonian and Medo-Persian courts. It is united by a consistent historical narrative genre (Ch 1-6) and the theme of fidelity under pressure (diet, furnace, lions' den). The unit serves to establish Daniel's character and prophetic authority before the visions begin. The narratives are linked by chronological markers and the repeated narrative arc of conflict (decree) → crisis (trial) → resolution (deliverance/exaltation). Start (1:1): 'In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.' A clear historical/chronological marker setting the context for the entire book. End (6:28): 'So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian.' A formal narrative summary and biographical conclusion, marking the end of the court stories before the major genre shift. Literary Glue: The repeated use of the phrase 'God of Heaven' in the Gentile kings' decrees/doxologies (2:44, 4:37, 6:26) binds these stories together, emphasizing God's universal sovereignty. The motif of testing (diet, fire, law) and subsequent promotion is repeated across the episodes.",
+      "reference": "1:1 - 6:28",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Vessels Carried to Shinar",
+          "reference": "1:1-2",
+          "why_start_end_and_devices": "Nebuchadnezzar besieges Jerusalem and carries the temple vessels to the house of his god in Babylon."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Four Youths Given New Names",
+          "reference": "1:3-7",
+          "why_start_end_and_devices": "The choice young men trained in Chaldean learning, renamed — Daniel becoming Belteshazzar."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Daniel Resolves Not to Defile Himself",
+          "reference": "1:8-10",
+          "why_start_end_and_devices": "Daniel's purpose not to take the king's food, and the official's fear for his own head."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Ten-Day Test",
+          "reference": "1:11-14",
+          "why_start_end_and_devices": "The proposal to the steward: ten days on vegetables and water, then compare."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Healthier on Vegetables",
+          "reference": "1:15-17",
+          "why_start_end_and_devices": "After ten days they look better nourished, and God gives the four knowledge and wisdom."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Ten Times Better",
+          "reference": "1:18-21",
+          "why_start_end_and_devices": "Presented to the king and found ten times better than all the magicians of the realm."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Nebuchadnezzar's Troubling Dream",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "The king's sleep-robbing dream that his spirit is anxious to understand."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Tell the Dream or Be Destroyed",
+          "reference": "2:4-6",
+          "why_start_end_and_devices": "The impossible demand: reveal the dream itself, on pain of dismemberment, for great reward."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "You Are Stalling for Time",
+          "reference": "2:7-9",
+          "why_start_end_and_devices": "The king's accusation that the wise men conspire with delaying words."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Decree to Kill the Wise Men",
+          "reference": "2:10-13",
+          "why_start_end_and_devices": "The Chaldeans' protest that only the gods could do this, and the death-decree that ensnares Daniel."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Daniel Asks for Time",
+          "reference": "2:14-16",
+          "why_start_end_and_devices": "Daniel's discreet approach to Arioch and his request to the king for time to interpret."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Plead for Mercy from the God of Heaven",
+          "reference": "2:17-19",
+          "why_start_end_and_devices": "The friends praying over the mystery, which is revealed to Daniel in a night vision."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Blessed Be the Name of God",
+          "reference": "2:20-23",
+          "why_start_end_and_devices": "Daniel's doxology to the God who changes times, removes kings, and reveals deep things."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Bring Me Before the King",
+          "reference": "2:24-26",
+          "why_start_end_and_devices": "Daniel staying the execution and offering to give the interpretation."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "A God in Heaven Who Reveals Mysteries",
+          "reference": "2:27-30",
+          "why_start_end_and_devices": "Daniel deflecting all credit to the Revealer of Mysteries who makes known the latter days."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Great Statue and the Stone",
+          "reference": "2:31-35",
+          "why_start_end_and_devices": "The dream itself: the four-metal image struck by a stone cut without hands, becoming a mountain."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "You Are the Head of Gold",
+          "reference": "2:36-38",
+          "why_start_end_and_devices": "The interpretation begins: Nebuchadnezzar as the golden head of the statue."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Kingdoms of Silver, Bronze, and Iron",
+          "reference": "2:39-43",
+          "why_start_end_and_devices": "The succession of inferior kingdoms down to the divided iron-and-clay feet."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "A Kingdom That Will Never Be Destroyed",
+          "reference": "2:44-45",
+          "why_start_end_and_devices": "The stone-kingdom set up by the God of heaven that shatters all others and stands forever."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The King Honors Daniel",
+          "reference": "2:46-49",
+          "why_start_end_and_devices": "Nebuchadnezzar's homage and the promotion of Daniel and his three friends."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Golden Image on the Plain of Dura",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "The colossal statue erected and all the officials summoned to its dedication."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Worship or the Fiery Furnace",
+          "reference": "3:4-7",
+          "why_start_end_and_devices": "The herald's decree binding every nation to bow at the sound of music."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Jews Accused",
+          "reference": "3:8-12",
+          "why_start_end_and_devices": "The astrologers' malicious charge that the three refuse to serve the king's gods."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "What God Can Deliver You?",
+          "reference": "3:13-15",
+          "why_start_end_and_devices": "Nebuchadnezzar's furious ultimatum and his taunt against any rescuing god."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "But Even If He Does Not",
+          "reference": "3:16-18",
+          "why_start_end_and_devices": "The famous confession of faith: God is able to deliver, but they will not bow regardless."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Thrown into the Sevenfold Furnace",
+          "reference": "3:19-23",
+          "why_start_end_and_devices": "The furnace heated beyond reason, killing the soldiers as the bound three fall in."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "A Fourth Like a Son of the Gods",
+          "reference": "3:24-27",
+          "why_start_end_and_devices": "The king's astonishment at four men walking free, and the three emerging without the smell of fire."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Nebuchadnezzar's Decree and Promotion",
+          "reference": "3:28-30",
+          "why_start_end_and_devices": "Starts with King's oracle/proclamation: 'Nebuchadnezzar answered and said, Blessed be the God of Shadrach, Meshach, and Abednego...' (3:28). Ends with narrative resolution/promotion: 'Then the king promoted Shadrach, Meshach, and Abednego...' (3:30), a definitive conclusion. Defined by the King's formal oracle formula (doxology) and the final narrative conclusion/reward."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Nebuchadnezzar's Proclamation",
+          "reference": "4:1-3",
+          "why_start_end_and_devices": "The king's testimony to all nations of the signs the Most High has done — His eternal kingdom."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "A Dream That Frightened Me",
+          "reference": "4:4-6",
+          "why_start_end_and_devices": "The contented king alarmed by a dream his wise men cannot interpret."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Tell Me the Dream, Belteshazzar",
+          "reference": "4:7-9",
+          "why_start_end_and_devices": "Daniel summoned as the one in whom is the spirit of the holy gods."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Great Tree",
+          "reference": "4:10-12",
+          "why_start_end_and_devices": "The dream's tree reaching the sky, sheltering and feeding every creature."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Cut Down the Tree, but Leave the Stump",
+          "reference": "4:13-15",
+          "why_start_end_and_devices": "The watcher's decree to fell the tree yet preserve its banded stump."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Seven Times Shall Pass",
+          "reference": "4:16-18",
+          "why_start_end_and_devices": "The sentence of a beast's mind, so the living may know the Most High rules the kingdom of men."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "You, O King, Are That Tree",
+          "reference": "4:19-22",
+          "why_start_end_and_devices": "Daniel's reluctant disclosure that the towering tree is the king himself."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Driven to Live with the Beasts",
+          "reference": "4:23-25",
+          "why_start_end_and_devices": "The decree that the king will graze like an ox until he acknowledges Heaven's rule."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Break Away from Your Sins",
+          "reference": "4:26-27",
+          "why_start_end_and_devices": "The promise of a restored throne and the plea to renounce sin and show mercy to the oppressed."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Is This Not Babylon the Great?",
+          "reference": "4:28-30",
+          "why_start_end_and_devices": "Twelve months on, the king's prideful boast on his palace roof."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Driven Away from Mankind",
+          "reference": "4:31-33",
+          "why_start_end_and_devices": "The heavenly voice fulfilled at once: the king grazing, hair like eagle feathers."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "My Sanity Was Restored",
+          "reference": "4:34-35",
+          "why_start_end_and_devices": "Looking up to heaven, the king praises the Most High whose dominion is everlasting."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "He Humbles Those Who Walk in Pride",
+          "reference": "4:36-37",
+          "why_start_end_and_devices": "Honor and kingdom restored, and the king's closing praise of the King of heaven."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Belshazzar's Profane Feast",
+          "reference": "5:1-4",
+          "why_start_end_and_devices": "The king drinking from the temple vessels while praising gods of gold and silver."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Writing on the Wall",
+          "reference": "5:5-7",
+          "why_start_end_and_devices": "The fingers of a human hand writing, and the terrified king summoning his wise men."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "No One Could Read It",
+          "reference": "5:8-9",
+          "why_start_end_and_devices": "The wise men's failure and the king's deepening dread."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Queen Mother's Counsel",
+          "reference": "5:10-12",
+          "why_start_end_and_devices": "The queen recalling Daniel, the man of extraordinary spirit who can solve the riddle."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "If You Can Read It",
+          "reference": "5:13-16",
+          "why_start_end_and_devices": "Belshazzar summoning Daniel with the offer of purple and a place as third ruler."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Keep Your Gifts for Yourself",
+          "reference": "5:17-19",
+          "why_start_end_and_devices": "Daniel declining reward, recalling the greatness God gave Nebuchadnezzar."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "You Have Not Humbled Your Heart",
+          "reference": "5:20-23",
+          "why_start_end_and_devices": "The charge that Belshazzar, knowing his father's fall, exalted himself against the Lord of heaven."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Mene, Mene, Tekel, Parsin",
+          "reference": "5:24-28",
+          "why_start_end_and_devices": "The interpretation: numbered, weighed and found wanting, divided to the Medes and Persians."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Belshazzar's Death and the Narrative Conclusion",
+          "reference": "5:29 - 6:1",
+          "why_start_end_and_devices": "Starts with narrative resolution/reward: 'Then Belshazzar gave the command, and Daniel was clothed...' (5:29). Ends with narrative shift/chronological marker: 'That very night... Darius the Mede received the kingdom' (6:1), setting up the next story and providing a final, abrupt transition. Brief scene of climax and immediate political transition. Note that 6:1 is often 5:31 in other translations (KJV, ESV, etc.), demonstrating a minor translation boundary difference."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "No Charge Could Be Found",
+          "reference": "6:2-5",
+          "why_start_end_and_devices": "Daniel's excellence provoking a plot that can only attack the law of his God."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "The Decree of the Lions' Den",
+          "reference": "6:6-9",
+          "why_start_end_and_devices": "The flattering officials securing an irrevocable thirty-day ban on petitioning any god but the king."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Daniel Prays Toward Jerusalem",
+          "reference": "6:10-13",
+          "why_start_end_and_devices": "Daniel openly kneeling three times a day as before, caught by his accusers."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The King Distressed but Bound",
+          "reference": "6:14-15",
+          "why_start_end_and_devices": "Darius striving to save Daniel, trapped by the unchangeable law of the Medes and Persians."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Thrown into the Den",
+          "reference": "6:16-18",
+          "why_start_end_and_devices": "Daniel cast to the lions, the stone sealed, and the king's sleepless night of fasting."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "My God Sent His Angel",
+          "reference": "6:19-22",
+          "why_start_end_and_devices": "At dawn the anguished king's cry, and Daniel's answer that the lions' mouths were shut."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Lifted Out Without a Wound",
+          "reference": "6:23-24",
+          "why_start_end_and_devices": "Daniel raised unharmed because he trusted his God, and the accusers thrown to the lions."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Darius's Doxology",
+          "reference": "6:25-28",
+          "why_start_end_and_devices": "The decree that all tremble before the living God whose kingdom will never be destroyed."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Apocalyptic Visions of God's Enduring Kingdom",
+      "why_start_end_and_literary_glue": "This unit is defined by a radical genre and narrative shift to first-person prophetic visions (starting in Aramaic, shifting to Hebrew from 8:1). It is a collection of four major, interlinked apocalyptic visions (Ch 7, 8, 9, 10-12) that collectively reveal God's plan for the future. The material is unified by the consistent motif of vision → interpretation → Daniel's reaction. Start (7:1): 'In the first year of Belshazzar king of Babylon, Daniel saw a dream and visions...' A definitive time/genre/speaker shift marker, marking the transition from courtier to prophet/visionary. End (12:13): 'But as for you, go your way till the end. And you shall rest and shall stand up to your allotted inheritance at the end of the days.' A definitive oracle/speaker change (The Angel) and final personal conclusion to Daniel, ending the prophetic cycle and the book. Literary Glue: The consistent focus on four successive kingdoms (Ch 2, 7, 8) and the repetition of chronological markers ('first year of Belshazzar,' 'third year of Cyrus') and the motif of the 'time of the end' bind the revelations into a single eschatological story.",
+      "reference": "7:1 - 12:13",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Four Winds and Four Beasts",
+          "reference": "7:1-4",
+          "why_start_end_and_devices": "Daniel's night-vision: the churning sea, the lion-beast, and its rising from the others."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Little Horn with a Boastful Mouth",
+          "reference": "7:5-8",
+          "why_start_end_and_devices": "The bear, the four-headed leopard, and the terrifying fourth beast with ten horns and an arrogant little horn."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Court of the Ancient of Days and the Son of Man",
+          "reference": "7:9-14",
+          "why_start_end_and_devices": "Starts with shift in focus from earthly beasts to the heavenly court: 'As I looked, thrones were placed...' (7:9). Ends with Son of Man receiving everlasting dominion (7:14), completing the heavenly judgment and transfer of power. The heavenly court scene is a self-contained vision unit, shifting time/place. The contrast between the beastly kingdom and the eternal one is stark."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Daniel's Disturbance and the Initial Inquiry",
+          "reference": "7:15-18",
+          "why_start_end_and_devices": "Starts with speaker change (Daniel) and emotional marker: 'As for me, Daniel, my spirit was distressed...' (7:15). Ends with Angel's brief, summary interpretation: '...and the saints of the Most High shall receive the kingdom...' (7:18), completing the initial question/answer. Short transitional scene, moving from vision to interpretation. The focus shifts to Daniel's internal state."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "War Against the Saints",
+          "reference": "7:19-22",
+          "why_start_end_and_devices": "Daniel's inquiry into the fourth beast and the horn that wars against the saints until the Ancient of Days judges."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Time, Times, and Half a Time",
+          "reference": "7:23-25",
+          "why_start_end_and_devices": "The fourth kingdom and the king who speaks against the Most High and changes times and laws."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Saints Possess the Kingdom",
+          "reference": "7:26-28",
+          "why_start_end_and_devices": "The court's verdict stripping his dominion and giving the everlasting kingdom to the saints."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Ram with Two Horns",
+          "reference": "8:1-4",
+          "why_start_end_and_devices": "The vision at the Ulai Canal of the charging ram that does as it pleases."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Goat with a Prominent Horn",
+          "reference": "8:5-8",
+          "why_start_end_and_devices": "The swift goat shattering the ram, whose great horn breaks into four."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Little Horn and the Daily Sacrifice",
+          "reference": "8:9-12",
+          "why_start_end_and_devices": "The little horn growing toward the Beautiful Land, removing the daily sacrifice, casting truth down."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "2,300 Evenings and Mornings",
+          "reference": "8:13-14",
+          "why_start_end_and_devices": "The holy ones' question 'how long?' and the answer of the sanctuary's restoration."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Gabriel, Explain the Vision",
+          "reference": "8:15-18",
+          "why_start_end_and_devices": "Daniel terrified as Gabriel is commanded to make him understand the time of the end."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Ram and Goat Identified",
+          "reference": "8:19-22",
+          "why_start_end_and_devices": "Media-Persia and Greece named, and the four kingdoms rising from the broken horn."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "An Insolent King Broken Without Hands",
+          "reference": "8:23-27",
+          "why_start_end_and_devices": "The deceitful king who stands against the Prince of princes yet is broken, and Daniel left ill."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Seventy Years in the Books",
+          "reference": "9:1-3",
+          "why_start_end_and_devices": "Daniel discerning Jeremiah's seventy years and turning to God in fasting and sackcloth."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "We Have Sinned and Done Wrong",
+          "reference": "9:4-6",
+          "why_start_end_and_devices": "The confession's opening: the covenant-keeping God against a people who would not listen to the prophets."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "To You Belongs Righteousness",
+          "reference": "9:7-10",
+          "why_start_end_and_devices": "Shame owned by all Israel, set against the compassion and forgiveness of the Lord."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Curse of the Law Poured Out",
+          "reference": "9:11-14",
+          "why_start_end_and_devices": "The oath written in Moses fulfilled in Jerusalem's disaster, for the LORD is righteous."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "O Lord, Hear and Act!",
+          "reference": "9:15-19",
+          "why_start_end_and_devices": "The climactic plea for God's sake to turn His wrath from the city that bears His name."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Gabriel Comes in Swift Flight",
+          "reference": "9:20-23",
+          "why_start_end_and_devices": "The answer sent at the evening sacrifice to Daniel, 'highly precious,' to give insight."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Seventy Weeks Are Decreed",
+          "reference": "9:24-25",
+          "why_start_end_and_devices": "The decree to finish transgression and the count to Messiah the Prince."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Messiah Cut Off",
+          "reference": "9:26-27",
+          "why_start_end_and_devices": "The Anointed cut off, the city and sanctuary destroyed, the covenant and the abomination of desolation."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Three Weeks of Mourning",
+          "reference": "10:1-3",
+          "why_start_end_and_devices": "In the third year of Cyrus, Daniel mourning and fasting over a true message of great conflict."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Man Dressed in Linen",
+          "reference": "10:4-6",
+          "why_start_end_and_devices": "The dazzling figure by the Tigris — body like beryl, face like lightning, voice like a multitude."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "No Strength Remained in Me",
+          "reference": "10:7-9",
+          "why_start_end_and_devices": "Only Daniel sees the vision; his companions flee, and he falls into a deathlike sleep."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Prince of Persia Withstood Me",
+          "reference": "10:10-14",
+          "why_start_end_and_devices": "A hand strengthening Daniel and the unveiling of the angelic conflict, with Michael's help."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Be Strong, You Highly Precious One",
+          "reference": "10:15-19",
+          "why_start_end_and_devices": "Daniel speechless and drained, touched and strengthened to hear the message."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Book of Truth",
+          "reference": "10:20-11:1",
+          "why_start_end_and_devices": "The messenger returning to fight the princes of Persia and Greece, supported only by Michael (10:20-21), having stood up for Darius (11:1)."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "A Mighty King Whose Kingdom Is Broken",
+          "reference": "11:2-4",
+          "why_start_end_and_devices": "Persia's kings and the mighty Greek king whose empire is parceled to the four winds."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Kings of South and North",
+          "reference": "11:5-7",
+          "why_start_end_and_devices": "The rise of the king of the South and the marriage-alliance that fails."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Gods Carried Captive to Egypt",
+          "reference": "11:8-10",
+          "why_start_end_and_devices": "The southern king's plunder and the northern sons sweeping back like a flood."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Armies Raised Again",
+          "reference": "11:11-13",
+          "why_start_end_and_devices": "The enraged king of the South and the larger northern army that returns after some years."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Beautiful Land Seized",
+          "reference": "11:14-16",
+          "why_start_end_and_devices": "Many rising up, the siege-ramp, and the invader establishing himself in the glorious land."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "A Daughter Given in Marriage",
+          "reference": "11:17-19",
+          "why_start_end_and_devices": "The failed marriage-plot, the turn to the coastlands, and the king's stumbling fall."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "A Despicable Person Seizes the Kingdom",
+          "reference": "11:20-22",
+          "why_start_end_and_devices": "The tax-collector's brief reign and the contemptible one who seizes power by intrigue."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "He Acts Deceitfully",
+          "reference": "11:23-25",
+          "why_start_end_and_devices": "Rising by a few, plundering the richest provinces, then warring against the South."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Lies at the Same Table",
+          "reference": "11:26-28",
+          "why_start_end_and_devices": "Two kings speaking lies, the northern king's heart set against the holy covenant."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Abomination of Desolation",
+          "reference": "11:29-31",
+          "why_start_end_and_devices": "Ships of Kittim turning him back to abolish the daily sacrifice and set up the abomination."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The People Who Know Their God Resist",
+          "reference": "11:32-35",
+          "why_start_end_and_devices": "The wise instructing many, falling to be refined and purified until the time of the end."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "The King Who Exalts Himself",
+          "reference": "11:36-39",
+          "why_start_end_and_devices": "The willful king magnifying himself above every god and honoring a god of fortresses."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The King of the North Storms Out",
+          "reference": "11:40-43",
+          "why_start_end_and_devices": "The end-time clash sweeping through many countries, including Egypt, Libya, and Cush."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "He Meets His End",
+          "reference": "11:44-45",
+          "why_start_end_and_devices": "Alarmed by news from east and north, he pitches his tents and comes to his end with no one to help."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Many Who Sleep Will Awake",
+          "reference": "12:1-4",
+          "why_start_end_and_devices": "Michael's rising and the resurrection — the wise shining like stars; the book sealed till the end."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "A Time, Times, and Half a Time",
+          "reference": "12:5-7",
+          "why_start_end_and_devices": "The two by the river and the man in linen swearing how long until these wonders are fulfilled."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Sealed Until the Time of the End",
+          "reference": "12:8-10",
+          "why_start_end_and_devices": "Daniel's unanswered question, and the refining of many while the wicked understand nothing."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Blessed Is He Who Waits",
+          "reference": "12:11-13",
+          "why_start_end_and_devices": "The 1,290 and 1,335 days, and Daniel's promised rest and resurrection at the end of days."
+        }
+      ]
+    }
+  ]
+}

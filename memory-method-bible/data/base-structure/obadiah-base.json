@@ -1,0 +1,61 @@
+{
+  "book_name": "Obadiah",
+  "hebrew_name": "עֹבַדְיָה (Ovadyah)",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Obadiah is the shortest OT book and a single, sustained oracle structured by a judgment→Day of Yahweh→restoration arc. It contrasts Edom (Esau) and Israel (Jacob) through repeated motifs of pride/violence versus inheritance/salvation. The movement runs from Edom’s humbling (vv. 1–14), to the universal Day of Yahweh pivot (v. 15), to Zion’s deliverance and possession (vv. 16–21). Lex talionis ('as you have done, it shall be done to you') and inheritance language bind the units, culminating in the eschatological close: 'the kingdom shall be Yahweh’s.'",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Day of the LORD upon Edom",
+      "story_letters": [
+        "A"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Vision of Obadiah: The Judgment of Esau and the Reign of Jacob",
+      "why_start_end_and_literary_glue": "The entire book (1:1–21) is a single cohesive oracle, opened by the vision superscription and concluded by Yahweh’s kingship. Internally it progresses: Edom’s pride cast down and betrayed by allies (1:1–7), Edom’s crimes in the day of Jacob’s calamity (1:8–14), and the Day of Yahweh pivoting to Zion’s deliverance and universal rule (1:15–21). Glue: height→lowliness irony, lex talionis (1:15), and repeated 'possess/inherit' language (1:17, 19–20).",
+      "reference": "1:1 - 1:21",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Pride of Edom Made Low",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "The vision against Edom: 'though you soar like the eagle and nest among the stars, I will bring you down.'"
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Esau's Hidden Treasures Sought Out",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "Edom plundered worse than by thieves, betrayed by its own allies who set a trap."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Wise Men of Edom Destroyed",
+          "reference": "1:8-10",
+          "why_start_end_and_devices": "The wise and mighty of Teman cut down, covered with shame for the violence against brother Jacob."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "You Stood Aloof",
+          "reference": "1:11-14",
+          "why_start_end_and_devices": "The indictment: standing aloof at Jerusalem's fall, gloating, and cutting off the fugitives."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "As You Have Done, It Will Be Done to You",
+          "reference": "1:15-18",
+          "why_start_end_and_devices": "The Day of the LORD near for all nations; deliverance on Zion while Esau becomes consumed stubble."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Kingdom Will Belong to the LORD",
+          "reference": "1:19-21",
+          "why_start_end_and_devices": "The restoration: Israel repossessing the land and deliverers ascending Zion to rule — 'the kingdom will belong to the LORD.'"
+        }
+      ]
+    }
+  ]
+}

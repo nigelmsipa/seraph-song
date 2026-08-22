@@ -1,0 +1,1463 @@
+{
+  "style": "Archaic English",
+  "style_full_name": "Archaic and Formal Biblical English (KJV, Geneva, Bishop's Bible, etc.)",
+  "license": "Translation-specific",
+  "book": "Genesis",
+  "themes": [
+    {
+      "theme_id": 1,
+      "theme_name": "The Primordial Dawn: From Creation Unto Catastrophe",
+      "chapter_range": "1-11",
+      "stories": [
+        {
+          "story_id": "GEN-1-1",
+          "story_number": 1,
+          "story_title": "The Creation: In the Beginning God Made All Things",
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 3,
+          "verse_count": 36,
+          "summary": "In the beginning God created the heavens and the earth, and in six days made all things orderly and perfect, resting upon the seventh day which he sanctified.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-1-1-1",
+              "scene_title": "The Days 1-3: Forming Light, Realm, Life",
+              "chapter_start": 1,
+              "verse_start": 1,
+              "chapter_end": 1,
+              "verse_end": 13,
+              "verse_count": 13
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-1-2",
+              "scene_title": "The Days 4-6: Filling Realms, Climax with Humans",
+              "chapter_start": 1,
+              "verse_start": 14,
+              "chapter_end": 1,
+              "verse_end": 31,
+              "verse_count": 18
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-1-1-3",
+              "scene_title": "The Day 7: Rest and Sanctification",
+              "chapter_start": 2,
+              "verse_start": 1,
+              "chapter_end": 2,
+              "verse_end": 3,
+              "verse_count": 3
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-2",
+          "story_number": 2,
+          "story_title": "The Garden of Eden: Man's First Transgression",
+          "chapter_start": 2,
+          "verse_start": 4,
+          "chapter_end": 3,
+          "verse_end": 24,
+          "verse_count": 46,
+          "summary": "The Lord God formed man in his own image and placed him in the garden of Eden, yet through the serpent's subtlety man transgressed, and was cast out to labour and sorrow.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-1-2-1",
+              "scene_title": "The Garden Prepared and Humanity Placed",
+              "chapter_start": 2,
+              "verse_start": 4,
+              "chapter_end": 2,
+              "verse_end": 17,
+              "verse_count": 14
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-2-2",
+              "scene_title": "The Test: Commandment and Woman",
+              "chapter_start": 2,
+              "verse_start": 18,
+              "chapter_end": 2,
+              "verse_end": 25,
+              "verse_count": 8
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-1-3-1",
+              "scene_title": "The Temptation and Fall",
+              "chapter_start": 3,
+              "verse_start": 1,
+              "chapter_end": 3,
+              "verse_end": 7,
+              "verse_count": 7
+            },
+            {
+              "scene_number": 4,
+              "scene_id": "GEN-1-3-2",
+              "scene_title": "The Judgment and Expulsion",
+              "chapter_start": 3,
+              "verse_start": 8,
+              "chapter_end": 3,
+              "verse_end": 24,
+              "verse_count": 17
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-3",
+          "story_number": 3,
+          "story_title": "Cain and Abel: The First Murder Upon Earth",
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 26,
+          "verse_count": 26,
+          "summary": "Cain's offering was not accepted of the Lord, for he lacked the blood sacrifice which God requireth; in anger he slew his brother Abel, yet God set a mark upon him for preservation.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-1-3-1",
+              "scene_title": "The Two Offerings and Rejection",
+              "chapter_start": 4,
+              "verse_start": 1,
+              "chapter_end": 4,
+              "verse_end": 7,
+              "verse_count": 7
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-3-2",
+              "scene_title": "The Anger, Murder, and the Mark",
+              "chapter_start": 4,
+              "verse_start": 8,
+              "chapter_end": 4,
+              "verse_end": 15,
+              "verse_count": 8
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-1-3-3",
+              "scene_title": "The Cain Descendants and Seth Line",
+              "chapter_start": 4,
+              "verse_start": 16,
+              "chapter_end": 4,
+              "verse_end": 26,
+              "verse_count": 11
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-4",
+          "story_number": 4,
+          "story_title": "The Line of Adam: Patriarchs unto Noah",
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 32,
+          "verse_count": 32,
+          "summary": "The patriarchs lived in great longevity from Adam unto Noah; Enoch alone walked with God and was translated without death, whilst corruption multiplied amongst men.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-1-4-1",
+              "scene_title": "The Adam unto Enoch: Generational Succession",
+              "chapter_start": 5,
+              "verse_start": 1,
+              "chapter_end": 5,
+              "verse_end": 24,
+              "verse_count": 24
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-4-2",
+              "scene_title": "The Noah and the Shortened Lifespan",
+              "chapter_start": 5,
+              "verse_start": 25,
+              "chapter_end": 5,
+              "verse_end": 32,
+              "verse_count": 8
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-5",
+          "story_number": 5,
+          "story_title": "The Sons of God: Giants and Corruption",
+          "chapter_start": 6,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 8,
+          "verse_count": 8,
+          "summary": "The sons of God took wives of men, and giants were born; the earth became full of wickedness, yet Noah found grace in the eyes of the Lord.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-1-5-1",
+              "scene_title": "The Divine-Human Unions and Corruption",
+              "chapter_start": 6,
+              "verse_start": 1,
+              "chapter_end": 6,
+              "verse_end": 4,
+              "verse_count": 4
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-5-2",
+              "scene_title": "The Divine Grief and Noah Grace",
+              "chapter_start": 6,
+              "verse_start": 5,
+              "chapter_end": 6,
+              "verse_end": 8,
+              "verse_count": 4
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-6",
+          "story_number": 6,
+          "story_title": "The Flood: God's Judgment Upon All the Earth",
+          "chapter_start": 6,
+          "verse_start": 9,
+          "chapter_end": 9,
+          "verse_end": 29,
+          "verse_count": 81,
+          "summary": "God commanded Noah to build an ark and preserve all flesh through the waters of judgment; the flood covered the earth, yet the Lord remembered Noah and made a covenant with the rainbow as a sign.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-1-6-1",
+              "scene_title": "The Command and Construction",
+              "chapter_start": 6,
+              "verse_start": 9,
+              "chapter_end": 6,
+              "verse_end": 22,
+              "verse_count": 14
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-6-2",
+              "scene_title": "The Flood Begins and Prevails",
+              "chapter_start": 7,
+              "verse_start": 1,
+              "chapter_end": 7,
+              "verse_end": 24,
+              "verse_count": 24
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-1-6-3",
+              "scene_title": "The Waters Recede and Animals Released",
+              "chapter_start": 8,
+              "verse_start": 1,
+              "chapter_end": 8,
+              "verse_end": 14,
+              "verse_count": 14
+            },
+            {
+              "scene_number": 4,
+              "scene_id": "GEN-1-6-4",
+              "scene_title": "The Exit, Sacrifice, and Covenant",
+              "chapter_start": 8,
+              "verse_start": 15,
+              "chapter_end": 9,
+              "verse_end": 17,
+              "verse_count": 17
+            },
+            {
+              "scene_number": 5,
+              "scene_id": "GEN-1-6-5",
+              "scene_title": "The Rainbow Sign and Noah Blessing",
+              "chapter_start": 9,
+              "verse_start": 18,
+              "chapter_end": 9,
+              "verse_end": 29,
+              "verse_count": 12
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-7",
+          "story_number": 7,
+          "story_title": "The Tower of Babel: Confusion of Tongues",
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 9,
+          "verse_count": 37,
+          "summary": "Noah's sons did multiply and spread throughout the earth; yet when men sought to reach unto heaven in pride, God confounded their speech and scattered them abroad.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-1-7-1",
+              "scene_title": "The Seventy Nations Branching",
+              "chapter_start": 10,
+              "verse_start": 1,
+              "chapter_end": 10,
+              "verse_end": 32,
+              "verse_count": 32
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-7-2",
+              "scene_title": "The Tower: Confusion of Tongues",
+              "chapter_start": 11,
+              "verse_start": 1,
+              "chapter_end": 11,
+              "verse_end": 9,
+              "verse_count": 9
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-1-8",
+          "story_number": 8,
+          "story_title": "From Shem unto Abram: The Narrowing Continues",
+          "chapter_start": 11,
+          "verse_start": 10,
+          "chapter_end": 11,
+          "verse_end": 32,
+          "verse_count": 23,
+          "summary": "From Shem's line was born the genealogy descending unto Terah and his son Abram; the focus narroweth from all nations unto one family chosen for covenant.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-1-8-1",
+              "scene_title": "From Shem unto Abram: Genealogy",
+              "chapter_start": 11,
+              "verse_start": 10,
+              "chapter_end": 11,
+              "verse_end": 26,
+              "verse_count": 17
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-1-8-2",
+              "scene_title": "Terah's Family: Journey from Ur",
+              "chapter_start": 11,
+              "verse_start": 27,
+              "chapter_end": 11,
+              "verse_end": 32,
+              "verse_count": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 2,
+      "theme_name": "The Patriarchal Promise: Covenant and Wanderings",
+      "chapter_range": "12-50",
+      "stories": [
+        {
+          "story_id": "GEN-2-1",
+          "story_number": 1,
+          "story_title": "The Call of Abram: Depart from Thy Country",
+          "chapter_start": 11,
+          "verse_start": 27,
+          "chapter_end": 12,
+          "verse_end": 9,
+          "verse_count": 23,
+          "summary": "The Lord called Abram to depart from his kindred and country, promising to make him a great nation; Abram believed and journeyed to Canaan to build altars unto the Lord.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-1-1",
+              "scene_title": "God's Call unto Abram",
+              "chapter_start": 12,
+              "verse_start": 1,
+              "chapter_end": 12,
+              "verse_end": 5,
+              "verse_count": 5
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-1-2",
+              "scene_title": "Jacob Journeyeth: Covenant Renewed",
+              "chapter_start": 12,
+              "verse_start": 6,
+              "chapter_end": 12,
+              "verse_end": 9,
+              "verse_count": 4
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-2",
+          "story_number": 2,
+          "story_title": "Abram in Egypt: Famine and Fear",
+          "chapter_start": 12,
+          "verse_start": 10,
+          "chapter_end": 13,
+          "verse_end": 18,
+          "verse_count": 27,
+          "summary": "Famine drove Abram to Egypt, where he lacked faith and said his wife was his sister; yet God preserved her, and Abram returned enriched but separated from Lot due to strife.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-2-1",
+              "scene_title": "Famine: Journey unto Egypt",
+              "chapter_start": 12,
+              "verse_start": 10,
+              "chapter_end": 12,
+              "verse_end": 20,
+              "verse_count": 11
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-2-2",
+              "scene_title": "Abram Returneth: Separated from Lot",
+              "chapter_start": 13,
+              "verse_start": 1,
+              "chapter_end": 13,
+              "verse_end": 18,
+              "verse_count": 18
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-3",
+          "story_number": 3,
+          "story_title": "The War of Kings: Lot Taken and Rescued",
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 24,
+          "verse_count": 24,
+          "summary": "Kings made war and took Lot captive; Abram pursued and rescued him, then was met by Melchizedek, priest of the Most High, who blessed him and received tithes.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-3-1",
+              "scene_title": "Kings Make War: Lot Rescued",
+              "chapter_start": 14,
+              "verse_start": 1,
+              "chapter_end": 14,
+              "verse_end": 16,
+              "verse_count": 16
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-3-2",
+              "scene_title": "Melchizedek Blesseth: Tithe Given",
+              "chapter_start": 14,
+              "verse_start": 17,
+              "chapter_end": 14,
+              "verse_end": 24,
+              "verse_count": 8
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-4",
+          "story_number": 4,
+          "story_title": "The Covenant with Abram: Stars as His Seed",
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 21,
+          "verse_count": 21,
+          "summary": "God appeared unto Abram in a vision and promised him seed as the stars, counting his faith for righteousness; he made a covenant and prophesied Egypt's bondage.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-4-1",
+              "scene_title": "Vision: Seed as Stars",
+              "chapter_start": 15,
+              "verse_start": 1,
+              "chapter_end": 15,
+              "verse_end": 6,
+              "verse_count": 6
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-4-2",
+              "scene_title": "The Covenant Ceremony and Land Promise",
+              "chapter_start": 15,
+              "verse_start": 7,
+              "chapter_end": 15,
+              "verse_end": 21,
+              "verse_count": 15
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-5",
+          "story_number": 5,
+          "story_title": "Hagar and Ishmael: The Bondwoman's Son",
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 27,
+          "verse_count": 50,
+          "summary": "Sarai gave Hagar to Abram after the flesh, and Ishmael was born; yet God's covenant was established with Abraham through circumcision, and Isaac was promised though Sarah laughed.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-5-1",
+              "scene_title": "Hagar Conceiveth: Fleeth from Sarai",
+              "chapter_start": 16,
+              "verse_start": 1,
+              "chapter_end": 16,
+              "verse_end": 16,
+              "verse_count": 16
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-5-2",
+              "scene_title": "Circumcision Covenant: Isaac Promised",
+              "chapter_start": 17,
+              "verse_start": 1,
+              "chapter_end": 17,
+              "verse_end": 27,
+              "verse_count": 27
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-6",
+          "story_number": 6,
+          "story_title": "Sodom and Gomorrah: Fire and Brimstone",
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 38,
+          "verse_count": 70,
+          "summary": "The Lord appeared unto Abraham with visitors; he showed great hospitality and interceded for Sodom, yet the city had transgressed and was destroyed with fire and brimstone.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-6-1",
+              "scene_title": "The Divine Visitors and Isaac Announced",
+              "chapter_start": 18,
+              "verse_start": 1,
+              "chapter_end": 18,
+              "verse_end": 15,
+              "verse_count": 15
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-6-2",
+              "scene_title": "Abraham Pleadeth for Sodom",
+              "chapter_start": 18,
+              "verse_start": 16,
+              "chapter_end": 18,
+              "verse_end": 33,
+              "verse_count": 18
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-6-3",
+              "scene_title": "Sodom's Judgment: Lot's Escape",
+              "chapter_start": 19,
+              "verse_start": 1,
+              "chapter_end": 19,
+              "verse_end": 29,
+              "verse_count": 29
+            },
+            {
+              "scene_number": 4,
+              "scene_id": "GEN-2-6-4",
+              "scene_title": "Lot's Daughters: Origin of Moab and Ammon",
+              "chapter_start": 19,
+              "verse_start": 30,
+              "chapter_end": 19,
+              "verse_end": 38,
+              "verse_count": 9
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-7",
+          "story_number": 7,
+          "story_title": "Abraham and Abimelech: The Deception Again",
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 18,
+          "verse_count": 18,
+          "summary": "Abraham again said his wife was his sister to Abimelech; God warned Abimelech in a dream, and he restored Sarah with gifts, making a covenant with Abraham.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-7-1",
+              "scene_title": "Abimelech Warned: Sarah Restored",
+              "chapter_start": 20,
+              "verse_start": 1,
+              "chapter_end": 20,
+              "verse_end": 7,
+              "verse_count": 7
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-7-2",
+              "scene_title": "King Restoreth: Covenant Made",
+              "chapter_start": 20,
+              "verse_start": 8,
+              "chapter_end": 20,
+              "verse_end": 18,
+              "verse_count": 11
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-8",
+          "story_number": 8,
+          "story_title": "Isaac is Born: The Promise Fulfilled",
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 34,
+          "verse_count": 34,
+          "summary": "Isaac was born when Abraham was 100 and Sarah 90, fulfilling the promise; Ishmael was cast out, yet God preserved him in the wilderness and made him a great nation.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-8-1",
+              "scene_title": "Isaac Born: Ishmael Jealous",
+              "chapter_start": 21,
+              "verse_start": 1,
+              "chapter_end": 21,
+              "verse_end": 9,
+              "verse_count": 9
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-8-2",
+              "scene_title": "The Expulsion and Wilderness Salvation",
+              "chapter_start": 21,
+              "verse_start": 10,
+              "chapter_end": 21,
+              "verse_end": 21,
+              "verse_count": 12
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-8-3",
+              "scene_title": "Wells Dug: Covenant Made",
+              "chapter_start": 21,
+              "verse_start": 22,
+              "chapter_end": 21,
+              "verse_end": 34,
+              "verse_count": 13
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-9",
+          "story_number": 9,
+          "story_title": "The Akedah: Abraham's Trial of Faith",
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 24,
+          "verse_count": 24,
+          "summary": "God commanded Abraham to offer Isaac his only son; Abraham obeyed without question, yet the Lord stayed his hand and provided a ram in his stead, reaffirming the covenant.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-9-1",
+              "scene_title": "The Command and Journey",
+              "chapter_start": 22,
+              "verse_start": 1,
+              "chapter_end": 22,
+              "verse_end": 10,
+              "verse_count": 10
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-9-2",
+              "scene_title": "The Altar: Deliverance Provided",
+              "chapter_start": 22,
+              "verse_start": 11,
+              "chapter_end": 22,
+              "verse_end": 24,
+              "verse_count": 14
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-10",
+          "story_number": 10,
+          "story_title": "Sarah's Death: The Cave of Machpelah",
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 23,
+          "verse_end": 20,
+          "verse_count": 20,
+          "summary": "Sarah died at 127 years; Abraham mourned and purchased the cave of Machpelah for her burial, securing the first inheritance of the promised land.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-10-1",
+              "scene_title": "Mourning for Sarah: Negotiation for Land",
+              "chapter_start": 23,
+              "verse_start": 1,
+              "chapter_end": 23,
+              "verse_end": 13,
+              "verse_count": 13
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-10-2",
+              "scene_title": "Land of Machpelah Purchased",
+              "chapter_start": 23,
+              "verse_start": 14,
+              "chapter_end": 23,
+              "verse_end": 20,
+              "verse_count": 7
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-11",
+          "story_number": 11,
+          "story_title": "Rebekah: Chosen to be Isaac's Bride",
+          "chapter_start": 24,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 67,
+          "verse_count": 67,
+          "summary": "Abraham sent his servant to find a bride for Isaac from his kindred; the servant prayed at the well, and God answered by bringing forth Rebekah, who was taken to wife by Isaac.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-11-1",
+              "scene_title": "Servant Sent: Prayer at the Well",
+              "chapter_start": 24,
+              "verse_start": 1,
+              "chapter_end": 24,
+              "verse_end": 27,
+              "verse_count": 27
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-11-2",
+              "scene_title": "Rebekah: The Divine Sign at the Well",
+              "chapter_start": 24,
+              "verse_start": 28,
+              "chapter_end": 24,
+              "verse_end": 49,
+              "verse_count": 22
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-11-3",
+              "scene_title": "Rebekah's Journey: Marriage to Isaac",
+              "chapter_start": 24,
+              "verse_start": 50,
+              "chapter_end": 24,
+              "verse_end": 67,
+              "verse_count": 18
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-12",
+          "story_number": 12,
+          "story_title": "Abraham's Death: Legacy and Covenant",
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 18,
+          "verse_count": 18,
+          "summary": "Abraham died at 175 years, old and satisfied; his covenant was transferred unto Isaac alone, whilst Ishmael's line was established as a great nation apart.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-12-1",
+              "scene_title": "Abraham's Later Children",
+              "chapter_start": 25,
+              "verse_start": 1,
+              "chapter_end": 25,
+              "verse_end": 11,
+              "verse_count": 11
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-12-2",
+              "scene_title": "Abraham's Death: Legacy Passed",
+              "chapter_start": 25,
+              "verse_start": 7,
+              "chapter_end": 25,
+              "verse_end": 11,
+              "verse_count": 5
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-12-3",
+              "scene_title": "Ishmael's Genealogy and Settlements",
+              "chapter_start": 25,
+              "verse_start": 12,
+              "chapter_end": 25,
+              "verse_end": 18,
+              "verse_count": 7
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-13",
+          "story_number": 13,
+          "story_title": "Esau and Jacob: The Birthright Despised",
+          "chapter_start": 25,
+          "verse_start": 19,
+          "chapter_end": 25,
+          "verse_end": 34,
+          "verse_count": 16,
+          "summary": "Isaac's wife conceived twins, and God revealed that the elder would serve the younger; Esau despised his birthright and sold it to Jacob for pottage.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-13-1",
+              "scene_title": "Rebekah Conceiveth: Oracle of the Lord",
+              "chapter_start": 25,
+              "verse_start": 19,
+              "chapter_end": 25,
+              "verse_end": 26,
+              "verse_count": 8
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-13-2",
+              "scene_title": "Esau Born and Birthright Sold",
+              "chapter_start": 25,
+              "verse_start": 25,
+              "chapter_end": 25,
+              "verse_end": 34,
+              "verse_count": 10
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-14",
+          "story_number": 14,
+          "story_title": "Isaac in Gerar: Wells and Covenant",
+          "chapter_start": 26,
+          "verse_start": 1,
+          "chapter_end": 26,
+          "verse_end": 35,
+          "verse_count": 35,
+          "summary": "Isaac went to Gerar during famine, repeated his father's deception about his wife, yet prospered greatly; he dug wells and made covenants, though his son Esau grieved him with Hittite wives.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-14-1",
+              "scene_title": "Isaac's Deception: Prospered by God",
+              "chapter_start": 26,
+              "verse_start": 1,
+              "chapter_end": 26,
+              "verse_end": 16,
+              "verse_count": 16
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-14-2",
+              "scene_title": "The Wells and Covenant",
+              "chapter_start": 26,
+              "verse_start": 17,
+              "chapter_end": 26,
+              "verse_end": 33,
+              "verse_count": 17
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-14-3",
+              "scene_title": "Esau's Hittite Wives: Grief to Parents",
+              "chapter_start": 26,
+              "verse_start": 34,
+              "chapter_end": 26,
+              "verse_end": 35,
+              "verse_count": 2
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-15",
+          "story_number": 15,
+          "story_title": "Jacob's Deception: The Blessing Stolen",
+          "chapter_start": 27,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 46,
+          "verse_count": 46,
+          "summary": "Isaac, being old and blind, blessed Jacob in Esau's stead through deception and disguise; Esau's rage forced Jacob to flee to Haran to escape his brother's vengeance.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-15-1",
+              "scene_title": "Mother's Plan: Jacob Disguised",
+              "chapter_start": 27,
+              "verse_start": 1,
+              "chapter_end": 27,
+              "verse_end": 17,
+              "verse_count": 17
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-15-2",
+              "scene_title": "Jacob Deceiveth: Blessing Stolen",
+              "chapter_start": 27,
+              "verse_start": 18,
+              "chapter_end": 27,
+              "verse_end": 29,
+              "verse_count": 12
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-15-3",
+              "scene_title": "Esau's Rage: Jacob Fleeth",
+              "chapter_start": 27,
+              "verse_start": 30,
+              "chapter_end": 27,
+              "verse_end": 46,
+              "verse_count": 17
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-16",
+          "story_number": 16,
+          "story_title": "Jacob's Vision: A Ladder Unto Heaven",
+          "chapter_start": 28,
+          "verse_start": 1,
+          "chapter_end": 28,
+          "verse_end": 22,
+          "verse_count": 22,
+          "summary": "Jacob fled toward Haran and dreamed of a ladder reaching unto heaven; the Lord appeared and renewed the covenant, and Jacob vowed to give tithes and make that stone his house.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-16-1",
+              "scene_title": "Jacob Fleeth Unto Haran",
+              "chapter_start": 28,
+              "verse_start": 1,
+              "chapter_end": 28,
+              "verse_end": 5,
+              "verse_count": 5
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-16-2",
+              "scene_title": "Jacob's Dream: Covenant Renewed",
+              "chapter_start": 28,
+              "verse_start": 10,
+              "chapter_end": 28,
+              "verse_end": 22,
+              "verse_count": 13
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-17",
+          "story_number": 17,
+          "story_title": "Jacob's Labor: Fourteen Years for Rachel",
+          "chapter_start": 29,
+          "verse_start": 1,
+          "chapter_end": 30,
+          "verse_end": 43,
+          "verse_count": 67,
+          "summary": "Jacob labored fourteen years for Rachel, was deceived with Leah, and through his wives bore twelve sons; his cunning with cattle made him wealthy, though Laban envied him.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-17-1",
+              "scene_title": "Jacob Meeteth Rachel: Seven Years Labour",
+              "chapter_start": 29,
+              "verse_start": 1,
+              "chapter_end": 29,
+              "verse_end": 30,
+              "verse_count": 30
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-17-2",
+              "scene_title": "Laban Giveth Leah: Seven Years More",
+              "chapter_start": 29,
+              "verse_start": 23,
+              "chapter_end": 30,
+              "verse_end": 24,
+              "verse_count": 26
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-17-3",
+              "scene_title": "Jacob's Cunning: Cattle Multiplied",
+              "chapter_start": 30,
+              "verse_start": 25,
+              "chapter_end": 30,
+              "verse_end": 43,
+              "verse_count": 19
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-18",
+          "story_number": 18,
+          "story_title": "Jacob's Departure: Flight from Laban",
+          "chapter_start": 31,
+          "verse_start": 1,
+          "chapter_end": 31,
+          "verse_end": 55,
+          "verse_count": 55,
+          "summary": "Jacob fled from Laban with all he had, whilst Rachel stole her father's idols; Laban pursued but could not find them, and they made a covenant at Galeed before parting.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-18-1",
+              "scene_title": "Jacob Fleeth: Laban Pursueth",
+              "chapter_start": 31,
+              "verse_start": 1,
+              "chapter_end": 31,
+              "verse_end": 25,
+              "verse_count": 25
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-18-2",
+              "scene_title": "The Confrontation and Covenant",
+              "chapter_start": 31,
+              "verse_start": 25,
+              "chapter_end": 31,
+              "verse_end": 55,
+              "verse_count": 31
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-19",
+          "story_number": 19,
+          "story_title": "Peniel: Wrestling with God",
+          "chapter_start": 32,
+          "verse_start": 1,
+          "chapter_end": 33,
+          "verse_end": 20,
+          "verse_count": 81,
+          "summary": "Jacob wrestled with a Man until daybreak and prevailed; through this wrestling he was renamed Israel, and his hip was touched; he reconciled with Esau and settled in Canaan.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-19-1",
+              "scene_title": "Jacob Prepareth Gifts: Feareth Esau",
+              "chapter_start": 32,
+              "verse_start": 1,
+              "chapter_end": 32,
+              "verse_end": 21,
+              "verse_count": 21
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-19-2",
+              "scene_title": "Jacob Wrestleth: Renamed Israel",
+              "chapter_start": 32,
+              "verse_start": 22,
+              "chapter_end": 32,
+              "verse_end": 32,
+              "verse_count": 11
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-19-3",
+              "scene_title": "Esau Embraceth Jacob: Settlement in Canaan",
+              "chapter_start": 33,
+              "verse_start": 1,
+              "chapter_end": 33,
+              "verse_end": 20,
+              "verse_count": 20
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-20",
+          "story_number": 20,
+          "story_title": "Dinah's Defilement: Vengeance of the Brethren",
+          "chapter_start": 34,
+          "verse_start": 1,
+          "chapter_end": 35,
+          "verse_end": 29,
+          "verse_count": 61,
+          "summary": "Dinah was defiled by Shechem; Jacob's sons deceived the city with circumcision and slew all the males; Jacob returned to Bethel to purify his house and renew the covenant.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-20-1",
+              "scene_title": "Shechem Taketh Dinah: Negotiation Follows",
+              "chapter_start": 34,
+              "verse_start": 1,
+              "chapter_end": 34,
+              "verse_end": 12,
+              "verse_count": 12
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-20-2",
+              "scene_title": "Jacob's Sons Deceive and Slay",
+              "chapter_start": 34,
+              "verse_start": 24,
+              "chapter_end": 34,
+              "verse_end": 31,
+              "verse_count": 8
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-20-3",
+              "scene_title": "Jacob Returneth to Bethel",
+              "chapter_start": 35,
+              "verse_start": 1,
+              "chapter_end": 35,
+              "verse_end": 15,
+              "verse_count": 15
+            },
+            {
+              "scene_number": 4,
+              "scene_id": "GEN-2-20-4",
+              "scene_title": "Rachel Dieth: Isaac's Death",
+              "chapter_start": 35,
+              "verse_start": 16,
+              "chapter_end": 35,
+              "verse_end": 29,
+              "verse_count": 14
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-21",
+          "story_number": 21,
+          "story_title": "The Genealogy of Esau: Edom",
+          "chapter_start": 36,
+          "verse_start": 1,
+          "chapter_end": 36,
+          "verse_end": 43,
+          "verse_count": 43,
+          "summary": "Esau's genealogy was recorded, showing the rejected line that would become Edom and dwell in Mount Seir, whilst Jacob alone carried forward the covenant unto all generations.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-21-1",
+              "scene_title": "Esau Took Hittite Wives: Sons Born",
+              "chapter_start": 36,
+              "verse_start": 1,
+              "chapter_end": 36,
+              "verse_end": 8,
+              "verse_count": 8
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-21-2",
+              "scene_title": "Esau's Genealogy: Chiefs and Kings",
+              "chapter_start": 36,
+              "verse_start": 9,
+              "chapter_end": 36,
+              "verse_end": 43,
+              "verse_count": 35
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-22",
+          "story_number": 22,
+          "story_title": "Joseph's Dreams: His Brethren's Hatred",
+          "chapter_start": 37,
+          "verse_start": 1,
+          "chapter_end": 37,
+          "verse_end": 36,
+          "verse_count": 36,
+          "summary": "Joseph's dreams of dominance incited his brothers' hatred; they stripped him of his coat of colours and sold him unto Midianite traders who brought him into Egypt as a slave.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-22-1",
+              "scene_title": "Joseph's Dreams: Brethren's Hatred",
+              "chapter_start": 37,
+              "verse_start": 1,
+              "chapter_end": 37,
+              "verse_end": 11,
+              "verse_count": 11
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-22-2",
+              "scene_title": "Brethren Conspire: Joseph Sold",
+              "chapter_start": 37,
+              "verse_start": 12,
+              "chapter_end": 37,
+              "verse_end": 36,
+              "verse_count": 25
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-23",
+          "story_number": 23,
+          "story_title": "Judah and Tamar: Twins of Redemption",
+          "chapter_start": 38,
+          "verse_start": 1,
+          "chapter_end": 38,
+          "verse_end": 30,
+          "verse_count": 30,
+          "summary": "Judah's sons died for their wickedness; Tamar, denied her right to Shelah, disguised herself and bore twins unto Judah, preserving the line that would lead to David.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-23-1",
+              "scene_title": "Judah's Sons: Levirate Duty Failed",
+              "chapter_start": 38,
+              "verse_start": 1,
+              "chapter_end": 38,
+              "verse_end": 11,
+              "verse_count": 11
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-23-2",
+              "scene_title": "Tamar's Deception: Redemption Comes",
+              "chapter_start": 38,
+              "verse_start": 12,
+              "chapter_end": 38,
+              "verse_end": 30,
+              "verse_count": 19
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-24",
+          "story_number": 24,
+          "story_title": "Joseph's Virtue: Temptation Resisted",
+          "chapter_start": 39,
+          "verse_start": 1,
+          "chapter_end": 40,
+          "verse_end": 23,
+          "verse_count": 57,
+          "summary": "Joseph found favour in Potiphar's sight and was made overseer, yet resisted the temptation of his master's wife; falsely accused, he was imprisoned yet blessed by the Lord.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-24-1",
+              "scene_title": "Joseph Prospered in Potiphar's House",
+              "chapter_start": 39,
+              "verse_start": 1,
+              "chapter_end": 39,
+              "verse_end": 6,
+              "verse_count": 6
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-24-2",
+              "scene_title": "Joseph Tempted: Falsely Accused",
+              "chapter_start": 39,
+              "verse_start": 7,
+              "chapter_end": 39,
+              "verse_end": 20,
+              "verse_count": 14
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-24-3",
+              "scene_title": "Joseph in Prison: Dreams Interpreted",
+              "chapter_start": 39,
+              "verse_start": 21,
+              "chapter_end": 40,
+              "verse_end": 23,
+              "verse_count": 16
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-25",
+          "story_number": 25,
+          "story_title": "Pharaoh's Dreams: Joseph Exalted",
+          "chapter_start": 41,
+          "verse_start": 1,
+          "chapter_end": 41,
+          "verse_end": 57,
+          "verse_count": 57,
+          "summary": "Pharaoh dreamed of famine and plenty; Joseph interpreted the dreams and revealed the Spirit of God upon him; he was exalted to rule over Egypt and prepare for the coming famine.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-25-1",
+              "scene_title": "Dreams: Joseph Interpreteth",
+              "chapter_start": 41,
+              "verse_start": 1,
+              "chapter_end": 41,
+              "verse_end": 36,
+              "verse_count": 36
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-25-2",
+              "scene_title": "Joseph Exalted: Preparation for Famine",
+              "chapter_start": 41,
+              "verse_start": 37,
+              "chapter_end": 41,
+              "verse_end": 57,
+              "verse_count": 21
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-26",
+          "story_number": 26,
+          "story_title": "The Famine: Brethren Come to Egypt",
+          "chapter_start": 42,
+          "verse_start": 1,
+          "chapter_end": 42,
+          "verse_end": 38,
+          "verse_count": 38,
+          "summary": "Famine came upon the land; Jacob sent his sons to Egypt for grain, where Joseph tested them, keeping Simeon as surety and returning their money in their sacks.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-26-1",
+              "scene_title": "Famine: Journey unto Egypt",
+              "chapter_start": 42,
+              "verse_start": 1,
+              "chapter_end": 42,
+              "verse_end": 17,
+              "verse_count": 17
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-26-2",
+              "scene_title": "Joseph Revealeth Mercy: Return to Canaan",
+              "chapter_start": 42,
+              "verse_start": 18,
+              "chapter_end": 42,
+              "verse_end": 38,
+              "verse_count": 21
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-27",
+          "story_number": 27,
+          "story_title": "Benjamin and the Cup: The Test Deepens",
+          "chapter_start": 43,
+          "verse_start": 1,
+          "chapter_end": 44,
+          "verse_end": 34,
+          "verse_count": 107,
+          "summary": "Jacob sent Benjamin with his brothers; Joseph placed his cup in Benjamin's sack and accused him of theft; Judah offered himself in Benjamin's stead, showing genuine repentance.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-27-1",
+              "scene_title": "Brothers Journey unto Egypt with Benjamin",
+              "chapter_start": 43,
+              "verse_start": 1,
+              "chapter_end": 43,
+              "verse_end": 34,
+              "verse_count": 34
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-27-2",
+              "scene_title": "Joseph's Cup: The Test",
+              "chapter_start": 44,
+              "verse_start": 1,
+              "chapter_end": 44,
+              "verse_end": 17,
+              "verse_count": 17
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-27-3",
+              "scene_title": "Judah Pleadeth for Benjamin",
+              "chapter_start": 44,
+              "verse_start": 18,
+              "chapter_end": 44,
+              "verse_end": 34,
+              "verse_count": 17
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-28",
+          "story_number": 28,
+          "story_title": "Joseph Revealed: Reconciliation and Provision",
+          "chapter_start": 45,
+          "verse_start": 1,
+          "chapter_end": 47,
+          "verse_end": 31,
+          "verse_count": 120,
+          "summary": "Joseph revealed himself unto his brethren, saying God sent him to preserve life; he brought Jacob and all his house to Egypt to dwell in Goshen and be sustained through famine.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-28-1",
+              "scene_title": "Joseph Revealeth Himself: Pharaoh Inviteth",
+              "chapter_start": 45,
+              "verse_start": 1,
+              "chapter_end": 45,
+              "verse_end": 15,
+              "verse_count": 15
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-28-2",
+              "scene_title": "Jacob Journeyeth to Canaan",
+              "chapter_start": 45,
+              "verse_start": 16,
+              "chapter_end": 46,
+              "verse_end": 34,
+              "verse_count": 51
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-28-3",
+              "scene_title": "Joseph Manageth the Famine",
+              "chapter_start": 47,
+              "verse_start": 1,
+              "chapter_end": 47,
+              "verse_end": 31,
+              "verse_count": 31
+            }
+          ]
+        },
+        {
+          "story_id": "GEN-2-29",
+          "story_number": 29,
+          "story_title": "Jacob's Blessing: The Twelve Tribes Blessed",
+          "chapter_start": 48,
+          "verse_start": 1,
+          "chapter_end": 50,
+          "verse_end": 26,
+          "verse_count": 105,
+          "summary": "Jacob blessed his twelve sons with tribal prophecies before his death; Joseph was assured that God would bring his people to the promised land, and he charged them to carry his bones to Canaan.",
+          "scenes": [
+            {
+              "scene_number": 1,
+              "scene_id": "GEN-2-29-1",
+              "scene_title": "Jacob Adopteth and Blesseth Joseph's Sons",
+              "chapter_start": 48,
+              "verse_start": 1,
+              "chapter_end": 48,
+              "verse_end": 22,
+              "verse_count": 22
+            },
+            {
+              "scene_number": 2,
+              "scene_id": "GEN-2-29-2",
+              "scene_title": "Jacob Blesseth the Twelve Tribes",
+              "chapter_start": 49,
+              "verse_start": 1,
+              "chapter_end": 49,
+              "verse_end": 33,
+              "verse_count": 33
+            },
+            {
+              "scene_number": 3,
+              "scene_id": "GEN-2-29-3",
+              "scene_title": "Jacob's Death and Burial in Canaan",
+              "chapter_start": 50,
+              "verse_start": 1,
+              "chapter_end": 50,
+              "verse_end": 26,
+              "verse_count": 26
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

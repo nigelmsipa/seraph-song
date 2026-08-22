@@ -1,0 +1,151 @@
+{
+  "book_name": "Habakkuk",
+  "hebrew_name": "חֲבַקּוּק (Hăḇaqqūq)",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Habakkuk is a compact prophetic dialogue/theodicy framed by a title (1:1) and a liturgical colophon (3:19). Its movement is chiastic (A–B–C–B'–A'): Complaint 1 (1:2–4) ↔ Answer 1 (1:5–11); Complaint 2 (1:12–2:1) ↔ Answer 2 with Five Woes (2:2–20); Resolution in a prayer‑psalm (3:1–19). The hinge is 2:4 ('the righteous shall live by his faith'), contrasting the proud with the faithful. Literary glue includes courtroom‑style questions, repeated lexemes (ḥāmas/violence; see/vision; judgment), formal 'woe' oracles, and the Divine Warrior theophany in ch. 3 that transforms fear into rejoicing.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Complaints",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Vision and the Woes",
+      "story_letters": [
+        "B"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Prayer",
+      "story_letters": [
+        "C"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Prophet's Two Complaints and God's First Answer",
+      "why_start_end_and_literary_glue": "Introduces the problem of divine justice via two laments (internal Judahite injustice; then Babylon’s ravages) and God’s first reply. Start (1:1): oracle title. End (2:1): prophet posts himself to await the response. Glue: dialogic alternation, repeated terms (violence, see, judgment) and the progression from 'How long?' to watchful waiting.",
+      "reference": "1:1 - 2:1",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Title and the First Wail of Injustice",
+          "reference": "1:1-1:4",
+          "why_start_end_and_devices": "Superscription opens; four‑part lament culminates with law paralyzed and justice perverted. Devices: 'How long?' complaint, rhetorical questions, synonymous parallelism."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "I Am Raising Up the Chaldeans",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "God's shocking answer: an unbelievable work — the ruthless, self-justifying Chaldeans raised up."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Swifter Than Leopards",
+          "reference": "1:8-11",
+          "why_start_end_and_devices": "The conqueror's terror: horses fiercer than wolves, scoffing at kings — 'their own strength is their god.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Second Complaint: Why Use the Wicked?",
+          "reference": "1:12-2:1",
+          "why_start_end_and_devices": "Prophet affirms Yahweh’s holiness and questions using the wicked; fisher/net metaphor indicts Babylon’s idolatrous might; ends as he takes his stand to await an answer. Devices: contrast, metaphor (net/hook), narrative pivot to watchfulness."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "God's Vision and the Five Woes",
+      "why_start_end_and_literary_glue": "Authoritative answer commands inscription of the vision and establishes the faith principle (2:4–5), followed by a taunt‑song of five woes (2:6, 9, 12, 15, 19) against the oppressor, concluding with universal silence before Yahweh. Start (2:2): 'Write the vision.' End (2:20): temple silence. Glue: woe refrains, lex talionis, and doxological asides (2:14).",
+      "reference": "2:2 - 2:20",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Vision and the Principle of Faith",
+          "reference": "2:2-2:5",
+          "why_start_end_and_devices": "Instruction to write/await the vision; thesis contrasts proud soul with 'the righteous shall live by his faith'; ends with greed/drunkenness transition. Devices: antithetical parallelism, programmatic thesis."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Woe 1: Against Plunderers and Creditors",
+          "reference": "2:6-2:8",
+          "why_start_end_and_devices": "Taunt begins; retribution for heaping up what is not one’s own and shedding blood—remnant will plunder the plunderer. Devices: taunt‑song, lex talionis."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Woe 2: Against Unjust Gain and Treachery",
+          "reference": "2:9-2:11",
+          "why_start_end_and_devices": "Evil gain for one’s house to set nest on high; stones and beams cry out. Devices: unjust security motif, personification of materials as witnesses."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Woe 3: Against Building on Blood",
+          "reference": "2:12-2:14",
+          "why_start_end_and_devices": "Town built with blood condemned; labor is for fire; interjected promise: earth filled with Yahweh’s glory. Devices: proverbial oracle, eschatological doxology."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Woe 4: Against Shameful Exploitation",
+          "reference": "2:15-2:17",
+          "why_start_end_and_devices": "Forcing neighbors to drink and gaze at nakedness; cup in Yahweh’s hand returns shame; violence to Lebanon/beasts revisits the oppressor. Devices: irony, cup‑of‑wrath motif, retributive justice."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Woe 5 and the Great Silence",
+          "reference": "2:18-2:20",
+          "why_start_end_and_devices": "Idols profit nothing; mute teachers mocked; closes with 'Yahweh in his holy temple—let all the earth keep silence.' Devices: rhetorical questions, temple theophany and silence."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "The Prophet's Trembling Faith",
+      "why_start_end_and_literary_glue": "A self‑contained prayer‑psalm resolves the dialogue: title (3:1), petition for revival/mercy (3:2), Divine Warrior theophany (3:3–15), personal trembling yet trust (3:16–19), with musical colophon. Start (3:1): prayer superscription. End (3:19): 'To the choirmaster…' Glue: fear‑to‑faith arc, reuse of theophanic motifs now as hope.",
+      "reference": "3:1 - 3:19",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Prayer Title and Request for Revival",
+          "reference": "3:1-3:2",
+          "why_start_end_and_devices": "Superscription 'according to Shigionoth'; plea to revive the work and remember mercy 'in the midst of years.' Devices: psalmic petition, temporal refrain."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Divine Warrior Appears",
+          "reference": "3:3-3:7",
+          "why_start_end_and_devices": "God comes from Teman/Paran; brightness, pestilence, trembling nations; ends with Cushan/Midian in dread. Devices: theophany imagery, merism, parallelism."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Chariots of Salvation",
+          "reference": "3:8-11",
+          "why_start_end_and_devices": "The theophany as cosmic war: God riding the rivers and sea, the mountains quaking, sun and moon standing still."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "You Went Forth for the Salvation of Your People",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "Threshing the nations to save His anointed, crushing the head of the wicked, trampling the sea; Selah."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Prophet's Confession of Awe and Fear",
+          "reference": "3:16",
+          "why_start_end_and_devices": "Single‑verse pivot: bodily trembling turns to quiet waiting for the day of distress. Devices: first‑person confession, emotional hinge."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Song of Unwavering Trust",
+          "reference": "3:17-3:19",
+          "why_start_end_and_devices": "'Though… yet' faith stanza moves from agricultural loss to rejoicing in God; 'makes my feet like the deer' and musical colophon conclude. Devices: antithetical hymn of trust, high‑places metaphor, liturgical ending."
+        }
+      ]
+    }
+  ]
+}

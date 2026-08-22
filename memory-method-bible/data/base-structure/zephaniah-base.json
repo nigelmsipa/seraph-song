@@ -1,0 +1,133 @@
+{
+  "book_name": "Zephaniah",
+  "hebrew_name": "צְפַנְיָה (Tzefanyah)",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Zephaniah is a compact prophetic scroll centered on the Day of Yahweh. Its macro-structure forms an hourglass: universal judgment concentrated on Judah/Jerusalem (ch. 1), broadened to oracles against the nations (ch. 2), then inverted to a global cleansing and joyful restoration for a humble remnant (ch. 3). Literary glue includes repeated Day-of-Yahweh language (1:7, 14, 18), 'woe' markers, catalogues of sins and punishments, and a decisive hinge at 3:9 that pivots from devastation to salvation. The book closes with an inclusio of joy, presence, and renown (3:14–20).",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Day Draws Near",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Judgment on the Nations",
+      "story_letters": [
+        "B"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "Cleansing and Restoration",
+      "story_letters": [
+        "C"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Day of the LORD is Near: Judgment on Judah and Jerusalem",
+      "why_start_end_and_literary_glue": "A unified judgment oracle against Judah/Jerusalem. Start (1:1): superscription/oracle formula. End (1:18): climactic summary of a full, sudden end. Glue: sweeping 'I will sweep away' threats (1:2–3), repeated Day-of-Yahweh refrain (1:7, 14, 18), and catalogues of targeted sinners and consequences (1:4–6, 8–13).",
+      "reference": "1:1 - 1:18",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Superscription and Universal Threat",
+          "reference": "1:1-1:6",
+          "why_start_end_and_devices": "Opens with the word to Zephaniah, then hyperbolic 'sweep away' decrees narrow to Judah’s syncretists/apostates; concludes with the cut‑off list. Devices: oracle formula, hyperbole, list/catalogue."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The LORD Has Prepared a Sacrifice",
+          "reference": "1:7-9",
+          "why_start_end_and_devices": "Silence before the near Day of the LORD, whose sacrifice will punish the princes and the violent."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "I Will Search Jerusalem with Lamps",
+          "reference": "1:10-13",
+          "why_start_end_and_devices": "The cry from the Fish Gate and the search for the complacent who say 'the LORD will do nothing.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Great and Dreadful Day of the LORD",
+          "reference": "1:14-1:18",
+          "why_start_end_and_devices": "Intensifies the theme: 'great day... near and hastening'; litany of 'a day of...' lines culminates in universalized end. Devices: synonymous parallelism, escalated repetition, climactic summary."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "Judgment Extends: Oracles Against the Nations",
+      "why_start_end_and_literary_glue": "Transitions from Judah to a catalogue of foreign nation oracles bracketed by a repentance call. Start (2:1): 'Gather... O shameless nation' hinge. End (2:15): Nineveh’s boast mocked and desolation declared. Glue: repeated oracle pattern (proclamation→justification→consequence) over Philistia, Moab/Ammon, Cush, Assyria.",
+      "reference": "2:1 - 2:15",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Call to Repentance: Seek the LORD",
+          "reference": "2:1-2:3",
+          "why_start_end_and_devices": "Imperatives summon the humble to seek righteousness that they may be hidden in the Day; concise hinge before nation oracles. Devices: exhortation, conditional hope."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Oracle Against Philistia and the Seacoast",
+          "reference": "2:4-2:7",
+          "why_start_end_and_devices": "Cities named and doomed; closes with remnant pasture/fortunes restored in the seacoast. Devices: wordplay resonance, contrast (desolation→pasture)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Oracle Against Moab and Ammon",
+          "reference": "2:8-2:11",
+          "why_start_end_and_devices": "Judgment for taunts/revilings; Sodom/Gomorrah analogy; ends with universal worship declaration. Devices: allusion, lex talionis, universalizing doxology."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Oracles Against Cush and Assyria",
+          "reference": "2:12-2:15",
+          "why_start_end_and_devices": "Brief sentence on Cush; detailed mockery of Nineveh’s pride and fall; animals nesting in palaces. Devices: irony, vivid ruin imagery, boast‑to‑desolation reversal."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Woe, Cleansing, and Final Restoration",
+      "why_start_end_and_literary_glue": "Begins with a 'woe' against Jerusalem (3:1–8), pivots at 3:9 to purification and universal worship, and culminates in joy, presence, gathering, and renown (3:14–20). Start (3:1): woe formula. End (3:20): restoration before your eyes, says Yahweh. Glue: hinge 'For then I will...' (3:9), repeated presence/joy/renown motifs.",
+      "reference": "3:1 - 3:20",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Woe to the City of Oppressors",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "The indictment of rebellious Jerusalem: roaring-lion princes, wolf-judges, reckless prophets, profaning priests."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Righteous LORD Within Her",
+          "reference": "3:5-8",
+          "why_start_end_and_devices": "God's daily justice against the shameless (5-7), and the call to wait for the day He rises to gather the nations (8)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Promise of Purified Speech and Universal Worship",
+          "reference": "3:9-3:13",
+          "why_start_end_and_devices": "Hinge: 'For then I will change the speech...'; depicts humble remnant’s character and security. Devices: metaphor of pure speech, contrast humble vs deceitful."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "A Song of Joy and God’s Dwelling",
+          "reference": "3:14-3:17",
+          "why_start_end_and_devices": "Doxological summons to rejoice; central promise that Yahweh is in the midst and rejoices over His people. Devices: hymn form, personification, presence motif."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Restoration of the Scattered and the Name",
+          "reference": "3:18-3:20",
+          "why_start_end_and_devices": "Future administrative gathers, removal of shame, making a name and praise among all peoples; ends with restoration 'before your eyes.' Devices: reversal (shame→renown), restoration formula, concluding oracle."
+        }
+      ]
+    }
+  ]
+}

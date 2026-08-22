@@ -1,0 +1,130 @@
+{
+  "book_name": "Jonah",
+  "hebrew_name": "יוֹנָה (Yonah)",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Jonah is a prophetic novella structured by a two‑cycle parallel (call→response→divine action) with a chiastic center in Jonah’s psalm (ch. 2). It contrasts repentant pagans (sailors, Ninevites) with a resistant prophet through pervasive irony. Literary glue includes the repeated commission (1:2; 3:2), the refrain of divine preparation ('Yahweh prepared' 1:17; 4:6–8), and the theme of Yahweh’s compassion (ḥanan/ḥamal). The book culminates in a rhetorical question that presses the scope of divine mercy.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Flight",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Return",
+      "story_letters": [
+        "B"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Prophet's Flight, the Sailors' Awe, and the Strange Deliverance",
+      "why_start_end_and_literary_glue": "Covers the first cycle of call→disobedience→divine intervention. Start (1:1): 'The word of Yahweh came to Jonah' initiates the narrative. End (2:10): Yahweh speaks to the fish and it vomits Jonah onto dry land—sea conflict resolved and new commission prepared. Glue: Yahweh’s sovereignty over wind, lot, sea, and fish; recurring fear motif among sailors; downward movement of Jonah.",
+      "reference": "1:1 - 2:10",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Call to Nineveh and the Flight to Tarshish",
+          "reference": "1:1-1:3",
+          "why_start_end_and_devices": "Oracle formula launches the mission; completes as Jonah boards and pays fare to flee. Devices: contrast ('arise/go' vs 'went down'), repetition of descent signaling flight from presence."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Yahweh's Storm and the Prophet's Slumber",
+          "reference": "1:4-1:6",
+          "why_start_end_and_devices": "Begins with 'Yahweh hurled a great wind' and ends as the captain confronts Jonah to pray. Devices: hyperbolic storm, ironic reversal (pagan captain summons prophet to pray)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Lot, the Interrogation, and the Admission",
+          "reference": "1:7-1:10",
+          "why_start_end_and_devices": "Casting lots initiates a dialogue that ends with sailors exceedingly afraid after Jonah’s confession. Devices: rapid Q&A, dramatic irony (claims to fear Yahweh while fleeing)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Jonah's Solution and the Sailors' Reluctant Efforts",
+          "reference": "1:11-1:14",
+          "why_start_end_and_devices": "Sailors ask what to do; closes with their prayer to Yahweh before casting Jonah overboard. Devices: dialogue tension, sailors’ moral restraint contrasted with Jonah’s resignation."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Prophet Cast Out and the Sailors' Awe",
+          "reference": "1:15-1:16",
+          "why_start_end_and_devices": "Action of throwing Jonah stills the sea; ends with sacrifice/vows. Devices: cause‑effect, inclusio of 'great fear' leading to worship."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Yahweh's Provision and Jonah's Descent to Prayer",
+          "reference": "1:17-2:1",
+          "why_start_end_and_devices": "'Yahweh prepared a great fish' encloses Jonah; closes when Jonah begins to pray. Devices: miraculous preparation, transitional hinge to psalm (note MT/Eng versification)."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "In My Distress I Called to the LORD",
+          "reference": "2:2-5",
+          "why_start_end_and_devices": "The first half of Jonah's prayer from the fish: cast into the heart of the seas, banished yet looking toward the holy temple."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Salvation Is from the LORD",
+          "reference": "2:6-9",
+          "why_start_end_and_devices": "Descended to the roots of the mountains but raised from the pit, closing on the creed 'Salvation is from the LORD!'"
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Divine Edict and the Final Landing",
+          "reference": "2:10",
+          "why_start_end_and_devices": "Yahweh speaks; fish obeys and vomits Jonah onto dry land. Devices: terse command‑obedience, sovereignty over creation."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Prophet's Obedience, Nineveh's Repentance, and the Theophany",
+      "why_start_end_and_literary_glue": "Second cycle of call→obedience→divine‑human confrontation. Start (3:1): repeated commission 'a second time.' End (4:11): Yahweh’s final rhetorical question about pity/compassion. Glue: sustained dialogue and irony; 'prepared' plant, worm, wind; contrast between human edict (king) and divine word (Yahweh).",
+      "reference": "3:1 - 4:11",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Second Call and the Reluctant Mission",
+          "reference": "3:1-3:4",
+          "why_start_end_and_devices": "Second oracle formula initiates; closes with Jonah’s one‑sentence proclamation after a day’s journey. Devices: repetition of commission, minimal compliance, narrative speed."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Nineveh's Collective Repentance",
+          "reference": "3:5-3:9",
+          "why_start_end_and_devices": "People believe God and the king’s edict culminates the city’s response. Devices: hyperbolic fasting (people and beasts), role inversion (pagan king as preacher of repentance)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "God's Relenting",
+          "reference": "3:10",
+          "why_start_end_and_devices": "Yahweh sees deeds and relents, not doing the threatened disaster. Devices: concise cause‑effect pivot validating repentance."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Jonah's Angry Prayer and Yahweh's Question",
+          "reference": "4:1-4:4",
+          "why_start_end_and_devices": "Jonah’s displeasure triggers a lament‑like protest; Yahweh asks about his anger. Devices: ironic citation of Exod 34:6; prayer as complaint."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Shelter, the Plant, and the Destructive Wind",
+          "reference": "4:5-4:8",
+          "why_start_end_and_devices": "Jonah waits outside city; Yahweh prepares plant, worm, and east wind; Jonah faints and asks for death. Devices: triple 'prepared' actions; object‑lesson juxtaposition of fleeting comfort."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Yahweh's Final Lesson",
+          "reference": "4:9-4:11",
+          "why_start_end_and_devices": "Dialogue over Jonah’s anger about the plant leads to Yahweh’s closing rhetorical question contrasting a plant with a great city. Devices: analogy, climactic rhetorical question, open‑ended conclusion."
+        }
+      ]
+    }
+  ]
+}

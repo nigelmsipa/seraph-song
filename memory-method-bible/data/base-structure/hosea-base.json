@@ -1,0 +1,433 @@
+{
+  "book_name": "Hosea",
+  "hebrew_name": "הוֹשֵׁעַ (Hoshea')",
+  "canonical_grouping": "Minor Prophets",
+  "big_picture_notes": "Hosea is a covenant-lawsuit (rîb) framed by Hosea’s symbolic marriage to Gomer (chs. 1–3) and a sustained sequence of poetic/oracular indictments (chs. 4–13) culminating in a final call to return and an oracle of restoration (ch. 14). The book juxtaposes God’s burning wrath against Israel’s spiritual whoredom with His persistent, tender love, developed through wordplay (children’s names), vivid metaphors (half-baked cake, treacherous bow, empty vine, dew), and historical allusions (Exodus, Baal Peor, Gilgal, Gibeah). The structure is rhetorically driven with abrupt shifts in speaker and tone, bound together by the leitmotifs of whoredom, ‘knowledge of God,’ return, and the name Ephraim.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Marriage",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Covenant Lawsuit",
+      "story_letters": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Call to Return",
+      "story_letters": [
+        "E"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Allegory of the Unfaithful Wife and Children",
+      "why_start_end_and_literary_glue": "Chs. 1–3 form a unified sign‑act narrative: Hosea’s marriage and the children’s symbolic names (Jezreel, Lo‑Ruhamah, Lo‑Ammi), the lawsuit/judgment on the unfaithful wife, and the redeeming purchase that typifies God’s enduring love. Start (1:1): superscription/oracle formula. End (3:5): future‑oriented resolution. Literary glue: repetition of the marriage command (1:2; 3:1), the reversal of the children’s names (1:9 ↔ 2:23), and sustained marital/covenant metaphor.",
+      "reference": "1:1 - 3:5",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Go, Take a Wife of Whoredom",
+          "reference": "1:1-3",
+          "why_start_end_and_devices": "Hosea's call to enact God's marriage to faithless Israel by marrying Gomer, who bears a son."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Jezreel and Lo-ruhamah",
+          "reference": "1:4-6",
+          "why_start_end_and_devices": "The first two sign-children named for coming judgment: bloodshed avenged and compassion withdrawn."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Lo-ammi: Not My People",
+          "reference": "1:7-9",
+          "why_start_end_and_devices": "Judah spared (7) and the third child named 'Not My People' — the covenant breach declared (8-9)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Hopeful Reversal of the Naming",
+          "reference": "1:10-2:1",
+          "why_start_end_and_devices": "Pivot from judgment to promise; concludes with reversal (not‑my‑people → sons of the living God) preparing restoration theme. Device: inclusio with 2:23."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Rebuke Your Mother",
+          "reference": "2:2-5",
+          "why_start_end_and_devices": "The lawsuit against unfaithful Israel who chased her lovers for bread, wool, and oil."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "I Will Hedge Up Her Path",
+          "reference": "2:6-8",
+          "why_start_end_and_devices": "Thorns blocking her way until she resolves to return to her first husband, unaware He gave the gifts."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "I Will Take Back My Grain",
+          "reference": "2:9-10",
+          "why_start_end_and_devices": "God reclaiming grain, wine, and wool, exposing her lewdness before her lovers."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Days of the Baals",
+          "reference": "2:11-13",
+          "why_start_end_and_devices": "Her feasts ended and vines destroyed, punished for the days she burned incense to the Baals."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Valley of Achor, a Door of Hope",
+          "reference": "2:14-15",
+          "why_start_end_and_devices": "The tender reversal: alluring her to the wilderness and turning the Valley of Achor into a gateway of hope."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "You Will Call Me 'My Husband'",
+          "reference": "2:16-18",
+          "why_start_end_and_devices": "The Baals' names removed and a covenant of peace made with the beasts of the field."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "I Will Betroth You Forever",
+          "reference": "2:19-20",
+          "why_start_end_and_devices": "The threefold betrothal in righteousness, devotion, and faithfulness — 'and you will know the LORD.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "You Are My People",
+          "reference": "2:21-23",
+          "why_start_end_and_devices": "The renewed creation-response and the reversal of the sign-names: 'You are My people… You are my God.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Second Sign-Act: Redeeming the Wife",
+          "reference": "3:1-3:5",
+          "why_start_end_and_devices": "New sign‑act command (‘Go again, love…’) and purchase; resolves with future seeking of Yahweh/David. Devices: acted parable as hinge from judgment to restoration."
+        }
+      ]
+    },
+    {
+      "story_letter": "B",
+      "story_title": "The Covenant Lawsuit and Israel's Fatal Ignorance",
+      "why_start_end_and_literary_glue": "Chs. 4:1–6:3 prosecute the formal rîb: God’s controversy with the land for lack of knowledge (4:1, 6), targeting people, priests, leaders, and concluding in the people’s fleeting ‘let us return’ (6:1–3). Start (4:1): lawsuit formula. End (6:3): superficial repentance that sets up the rejection of 6:4. Glue: ‘knowledge’ leitwort and progression of addressees.",
+      "reference": "4:1 - 6:3",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Charge: Lack of Knowledge and Covenant Breach",
+          "reference": "4:1-4:5",
+          "why_start_end_and_devices": "Initiates the rîb (‘Hear the word…’) listing ethical breaches and cosmic mourning; ends with destruction of the people/mother. Devices: lawsuit formula, personified land."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Judgment on the Corrupt Priesthood",
+          "reference": "4:6-4:10",
+          "why_start_end_and_devices": "Focus on priests who reject knowledge; ends with unsatisfied sacrifices. Devices: lex talionis (‘rejected → rejected’), cultic irony."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Spirit of Whoredom and Corrupt Worship",
+          "reference": "4:11-4:14",
+          "why_start_end_and_devices": "Whoredom/wine take the heart; concludes with ruin of the uncomprehending people. Devices: personified ‘spirit of whoredom,’ family‑level indictment."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Ephraim Is Joined to Idols",
+          "reference": "4:15-19",
+          "why_start_end_and_devices": "The warning to keep Judah from Israel's guilt, for stubborn Ephraim is wedded to idols."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "A Snare at Mizpah",
+          "reference": "5:1-3",
+          "why_start_end_and_devices": "Judgment on priests, people, and royal house who became a snare and a net of rebellion."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Spirit of Prostitution",
+          "reference": "5:4-7",
+          "why_start_end_and_devices": "Deeds that bar their return to God, who has withdrawn from their faithless worship."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Blow the Ram's Horn in Gibeah",
+          "reference": "5:8-10",
+          "why_start_end_and_devices": "The war-alarm over Benjamin and Ephraim, with fury poured on Judah's boundary-movers."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Like a Moth to Ephraim",
+          "reference": "5:11-13",
+          "why_start_end_and_devices": "God as decay to Ephraim, who turns to Assyria's king for a cure that cannot heal."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "I Will Return to My Place",
+          "reference": "5:14-15",
+          "why_start_end_and_devices": "God as a lion who tears and withdraws until they seek His face in their affliction."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The People's Fleeting Repentance",
+          "reference": "6:1-6:3",
+          "why_start_end_and_devices": "People’s hymnic call to return; completes hopeful expectation that will be rebutted in 6:4. Devices: liturgical anaphora, restoration motifs."
+        }
+      ]
+    },
+    {
+      "story_letter": "C",
+      "story_title": "Israel's Stubborn Apostasy and Political Folly",
+      "why_start_end_and_literary_glue": "6:4–10:15 rejects superficial repentance and sustains denunciations centered on Ephraim with recurring metaphors (oven, half‑baked cake, treacherous bow, vine). Start (6:4): rhetorical rejection. End (10:15): final cut‑off of the king. Glue: repeated rhetorical questions and futility similes.",
+      "reference": "6:4 - 10:15",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "I Desire Mercy, Not Sacrifice",
+          "reference": "6:4-7",
+          "why_start_end_and_devices": "Fleeting loyalty like morning mist, and God's great word: 'I desire mercy, not sacrifice.'"
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Gilead, a City of Evildoers",
+          "reference": "6:8-7:2",
+          "why_start_end_and_devices": "Blood-tracked Gilead and murderous priests (6:8-11); Ephraim's exposed iniquity when God would heal (7:1-2)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Oven of Heat: Corrupt King and Leaders",
+          "reference": "7:3-7:7",
+          "why_start_end_and_devices": "Sustained oven metaphor for conspiratorial heat around the king; concludes with fallen kings and no cry to Yahweh. Devices: extended metaphor."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Ephraim, an Unturned Cake",
+          "reference": "7:8-10",
+          "why_start_end_and_devices": "Half-baked Ephraim mixing with the nations, his strength sapped and graying unnoticed."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "A Silly, Senseless Dove",
+          "reference": "7:11-13",
+          "why_start_end_and_devices": "Flitting between Egypt and Assyria, to be brought down in God's net for their rebellion."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Like a Faulty Bow",
+          "reference": "7:14-16",
+          "why_start_end_and_devices": "Wailing on their beds but not from the heart, turning but not to the Most High."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "An Eagle Over the House of the LORD",
+          "reference": "8:1-3",
+          "why_start_end_and_devices": "The covenant-trumpet against Israel, who cries 'we know You' yet has rejected good."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "They Sow the Wind",
+          "reference": "8:4-7",
+          "why_start_end_and_devices": "Self-made kings and the calf of Samaria — 'they sow the wind and reap the whirlwind.'"
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Israel Is Swallowed Up",
+          "reference": "8:8-10",
+          "why_start_end_and_devices": "A worthless vessel among the nations, gone to Assyria like a lone wild donkey, hiring lovers."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Israel Has Forgotten His Maker",
+          "reference": "8:11-14",
+          "why_start_end_and_devices": "Multiplied altars for sin and rejected sacrifices — fire to come on their forgotten Maker's cities."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Do Not Rejoice, O Israel",
+          "reference": "9:1-3",
+          "why_start_end_and_devices": "No harlot's joy on the threshing floor; Ephraim to return to Egypt and unclean food in Assyria."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Day of the LORD's Feast",
+          "reference": "9:4-6",
+          "why_start_end_and_devices": "Sacrifices like the bread of mourners, and Egypt gathering those who flee destruction."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Prophet Is Called a Fool",
+          "reference": "9:7-9",
+          "why_start_end_and_devices": "The days of retribution come, the watchman-prophet ensnared, corruption deep as the days of Gibeah."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Grapes in the Wilderness",
+          "reference": "9:10-12",
+          "why_start_end_and_devices": "God's early delight in Israel, ruined at Baal-peor, Ephraim's glory flying away like a bird."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Wombs That Miscarry",
+          "reference": "9:13-14",
+          "why_start_end_and_devices": "Ephraim planted like Tyre yet bringing children out for slaughter — the prophet's terrible prayer."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Wanderers Among the Nations",
+          "reference": "9:15-17",
+          "why_start_end_and_devices": "The evil at Gilgal, the withered root, and the verdict of wandering exile."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "A Luxuriant Vine",
+          "reference": "10:1-2",
+          "why_start_end_and_devices": "Israel's prosperity multiplying altars and pillars that the LORD will now break down."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Calf of Beth-aven",
+          "reference": "10:3-5",
+          "why_start_end_and_devices": "The kingless people, their false oaths, and Samaria mourning over its exiled calf-idol."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Cover Us, O Mountains!",
+          "reference": "10:6-8",
+          "why_start_end_and_devices": "The calf carried to Assyria, Samaria's king swept away, and the cry for the hills to fall on them."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Ephraim, a Trained Heifer",
+          "reference": "10:9-11",
+          "why_start_end_and_devices": "Sin since the days of Gibeah, and the yoke to be placed on the threshing heifer."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Sow for Yourselves Righteousness",
+          "reference": "10:12-13",
+          "why_start_end_and_devices": "The call to break up unplowed ground and seek the LORD, against the wickedness they have reaped."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Roar of Battle",
+          "reference": "10:14-15",
+          "why_start_end_and_devices": "The coming devastation like Beth-arbel, with Israel's king utterly cut off at dawn."
+        }
+      ]
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Stubborn Son and the Tender Father",
+      "why_start_end_and_literary_glue": "Chs. 11–12 shift to parental metaphor: God’s tender care versus Israel’s betrayal, climaxing in divine compassion (11:8–11) and a historical indictment via Jacob. Start (11:1): ‘Out of Egypt I called my son.’ End (12:14): repayment for scorn. Glue: ‘love’ and ‘Ephraim’ repetition; internal divine dilemma.",
+      "reference": "11:1 - 12:14",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Out of Egypt I Called My Son",
+          "reference": "11:1-4",
+          "why_start_end_and_devices": "God's fatherly love teaching Ephraim to walk, leading with cords of kindness, though they turned away."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Bent on Turning from Me",
+          "reference": "11:5-7",
+          "why_start_end_and_devices": "The return to Egypt and Assyria's rule, the people set on backsliding from the Most High."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "God's Compassion Overrules Judgment",
+          "reference": "11:8-11:11",
+          "why_start_end_and_devices": "Rhetorical lament (‘How can I give you up?’) flips judgment into promised return; ends with settlement at home. Devices: antithetical contrast, theological axiom ‘I am God, not man.’"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Ephraim's Lies and Jacob's Example",
+          "reference": "11:12-12:6",
+          "why_start_end_and_devices": "Charge of deceit transitions to Jacob’s wrestling as exemplar; ends with exhortation to return and hold fast to love/justice. Devices: juxtaposition, proverbial exhortation."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "A Merchant with Dishonest Scales",
+          "reference": "12:7-9",
+          "why_start_end_and_devices": "Ephraim's fraudulent wealth and boast of innocence, met by the God who can make him dwell in tents again."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "I Spoke Through the Prophets",
+          "reference": "12:10-11",
+          "why_start_end_and_devices": "God's word given in visions and parables, against the worthless altars of Gilead and Gilgal."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "By a Prophet He Was Preserved",
+          "reference": "12:12-14",
+          "why_start_end_and_devices": "Jacob's flight and the prophet-led Exodus, against Ephraim's bitter, blood-guilty provocation."
+        }
+      ]
+    },
+    {
+      "story_letter": "E",
+      "story_title": "The Final Confrontation and the Call to Return",
+      "why_start_end_and_literary_glue": "Chs. 13–14 resolve the book’s tension: final judgment oracles (13) answered by a call to return and an oracle of restoration capped with a wisdom epilogue (14:9). Start (13:1): former glory vs present downfall. End (14:9): wisdom conclusion. Glue: judgment‑repentance‑restoration arc; devouring‑beast vs flourishing‑tree imagery.",
+      "reference": "13:1 - 14:9",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "He Died Through Baal",
+          "reference": "13:1-3",
+          "why_start_end_and_devices": "Once-exalted Ephraim incurring guilt through Baal, now vanishing like the morning mist."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "When Satisfied, They Forgot Me",
+          "reference": "13:4-6",
+          "why_start_end_and_devices": "The LORD their only Savior since Egypt, forgotten once they grew satisfied and proud."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Like a Bear Robbed of Her Cubs",
+          "reference": "13:7-8",
+          "why_start_end_and_devices": "God turned predator — lion, leopard, and bear — to tear the unrepentant."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Where Is Your King Now?",
+          "reference": "13:9-11",
+          "why_start_end_and_devices": "Israel destroyed against its only helper, the demanded king given in anger and taken in wrath."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "O Death, Where Is Your Sting?",
+          "reference": "13:12-14",
+          "why_start_end_and_devices": "Ephraim's stored-up sin and the redemption-promise from Sheol that Paul echoes in 1 Corinthians 15."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "An East Wind from the LORD",
+          "reference": "13:15-16",
+          "why_start_end_and_devices": "The drying desert wind plundering Ephraim, and Samaria bearing her guilt by the sword."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Prophet's Call to Repentance",
+          "reference": "14:1-14:3",
+          "why_start_end_and_devices": "Clear summons to return with prescribed prayer rejecting Assyria, horses, and idols; completes liturgical instruction. Devices: anaphora, penitential formula."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Oracle of Restoration and Wisdom Conclusion",
+          "reference": "14:4-14:9",
+          "why_start_end_and_devices": "Divine promise to heal and love freely; closes with wisdom epilogue. Devices: agricultural similes (lily, olive, Lebanon), didactic epilog."
+        }
+      ]
+    }
+  ]
+}

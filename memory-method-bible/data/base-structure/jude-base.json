@@ -1,0 +1,64 @@
+{
+  "book_name": "Jude",
+  "hebrew_name": "Ἰούδας (Ioudas)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "Jude is a tightly constructed, single‑chapter polemical letter in classic Hellenistic form (salutation 1–2; body 3–23; doxology 24–25). Structural cohesion comes from pervasive triplets (hendiatris), aggressive historical typology (Israel/angels/Sodom; Cain/Balaam/Korah), and an inclusio of ‘kept’/‘keeping’ (1, 21, 24). The narrative arc moves from intended topic → urgent call to contend (3–4) → proof of certain judgment for intruders (5–16) → final exhortations to the faithful (17–23), concluding with a preservation‑focused doxology.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Call to Contend and the Doom of the Godless",
+      "why_start_end_and_literary_glue": "Start (1:1) epistolary opening marks the beginning; end (1:25) doxology completes the letter. Glue: recurring triplets, historical typology proving judgment, and ‘kept/keep’ inclusio framing the call to contend and God’s preserving power.",
+      "reference": "1:1 - 1:25",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation and the Call to Contend",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Jude greets the called and beloved, urging them to contend for the faith against intruders marked for condemnation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Three Historical Warnings of Judgment",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "Unbelieving Israel, the fallen angels, and Sodom — three proofs that God judges the ungodly."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "These Dreamers Slander Glorious Beings",
+          "reference": "1:8-10",
+          "why_start_end_and_devices": "The false teachers defile and revile, unlike even Michael, who left judgment to the Lord."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Threefold Woe and Vivid Analogies",
+          "reference": "1:11-13",
+          "why_start_end_and_devices": "Cain, Balaam, and Korah; hidden reefs, waterless clouds, fruitless trees, wandering stars."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Enoch's Prophecy and the Grumblers",
+          "reference": "1:14-16",
+          "why_start_end_and_devices": "The seventh from Adam foretold the Lord's coming judgment on these discontented flatterers."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Remember the Apostles' Warning of Scoffers",
+          "reference": "1:17-19",
+          "why_start_end_and_devices": "The foretold last-times scoffers, worldly and devoid of the Spirit, who cause divisions."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Build Yourselves Up and Snatch Others from the Fire",
+          "reference": "1:20-23",
+          "why_start_end_and_devices": "Keep in God's love; have mercy on doubters and rescue others, hating the flesh-stained garment."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Concluding Doxology",
+          "reference": "1:24-25",
+          "why_start_end_and_devices": "To Him able to keep them from stumbling — glory, majesty, dominion, and authority forever."
+        }
+      ]
+    }
+  ]
+}

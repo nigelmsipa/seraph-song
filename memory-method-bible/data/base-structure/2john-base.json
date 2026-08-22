@@ -1,0 +1,21 @@
+{
+  "book_name": "2 John",
+  "hebrew_name": "Ἰωάννου Β’ (Iōannou B’)",
+  "canonical_grouping": "Epistles",
+  "big_picture_notes": "2 John is a single‑chapter Johannine letter with a condensed Hellenistic structure (salutation → exhortation → warning → farewell) that unites the twin themes of Truth and Love. Repetition (‘truth’ five times; ‘love’ four times) ties the command to walk in love (as obedience) with the boundary of avoiding deceivers who deny Christ’s coming in the flesh. The Elder’s familial address to the ‘elect lady and her children’ frames the church in household analogy, producing a tight inclusio from v.1 to v.13.",
+  "stories": [
+    {
+      "story_letter": "A",
+      "story_title": "The Great Commandment: Walking in Truth and Love",
+      "why_start_end_and_literary_glue": "Start (1:1) ‘The Elder to the elect lady…’ opens the salutation; end (1:13) ‘The children of your elect sister greet you’ closes with the farewell. Glue: twin leitmotifs of truth and love; love defined as walking according to commandments; doctrinal boundary against deceivers/antichrist.",
+      "reference": "1:1 - 1:13",
+      "scenes": [
+        {"scene_number": 1, "scene_name": "Salutation and the Foundation of Truth", "reference": "1:1-1:3", "why_start_end_and_devices": "Elder→elect lady; grace/mercy/peace ‘in truth and love’. Devices: epistolary address, repeated ‘truth’ (vv.1–3), household/church metaphor, blessing preamble."},
+        {"scene_number": 2, "scene_name": "Exhortation to Walk in Love", "reference": "1:4-1:6", "why_start_end_and_devices": "Joy over children walking in truth; command to love as from the beginning; love = walking in his commandments. Devices: repetition of ‘walk’/‘commandment’, concise definition of love, positive bridge before warning."},
+        {"scene_number": 3, "scene_name": "Deceivers and the Need to Abide", "reference": "1:7-1:9", "why_start_end_and_devices": "Many deceivers denying Jesus come in the flesh; watch yourselves; everyone not abiding in Christ’s teaching ‘does not have God’; the abider has Father and Son. Devices: antichrist identification, abide vs go‑ahead contrast, doctrinal boundary."},
+        {"scene_number": 4, "scene_name": "Practical Policy and Final Greetings", "reference": "1:10-1:13", "why_start_end_and_devices": "Do not receive or greet the non‑teaching visitor; desire to speak face‑to‑face; closing family greeting. Devices: hospitality boundary, aposiopesis/shortness rationale, inclusio with elect‑family greeting."}
+      ]
+    }
+  ]
+}
+
