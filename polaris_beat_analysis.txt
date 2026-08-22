@@ -1,0 +1,56 @@
+POLARIS WORKSPACE - BEAT ANALYSIS
+===================================
+127 songs, ~4 months old
+
+BEAT SOURCING WORKFLOW:
+1. Find beats on YouTube (lo-fi, trap, handpan, acoustic)
+2. Upload them to Suno as audio files
+3. Cover/process them through Suno with style tags to transform them
+4. Use the processed beats as the foundation for Bible songs
+
+BEATS FOUND IN POLARIS:
+
+UPLOADED BEATS (from YouTube):
+- Kainbeats - While Were Here (Sleepy Lofi Music)
+  Lo-fi hip hop instrumental, 85 BPM, C major, Rhodes piano, jazz-influenced seventh chords, muffled kick, crisp snare, swung hi-hats, sub-heavy bass, vinyl crackle, rain samples, minimalist 4-bar loop
+
+- YEAT - SÜPER G33KED (SUPER SLOWED & REVERB)
+  Trap/melodic rap, 140 BPM, C# minor, high-pitched bell synth, rapid hi-hat rolls, heavy distorted 808 bass, atmospheric pad, pitch-corrected vocals, triplet flows
+
+- Let's play handpan (3)
+  Folk-pop acoustic, steel-string guitar fingerstyle, alternating bass, syncopated treble, 88 BPM, male vocal mid-tenor, intimate
+
+- Golden Heart (888 Hz) 1 hour handpan music Malte Marten
+  Fingerstyle acoustic guitar, percussive slap-and-pop, hammer-ons/pull-offs, natural harmonics, 104 BPM, D major, dropped-D
+
+SUNO-COVERED VERSIONS (processed beats):
+All covers use the style tag: ":( horror x trip hop ): alone & scared"
+
+Covered tracks:
+- Jesu, Joy of Mans Desiring (Tabernacle Choir) — 4 versions
+- Jordan Peterson - Heaven And Hell Part 1 — 2 versions
+- Genesis 1 KJV Angelic Choir (Instrumental) (Remastered) — 5 versions
+
+KEY INSIGHT:
+The "horror x trip hop" style tag is the secret sauce for transforming uploaded beats.
+It adds darkness, atmosphere, and weight to the raw YouTube beats.
+The cover function in Suno takes the uploaded audio and reimagines it with this style.
+
+THE GOLDEN TOOL PROBLEM:
+- Generating a good beat from scratch in Suno is extremely difficult
+- The beat is the foundation — if the beat doesn't hit, nothing else works
+- YouTube-sourced beats provide a higher quality foundation than Suno-generated beats
+- The goal: create a systematic way to produce beats that consistently hit
+- This is "impossible" — but that's what we're trying to solve
+
+BEAT TYPES USED:
+1. Lo-fi hip hop (85 BPM, Rhodes, vinyl crackle) — for reflective/narrative content
+2. Trap (140 BPM, 808 bass, hi-hats) — for urgent/intense content
+3. Handpan/folk acoustic (88-104 BPM) — for sacred/meditative content
+4. Horror trip hop (Suno cover style) — for dark/dramatic content
+
+RELATED:
+- "Beats" workspace (575 songs) — likely contains more beat experiments
+- "Genesis Beats" workspace (20 songs) — beat work specific to Genesis
+- "Numbers instrumentals" workspace (181 songs) — instrumental beats for Numbers
+- Custom model "Polaris 1" trained in Suno — likely trained on beat patterns
