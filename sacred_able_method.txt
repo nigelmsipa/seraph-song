@@ -84,3 +84,11 @@ CONSTRAINTS:
 - Can search and cover other Suno users' songs (main avenue now)
 - KJV lyrics use underscores to bypass copyright filters
 - What's uploaded is what's available — no new uploads
+PLATFORM DECISION:
+- Considered A-Step (external AI music model on rented GPUs)
+- Decided against it: more expensive, more hassle, output not as good
+- Sticking with Suno: fighting the filters and platform limitations
+- The tradeoff is worth it — Suno's quality is higher, no infrastructure needed
+- Real constraint: can't upload new beats (Suno cracked down on uploads)
+- New frontier: search other users' Suno songs and cover them (Sacred-able method)
+- Millions of users generating beats daily — the pool is bigger than YouTube ever was
