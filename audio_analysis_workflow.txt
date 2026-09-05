@@ -1,0 +1,88 @@
+SERAPH SONG - REFERENCE AUDIO ANALYSIS WORKFLOW
+=================================================
+
+PROBLEM
+=======
+"Prompt and pray" fails for this project — the content has specific emotional
+gravity (sacred, reverent, narrative weight) that's hard to describe in words
+alone. Style words like "ethereal" or "reverent" are a starting point, not a
+precise target.
+
+GOAL
+====
+Analyze a reference track (even a secular one) to extract its musical
+fingerprint — key, tempo, dynamics, harmonic/percussive balance, brightness,
+groove — then use that fingerprint to write a precise Suno prompt. The result
+is an inspired original with a distinct character, not a copy of the
+reference.
+
+TOOL
+====
+tools/analyze_audio.py — two-pass analysis script.
+
+  Pass 1: aubio + sox + ffprobe
+    - BPM and pitch-class distribution (aubio)
+    - RMS/peak/crest factor → dynamic range character (sox)
+    - Duration, sample rate, channels (ffprobe)
+
+  Pass 2: librosa
+    - BPM cross-check (flags half/double-time discrepancies against pass 1)
+    - Harmonic/percussive ratio (H/P) — how much percussion vs. sustained tone
+    - Chroma-based key detection (more reliable than aubio's raw pitch classes
+      since it works off the harmonic-only component)
+    - Spectral contrast (texture: clean separation vs. dense/reverb-heavy)
+    - Spectral centroid (brightness: dark/bass-forward vs. bright/airy)
+    - Onset strength / groove index (punchy transients vs. smooth and flowing)
+
+  Usage:
+    python3 tools/analyze_audio.py <audio_file>
+
+  Requires: aubio (python-aubio), sox, ffprobe on PATH, librosa + numpy.
+  librosa's own BPM detection is broken on Python 3.14 without a workaround
+  (already patched in the script: .flat[0] on the returned array) — aubio's
+  BPM is otherwise the more reliable of the two.
+
+WORKFLOW
+========
+1. Download or locate the reference track.
+2. Run tools/analyze_audio.py against it — prints both passes plus a
+   synthesized data layer (key, tempo, dynamics, H/P, brightness, groove)
+   and a draft comma-separated Suno prompt fragment built from the numbers.
+3. Add creative direction on top of the data layer — genre, mood, instruments,
+   named artist references, and (per [[project-suno-prompt-library|the
+   general Suno prompt notes]]) qualitative interpretation of the numbers
+   matters more than the numbers themselves.
+4. For anything with spoken word or narration on top (most of this project),
+   always specify open midrange: "leave space in the 800Hz-3kHz range" so the
+   voice has somewhere to sit.
+
+WORKED EXAMPLE — Bene Gesserit Benediction
+===========================================
+Reference track analysis revealed C mixolydian (not C major) — the Bb
+appeared 157 times vs. E at 51, which was the tell. H/P ratio of 5.96
+confirmed near-zero percussion. That fed directly into the style palette in
+preferences_and_guidelines.txt (angelic/ethereal choir entries lean on this
+same "sustained, low-percussion" character).
+
+Resulting prompt:
+  cinematic sacred orchestral, dark choral, ritualistic benediction,
+  C mixolydian, modal and ancient-sounding, 115 BPM, deliberate and
+  ceremonial pace, female choir as primary voice, soprano and alto movement
+  centering on C-A-G melodic arc, orchestral strings sustaining underneath,
+  reverb-heavy, cathedral acoustic space, minimal percussion — no drums, no
+  trap elements, no modern rhythm section, wide dynamic range: sections of
+  near-silence building to full orchestral-choir swell, dramatic peaks then
+  reverting to quiet reverence, mystical sisterhood energy, cosmic feminine
+  divinity, ancient rite of passage, solemn and powerful simultaneously,
+  sacred but foreboding, lush hall reverb, warm low-mid frequency balance,
+  no harsh treble. Instrumental. No lyrics.
+
+NOTES
+=====
+- librosa is otherwise unreliable for this project (bad key detection on its
+  own) — it's only used here for the H/P ratio, spectral contrast/centroid,
+  and groove index, all of which aubio doesn't provide. aubio + sox + ffprobe
+  do the load-bearing work (BPM, key, dynamics).
+- Qualitative read of the numbers > the numbers themselves when writing the
+  final prompt. The script's synthesized prompt fragment is a starting point,
+  not a finished prompt.
