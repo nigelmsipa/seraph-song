@@ -18,9 +18,10 @@ COMPLETED (needs improvement):
 
 IN PROGRESS (needs redo):
 - Deuteronomy (88 songs in Deutronomy 2, all using one style — too monotonous)
+- Joshua (38 staged chunks; word-for-word KJV text and cohesive style map ready)
 
 NOT YET STARTED:
-- Joshua through Revelation
+- Judges through Revelation
 
 STRUCTURE
 =========
@@ -31,6 +32,8 @@ STRUCTURE
   
 /source-texts/           — Bible source texts
   KJV.txt               — King James Version full text (4.6MB)
+
+/joshua/                 — 38 generation-ready chunks, index, staging JSON, and style map
 
 /style_analysis.txt      — Cross-book style analysis (Genesis through Numbers)
 /genesis_workspace.txt   — Genesis song details and styles

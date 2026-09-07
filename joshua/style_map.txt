@@ -1,0 +1,160 @@
+JOSHUA STYLE MAP - ALL 38 CHUNKS
+=================================
+North star: the text determines the movement; the beat must still carry it.
+Cohesion: acoustic strings, hand percussion, low strings, and restrained choir recur.
+Variety: choral, folk-hop, trip-hop, neoclassical, gospel, and world textures appear only where earned.
+Vocal rule: clear KJV diction, open midrange, and no overlapping lyric lines.
+
+FORMAT: CHUNK | REFERENCE | STYLE NAME | STYLE TAG | WHY
+
+CHUNK 1 | Joshua 1:1-18 | THRESHOLD HYMN
+"sacred folk-orchestral, countertenor lead, clear KJV diction, fingerpicked classical guitar, warm cello, measured frame drum, restrained chapel choir, modal harmony, 76 BPM, steady forward motion, gradual rise on the courage refrain, spacious reverent mix, no vocal overlap"
+WHY: Joshua's divine commission and the people's answering pledge form one succession ceremony. The sound begins with Moses' absence, gathers strength through the threefold courage command, and resolves when Israel echoes that command back to Joshua.
+
+CHUNK 2 | Joshua 2:1-24 | NIGHT WATCH FOLK
+"nocturnal lo-fi folk, female alto narration, clear KJV diction, fingerpicked acoustic guitar, brushed cajon, bowed double bass, faint harmonica, restrained chapel choir, minor-to-major modal turn, 74 BPM, intimate tense verses, hopeful lift at Rahab's confession, warm tape texture, no vocal overlap"
+WHY: The complete spy episode is a single suspense arc: danger, concealment, confession, oath, escape, and faithful report. An intimate night sound honors Rahab's courage without turning espionage into spectacle.
+
+CHUNK 3 | Joshua 3:1-17 | RIVER PROCESSIONAL
+"ritual sacred folk ambient, clear KJV diction, low male lead, handpan, concert harp, low cello drone, slow frame drum procession, distant mixed choir, 72 BPM, spacious river atmosphere, restrained beginning, luminous choral expansion when the waters part, solemn and unhurried, no vocal overlap"
+WHY: Preparation, divine promise, and the crossing itself rise continuously toward Israel standing on dry ground. The procession supplies motion while the choir marks the miracle rather than dominating every verse.
+
+CHUNK 4 | Joshua 4:1-24 | MEMORIAL FOLK
+"warm sacred folk, clear KJV diction, acoustic guitar, gentle harmonica responses, hand drum pulse, warm cello, mixed chapel choir used as a soft refrain, 74 BPM, storytelling cadence, calm anticipatory phrasing, widening harmony at 'What mean ye by these stones?', natural intimate production, no vocal overlap"
+WHY: The stones from the river, the completed crossing, and the explanation to future children belong together as one act of remembrance. The folk setting makes the chapter sound handed down rather than merely announced.
+
+CHUNK 5 | Joshua 5:1-15 | HOLY GROUND
+"ethereal choral sacred ambient, clear KJV diction, countertenor lead, concert harp, low strings, soft pads, distant soprano layers, minimal percussion, modal and ancient-sounding, 68 BPM, deep hush, gradual movement from consecration to Passover to holy-ground awe, cathedral space, no vocal overlap"
+WHY: Circumcision, Passover, the end of manna, and the Captain of the LORD's host collectively consecrate Israel before battle. The chapter should feel like preparation on holy ground, not a pre-battle anthem.
+
+CHUNK 6 | Joshua 6:1-27 | SEVENFOLD PROCESSION
+"ritual cinematic folk, clear KJV diction, low male chant, measured frame drums, ram's-horn calls, plucked strings, boy choir accents, low brass used sparingly, 78 BPM, disciplined repetitive procession, dramatic use of near-silence, one controlled orchestral-choral release at the shout, grave aftermath, no vocal overlap"
+WHY: The plan, sevenfold marching, shout, judgment, Rahab's rescue, and Jericho's curse form one indivisible event. Repetition carries the ritual; silence and a single release keep the miracle from becoming generic battle music.
+
+CHUNK 7 | Joshua 7:1-15 | DARK SACRED TRIP-HOP
+"dark sacred trip-hop, clear KJV diction, low piano, bowed bass, sparse sub pulse, restrained dry drums, low male choir, occasional female lament, 68 BPM, descending minor harmony, tense negative space, no swagger, no triumph, unresolved ending after the guilty person is named but not yet found, no vocal overlap"
+WHY: Achan's concealed trespass, the defeat at Ai, Joshua's lament, and God's explanation form the first movement: Israel knows the cause and the coming procedure, but the guilty person remains hidden. The unresolved dark palette holds that tension without sensationalizing the judgment.
+
+CHUNK 8 | Joshua 7:16-26 | ACHOR JUDGMENT LAMENT
+"sparse sacred lament, clear KJV diction, grave male baritone, low cello, dark concert harp, distant wordless choir, minimal frame drum, 64 BPM, inexorable narrowing cadence through the lots, bare confession, mournful judicial climax, long somber decay at the great heap of stones, no vocal overlap"
+WHY: The lot narrows from tribe to household to man; confession, recovery of the devoted things, and judgment then complete the episode. A slower lament distinguishes exposure from the preceding defeat and gives the Valley of Achor its full moral weight.
+
+CHUNK 9 | Joshua 8:1-13 | FOLK-HOP STRATEGY
+"cinematic folk-hop, clear KJV diction, rhythmic male narration, fingerpicked guitar ostinato, bowed cello, frame drum and brushed snare, restrained low choir, 78 BPM, quiet tactical tension, layered entrances, dry forward pulse, spacious midrange, no vocal overlap"
+WHY: God's renewed command and Joshua's positioning of the ambush make one deliberate preparation movement. The pulse communicates strategy and restored resolve without prematurely celebrating the victory.
+
+CHUNK 10 | Joshua 8:14-29 | CONTROLLED BATTLE TRIP-HOP
+"cinematic orchestral trip-hop, clear KJV diction, steady low drum pulse, cello ostinato, dark strings, restrained low brass, male lead with brief choral accents, 80 BPM, controlled escalation, sharp pivot when Joshua stretches out the spear, grave rather than triumphant, clean vocal space, no vocal overlap"
+WHY: Ai's pursuit, the signal, the burning city, and the king's death comprise the complete battle action. The style intensifies the preceding tactical groove while retaining the moral gravity of the text.
+
+CHUNK 11 | Joshua 8:30-35 | COVENANT HYMN
+"sacred hymn, clear KJV diction, countertenor lead, concert harp, warm cello, oboe, gentle strings, balanced mixed choir, 70 BPM, simple resolving harmony, unhurried public-reading cadence, luminous but restrained climax, wide reverent space, no vocal overlap"
+WHY: The altar, written law, blessings and cursings, and complete public reading are a distinct liturgical answer to the battle. Its brevity is a virtue: the song becomes a clean covenantal seal.
+
+CHUNK 12 | Joshua 9:1-27 | UNEASY LO-FI FOLK
+"understated lo-fi folk, clear KJV diction, alternating male voices, plucked acoustic guitar, brushed percussion, bowed bass, muted harmonica, 74 BPM, gently deceptive groove, subtle harmonic unease at 'asked not counsel', sober resolution rather than comedy, small choir only at the oath, warm dry mix, no vocal overlap"
+WHY: The disguise, negotiation without counsel, discovery, and resolution all depend on one oath. A single understated groove lets the listener feel both the cleverness of the ruse and the seriousness of Israel's sworn word.
+
+CHUNK 13 | Joshua 10:1-15 | COSMIC BATTLE ORATORIO
+"cinematic sacred orchestral, clear KJV diction, urgent male lead, driving frame drums, low brass, tremolo strings, full choir held in reserve, 82 BPM, decisive march, vast suspended harmony and thinned percussion when the sun stands still, then one majestic choral return, high dynamic range, no vocal overlap"
+WHY: Gibeon's appeal, Israel's night march, hailstones, Joshua's command to sun and moon, and the unmatched day form the book's cosmic military climax. The arrangement must make time itself seem suspended.
+
+CHUNK 14 | Joshua 10:16-27 | CAVE JUDGMENT
+"dark ritual folk-hop, clear KJV diction, low male vocal, cavernous hand drum, bowed bass, sparse cello, muted brass, grave unison chant, 76 BPM, claustrophobic verses, stern controlled build, no celebratory swagger, abrupt weight at the execution, long dark decay, no vocal overlap"
+WHY: The kings' concealment, capture, public humiliation, execution, and sealing in the cave form a severe judicial episode. The sound stays enclosed and heavy rather than heroic.
+
+CHUNK 15 | Joshua 10:28-43 | GRAVE CINEMATIC FOLK-HOP
+"grave cinematic folk-hop, clear KJV diction, rhythmic narration, acoustic guitar ostinato, hand drums, low cello, restrained brass, sparse male choir, 80 BPM, repeating campaign motif with small variations for each city, compressed forward motion, sober final resolution at Gilgal, no vocal overlap"
+WHY: The repeated victories from Makkedah through Debir are one campaign catalogue ending with the whole southern country subdued. A recurring motif makes the repetition intelligible while the restrained tone avoids triumphal excess.
+
+CHUNK 16 | Joshua 11:1-23 | NORTHERN MODAL CHOIR
+"dark modal orchestral folk, clear KJV diction, haunting unison male voices expanding into restrained close-harmony choir, bowed strings, low drone, subtle frame drum, 76 BPM, cold spacious atmosphere, controlled battle surge, gradual release into stillness at 'the land rested from war', no vocal overlap"
+WHY: The vast northern coalition, Hazor's fall, summary of conquest, hardening of the kings, removal of the Anakim, and final rest form one concluding arc. The arrangement should cool and empty as warfare gives way to rest.
+
+CHUNK 17 | Joshua 12:1-24 | KING-COUNT LITANY
+"hypnotic sacred percussion, clear KJV diction, countertenor recitation, dry frame drum and shaker, plucked harp, low cello drone, restrained unison responses, 78 BPM, steady walking tempo, subtle variation through the names, count-like cadence, spacious mix, firm final resolution at thirty and one, no vocal overlap"
+WHY: The eastern and western kings constitute the formal roll call closing the conquest. A litany turns the list into cumulative memory rather than filler, with the final count supplying the natural cadence.
+
+CHUNK 18 | Joshua 13:1-14 | UNFINISHED PROMISE AMBIENT
+"sacred ambient folk, clear KJV diction, mature male baritone, classical guitar harmonics, low cello, soft pads, distant choir, minimal hand drum, 68 BPM, spacious unfinished cadence, sober age and undiminished promise, gentle lift as the land is assigned, no vocal overlap"
+WHY: God's address to the aged Joshua names the unconquered land and commands its distribution; the narration then identifies the inheritance already given beyond Jordan and closes with Levi's distinct portion. This hinge moves completely from warfare into inheritance without ending mid-sentence.
+
+CHUNK 19 | Joshua 13:15-33 | ALLOTMENT PULSE
+"meditative sacred folk pulse, clear KJV diction, classical guitar arpeggios, handpan, soft frame drum, warm cello, countertenor narration, 72 BPM, measured geographic phrasing, subtle recurring inheritance motif, sober remembrance of Balaam, open uncluttered mix, no vocal overlap"
+WHY: The specific tribal grants to Reuben, Gad, and half-Manasseh form the detailed eastern allotment inherited under Moses. A stable pulse carries the geography without flattening the tribal distinctions.
+
+CHUNK 20 | Joshua 14:1-15 | WEATHERED FOLK GOSPEL
+"weathered acoustic folk gospel, clear KJV diction, mature male baritone, fingerpicked guitar, fiddle, gentle harmonica, upright bass, restrained chapel choir, 76 BPM, warm major-modal harmony, patient storytelling, strong lift at 'give me this mountain', humble resolving cadence, natural production, no vocal overlap"
+WHY: The formal division of Canaan leads directly to Caleb's forty-five-year testimony and request for Hebron. Folk gospel gives the old warrior warmth, endurance, and conviction without turning him into a caricature.
+
+CHUNK 21 | Joshua 15:1-12 | BOUNDARY MEDITATION
+"intricate sacred rhythm, clear KJV diction, countertenor lead, classical guitar, concert harp, handpan, light frame drum, 74 BPM, precise flowing enumeration, gently circling motif, balanced acoustic texture, meditative geographic movement, no vocal overlap"
+WHY: Judah's four borders form a single carefully traced circuit. The arrangement circles with the text and closes naturally when the boundary returns to the Great Sea.
+
+CHUNK 22 | Joshua 15:13-19 | SPRINGS FOLK BALLAD
+"intimate acoustic folk ballad, clear KJV diction, alternating male and female leads, fingerpicked guitar, fiddle, warm cello, light hand percussion, 74 BPM, narrative simplicity, gentle melodic rise for Achsah's request, bright resolving figure at the upper and nether springs, natural room sound, no vocal overlap"
+WHY: Caleb's conquest, Othniel's reward, and Achsah's request make a compact family narrative inside the allotment lists. Alternating voices clarify the dialogue and the springs provide the musical release.
+
+CHUNK 23 | Joshua 15:20-63 | JUDAH CITY LITANY
+"minimalist folk-hop litany, clear KJV diction, rhythmic low male recitation, muted plucked strings, dry frame drum, bowed bass, faint wordless choir, 78 BPM, steady mnemonic groove, small instrumental variations between regions, restrained ending on Jerusalem and the Jebusites, spacious vocal midrange, no vocal overlap"
+WHY: The regional city lists are one territorial catalogue, ending with the unresolved Jebusite presence in Jerusalem. A mnemonic groove carries the names while regional shifts provide subtle internal chapters.
+
+CHUNK 24 | Joshua 16:1-10 | NEOCLASSICAL ALLOTMENT
+"neoclassical acoustic meditation, clear KJV diction, classical guitar lead, delicate harp, soft cello, restrained brushed beat, countertenor vocal, 72 BPM, clean melodic lines, measured border recitation, minor shading at the Canaanites remaining in Gezer, intimate high-fidelity mix, no vocal overlap"
+WHY: Joseph's boundary and Ephraim's specific inheritance form one concise allotment ending with incomplete dispossession. The clean guitar line gives the geography shape and leaves room for the darker final qualification.
+
+CHUNK 25 | Joshua 17:1-18 | DIALOGUE LO-FI FOLK
+"lo-fi sacred folk, clear KJV diction, alternating male narration and small female ensemble, fingerpicked guitar, bowed double bass, soft hand drum, warm cello, restrained choir, 74 BPM, conversational pacing, tender clarity for Zelophehad's daughters, firmer rhythmic lift at 'cut it down', warm tape texture, no vocal overlap"
+WHY: Manasseh's inheritance, the daughters' lawful claim, remaining Canaanites, and Joseph's request for more land all concern possession within one tribal house. Distinct voices make the legal and argumentative turns legible.
+
+CHUNK 26 | Joshua 18:1-10 | SHILOH AMBIENT FOLK
+"sacred ambient folk, clear KJV diction, low male lead, concert harp, handpan, soft pads, gentle frame drum, distant mixed choir, 70 BPM, tent-of-meeting stillness, patient survey rhythm, luminous transition when the descriptions are laid before the LORD and the lot is cast, spacious reverent mix, no vocal overlap"
+WHY: The tabernacle is set at Shiloh, Joshua rebukes the seven tribes' delay, the surveyors traverse the land, and the lots are cast before the LORD. This is a complete administrative-sacred movement centered on ordered worship.
+
+CHUNK 27 | Joshua 18:11-28 | BENJAMIN BOUNDARY MEDITATION
+"intricate sacred acoustic rhythm, clear KJV diction, countertenor lead, classical guitar, delicate harp, handpan, light frame drum, warm cello, 74 BPM, precise border recitation, gently circling melodic figure, subtle cadence change for the cities, clean spacious mix, no vocal overlap"
+WHY: Benjamin's northern, western, southern, and eastern boundaries lead directly into its city list. The self-contained allotment receives a more rhythmic variation of the Shiloh palette.
+
+CHUNK 28 | Joshua 19:1-31 | PLUCKED WORLD LITANY
+"acoustic world-sacred litany, clear KJV diction, countertenor recitation, kora-like plucked texture, classical guitar, frame drum and shaker, warm bass drone, restrained chapel responses, 76 BPM, flowing place-name cadence, subtle motif change at each tribe, organic dry mix, no vocal overlap"
+WHY: The next four tribal lots form the first half of the remaining allotments. A lightly global plucked texture broadens the palette while remaining acoustic, reverent, and rhythmically useful for long names.
+
+CHUNK 29 | Joshua 19:32-51 | ALLOTMENT RESOLUTION
+"warm neoclassical folk, clear KJV diction, classical guitar, handpan, soft cello, measured frame drum, male lead with restrained mixed choir, 72 BPM, patient geographic pulse, brighter motion when Dan takes Leshem, gentle resolving expansion when Joshua receives Timnathserah, no vocal overlap"
+WHY: The final tribal lots culminate in Joshua receiving his own city and the completion formula at Shiloh. The established allotment palette now resolves rather than merely continuing.
+
+CHUNK 30 | Joshua 20:1-9 | REFUGE HYMN
+"gentle sacred hymn, clear KJV diction, countertenor lead, concert harp, warm cello, soft organ pad, light walking pulse, compassionate mixed choir, 70 BPM, stable sheltering harmony, calm legal narration, subtle lift as the six cities are named, spacious and consoling, no vocal overlap"
+WHY: The command, legal purpose, and naming of all six cities form one complete institution of refuge. Stable harmony makes the song itself feel like shelter while preserving the law's precision.
+
+CHUNK 31 | Joshua 21:1-26 | PRIESTLY CITY LITANY
+"dignified priestly minimalism, clear KJV diction, countertenor recitation, concert harp, precise plucked strings, dry frame drum, low sustained cello, 72 BPM, orderly repeated cadence, clean tones, subtle clan-response motif, elevated but restrained, no vocal overlap"
+WHY: The Levites' request, casting of lots, and the complete priestly and Kohathite allotments make the first natural clan division. Precision and repeated cadence serve the city names.
+
+CHUNK 32 | Joshua 21:27-45 | FULFILMENT LITANY
+"sacred harp procession, clear KJV diction, countertenor lead, concert harp, cello, oboe, measured frame drum, mixed choir gradually entering, 74 BPM, orderly city litany opening into broad resolving harmony, full but uncluttered climax at 'there failed not ought', cathedral space, no vocal overlap"
+WHY: The Gershonite and Merarite cities complete the Levitical list, which then opens into the book's great fulfillment declaration. The same priestly language expands naturally into choir at the theological conclusion.
+
+CHUNK 33 | Joshua 22:1-9 | HOMECOMING FOLK HYMN
+"warm acoustic folk hymn, clear KJV diction, mature male lead, fingerpicked guitar, fiddle, gentle harmonica, upright bass, restrained chapel choir, 74 BPM, grateful homeward motion, affectionate blessing, natural unpolished warmth, dignified rather than sentimental, no vocal overlap"
+WHY: Joshua's commendation, blessing, and the tribes' wealthy return to Gilead form a complete homecoming movement. Its warmth makes the sudden altar crisis that follows genuinely disruptive.
+
+CHUNK 34 | Joshua 22:10-20 | TENSE COVENANT TRIP-HOP
+"tense sacred trip-hop, clear KJV diction, spoken-sung male delegation, low piano, bowed bass, dry frame drums, restrained low choir, 72 BPM, gathering pressure, grave pauses around Peor and Achan, dark but controlled mix, accusation without rage, open vocal midrange, no vocal overlap"
+WHY: The altar's discovery, Israel's preparation for war, and Phinehas's full accusation are one mounting case against apparent apostasy. Controlled tension keeps the moral stakes high without prejudging the answer.
+
+CHUNK 35 | Joshua 22:21-34 | RECONCILIATION CALL-AND-RESPONSE
+"acoustic sacred folk call-and-response, clear KJV diction, alternating male ensembles, fingerpicked guitar, warm cello, hand drum, restrained mixed choir, 74 BPM, earnest defense, gradual harmonic release as peace returns, bright but sober cadence on 'a witness between us', natural room sound, no vocal overlap"
+WHY: The eastern tribes' complete defense and the western tribes' acceptance form the answer to the preceding charge. Alternating ensembles clarify the dialogue and the harmony resolves only when communion is restored.
+
+CHUNK 36 | Joshua 23:1-16 | ELDER'S DEVOTIONAL FOLK
+"sparse devotional folk, clear KJV diction, weathered male baritone, fingerpicked acoustic guitar, warm cello, bowed bass, very light hand drum, distant chapel choir, 68 BPM, intimate elder's cadence, firm lift at 'be ye therefore very courageous', darkening harmony through the final warning, no vocal overlap"
+WHY: Joshua's retrospective, exhortation, promise, and warning are one continuous farewell address. A weathered voice and restrained arrangement allow the authority to come from the words rather than cinematic force.
+
+CHUNK 37 | Joshua 24:1-13 | COVENANT HISTORY PROCESSIONAL
+"cinematic sacred folk processional, clear KJV diction, male narrator, acoustic guitar, subtle mbira-like plucked pattern, hand drum, low cello, restrained choir, 74 BPM, cumulative historical motion, recurring grace motif under each divine act, widening orchestration at the gift of the land, no vocal overlap"
+WHY: The divine first-person history from Abraham through Egypt, wilderness, conquest, and gift of the land is a complete covenant recital. A recurring processional motif makes the many acts sound like one providential movement.
+
+CHUNK 38 | Joshua 24:14-33 | COVENANT RESPONSE AND CODA
+"acoustic sacred folk with restrained Black gospel call-and-response, clear KJV diction, male lead, piano, fingerpicked guitar, warm organ, hand drum, mixed choir, 74 BPM, disciplined congregational responses, strong but uncluttered rise at 'choose you this day', covenant-sealing cadence at the witness stone, then a sparse funeral coda with solo cello and distant choir, no vocal overlap"
+WHY: Joshua's choice, the people's repeated answer, covenant sealing, dismissal, and the three burials close both the assembly and the conquest generation. The communal response earns a gospel color; the arrangement then relinquishes it for a quiet funeral coda.
