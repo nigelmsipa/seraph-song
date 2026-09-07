@@ -1,0 +1,53 @@
+JOSHUA - COMPLETE CHUNK INDEX
+===============================
+38 chunks total, covering Joshua 1:1-24:33
+KJV word-for-word; underscores replace spaces for Suno.
+Absolute lyric limit: fewer than 5000 characters per chunk.
+Boundaries follow complete narrative, speech, list, or liturgical movements.
+
+CHUNK | REFERENCE | CHARACTERS | TITLE
+------|-----------|------------|------
+    1 | 1:1-18    |       3059 | The Commission: Be Strong and of a Good Courage
+    2 | 2:1-24    |       3927 | Rahab and the Scarlet Cord
+    3 | 3:1-17    |       2942 | The Jordan Stands in a Heap
+    4 | 4:1-24    |       3693 | Twelve Stones for the Children
+    5 | 5:1-15    |       2886 | Gilgal, Passover, and the Captain of the Host
+    6 | 6:1-27    |       4754 | The Fall of Jericho
+    7 | 7:1-15    |       2980 | The Hidden Sin and the Defeat at Ai
+    8 | 7:16-26   |       1900 | Achan Taken in the Valley of Achor
+    9 | 8:1-13    |       2184 | The Ambush Set Behind Ai
+   10 | 8:14-29   |       2795 | Ai Drawn Out and Taken
+   11 | 8:30-35   |       1223 | The Law Read on Mount Ebal
+   12 | 9:1-27    |       4183 | The Gibeonite Ruse and the Unbroken Oath
+   13 | 10:1-15   |       2743 | The Sun Stands Still over Gibeon
+   14 | 10:16-27  |       1920 | The Five Kings Brought from the Cave
+   15 | 10:28-43  |       2656 | The Southern Campaign
+   16 | 11:1-23   |       3847 | The Northern Coalition and the Rest of the Land
+   17 | 12:1-24   |       2563 | The Roll of the Defeated Kings
+   18 | 13:1-14   |       2167 | Much Land Remains and the Land beyond Jordan
+   19 | 13:15-33  |       2556 | The Inheritances of Reuben, Gad, and Half-Manasseh
+   20 | 14:1-15   |       2598 | Caleb: Give Me This Mountain
+   21 | 15:1-12   |       2308 | The Borders of Judah
+   22 | 15:13-19  |        948 | Caleb, Othniel, and the Springs of Water
+   23 | 15:20-63  |       2587 | The Cities of Judah
+   24 | 16:1-10   |       1421 | The Inheritance of Ephraim
+   25 | 17:1-18   |       3633 | Manasseh, Zelophehad's Daughters, and the Forest
+   26 | 18:1-10   |       1733 | Shiloh and the Survey of the Land
+   27 | 18:11-28  |       2542 | The Lot and Cities of Benjamin
+   28 | 19:1-31   |       3273 | Simeon, Zebulun, Issachar, and Asher
+   29 | 19:32-51  |       2275 | Naphtali, Dan, and Joshua's Inheritance
+   30 | 20:1-9    |       1675 | The Cities of Refuge
+   31 | 21:1-26   |       3363 | The Cities of the Priests and Kohathites
+   32 | 21:27-45  |       2234 | The Levitical Cities and the Promise Fulfilled
+   33 | 22:1-9    |       1788 | The Eastern Tribes Sent Home
+   34 | 22:10-20  |       2242 | The Altar and the Charge of Rebellion
+   35 | 22:21-34  |       2991 | The Altar Called Ed: A Witness
+   36 | 23:1-16   |       2942 | Joshua's Final Charge to the Leaders
+   37 | 24:1-13   |       2267 | From Beyond the Flood to the Promised Land
+   38 | 24:14-33  |       3145 | Choose This Day and the End of an Era
+
+BOOK MOVEMENT
+-------------
+Conquest and entry: Chunks 1-17 (Joshua 1:1-12:24)
+Division of the land: Chunks 18-32 (Joshua 13:1-21:45)
+Covenant and farewell: Chunks 33-38 (Joshua 22:1-24:33)
