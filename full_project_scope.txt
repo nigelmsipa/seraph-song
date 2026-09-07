@@ -12,7 +12,7 @@ BIBLE (KJV — word-for-word rendition):
 - Leviticus / Lev 3 (45 songs) — done
 - Numbers / Numbers 2 (43 songs) — done
 - Deuteronomy (88 songs in Deutronomy 2) — done but needs redo (style map v2 ready)
-- Joshua (1 song) — just started
+- Joshua (1 existing song; 38 staged KJV chunks ready for generation)
 
 THEOLOGY / DEVOTIONAL LITERATURE:
 - Steps to Christ (70 songs + Steps to Christ II 29 songs) — devotional
